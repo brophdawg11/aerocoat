@@ -1,6 +1,7 @@
 #!/bin/bash
 
 set -e # Exit with nonzero exit code if anything fails
+set -x
 
 SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
@@ -48,10 +49,13 @@ git add .
 git commit -m "Deploy to GitHub Pages: ${SHA}"
 
 # Get the deploy key by using Travis's stored variables to decrypt deploy_key.enc
-openssl aes-256-cbc -K $encrypted_3085f9acb42e_key -iv $encrypted_3085f9acb42e_iv -in travis-aerocoat.enc -out travis-aerocoat -d
+openssl aes-256-cbc -K $encrypted_3085f9acb42e_key -iv $encrypted_3085f9acb42e_iv -in ../travis-aerocoat.enc -out travis-aerocoat -d
 chmod 600 travis-aerocoat
 eval `ssh-agent -s`
 ssh-add travis-aerocoat
 
 # Now that we're all set up, we can push.
 git push $SSH_REPO $TARGET_BRANCH
+
+set +x
+
