@@ -1,0 +1,8 @@
+script: bash ./deploy.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: "3085f9acb42e"
+  - COMMIT_AUTHOR_EMAIL: "matt@brophy.org"
+language: node_js
+node_js:
+  - "6.9.1"
