@@ -1,0 +1,82 @@
+{{> header}}
+
+<!--======================== content ===========================-->
+<section id="content" class="colors-85285">
+  <div class="container_12">
+    <div class="wrapper m1">
+      <h3 class="grid_9">Mil-PRF-85285E Available Colors</h3>
+
+      <p class="grid_8">
+
+        Below you will find a partial list of 85285 colors that AeroCoat can custom mix and process for same or next day shipment. Our list is constantly growing so contact us if you do not see a particular color or finish, we will be happy to assist you.
+      </p>
+
+      <p class="grid_4 fright toggle">
+        Display by:
+        <span class="on" id="toggleManufacturer">Manufacturer</span> |
+        <span id="toggleType">Finish</span>
+        <br/>
+        <span class="expand-all">Expand All</span> |
+        <span class="collapse-all">Collapse All</span>
+      </p>
+
+      <br class="clear" />
+
+      <div class="group byManufacturer p10">
+        {{> category-products spec85285.byManufacturer}}
+      </div>
+
+      <div class="group byType p10">
+        {{> category-products spec85285.byType}}
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<script>
+  $(function() {
+
+    $('#toggleManufacturer').click(function () {
+      var $p = $(this);
+      $('#toggleType').removeClass('on');
+      $p.addClass('on');
+      $('.byType').hide();
+      $('.byManufacturer').show();
+    });
+
+    $('#toggleType').click(function () {
+      var $p = $(this);
+      $('#toggleManufacturer').removeClass('on');
+      $p.addClass('on');
+      $('.byManufacturer').hide();
+      $('.byType').show();
+    });
+
+    $('.category-container .expand').on('click', function (e) {
+      var $btn = $(this),
+          $span = $btn.find('span'),
+          $products = $btn.parents('.category-container').find('.products-container');
+
+      if ($products.is(':visible')) {
+        $span.html('+');
+        $products.slideUp();
+      } else {
+        $span.html('-');
+        $products.slideDown();
+      }
+    });
+
+    $('.expand-all').on('click', function (e) {
+      $('.products-container').slideDown();
+      $('.category-container .expand span').html('-');
+    });
+
+    $('.collapse-all').on('click', function (e) {
+      $('.products-container').slideUp();
+      $('.category-container .expand span').html('+');
+    });
+  });
+</script>
+
+{{> footer}}

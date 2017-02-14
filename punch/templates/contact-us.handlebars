@@ -1,0 +1,143 @@
+{{> header}}
+
+<section id="content">
+  <div class="container_12">
+    <div class="wrapper m1">
+      <article class="grid_4">
+        <h3>Contact Info</h3>
+        <div class="map box-img">
+          <iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=11+Morris+Avenue,+Maple+Shade,+NJ+08052&amp;aq=&amp;sll=39.945022,-75.174802&amp;sspn=0.014888,0.017381&amp;ie=UTF8&amp;hq=&amp;hnear=11+Morris+Ave,+Maple+Shade+Township,+New+Jersey+08052&amp;t=m&amp;ll=39.958504,-74.989672&amp;spn=0.019737,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed&amp;iwloc=near"></iframe>
+          <br />
+        </div>
+        <p class="p5">
+          <small>
+            <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=11+Morris+Avenue,+Maple+Shade,+NJ+08052&amp;aq=&amp;sll=39.945022,-75.174802&amp;sspn=0.014888,0.017381&amp;ie=UTF8&amp;hq=&amp;hnear=11+Morris+Ave,+Maple+Shade+Township,+New+Jersey+08052&amp;t=m&amp;ll=39.958504,-74.989672&amp;spn=0.019737,0.025749&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">
+              View Larger Map
+            </a>
+          </small>
+        </p>
+        <h5>AeroCoat Source, LLC</h5>
+        <dl class="address">
+          <dt>
+            11 Morris Avenue <br/>
+            Maple Shade, NJ 08052
+          </dt>
+          <dd> <span>Telephone:</span> (856) 428-8145</dd>
+          <dd> <span>Fax:</span>  (856) 428-4713</dd>
+        </dl>
+      </article>
+      <article class="grid_6">
+        <h3>Get in Touch</h3>
+        <form id="contact-form" method="POST" action="//formspree.io/jesse.creek@aerocoat.com">
+          <div class="success"> Contact form submitted!
+            <strong>We will be in touch soon.</strong>
+          </div>
+          <fieldset>
+            <label class="name">
+              <p>Name</p>
+              <input type="text" name="name" placeholder="Name" required="required">
+              <span class="empty">* Please enter your name.</span>
+            </label>
+            <label class="email">
+              <p>Email</p>
+              <input type="email" name="email" placeholder="E-mail" required="required">
+              <span class="error">* This is not a valid email address.</span>
+              <span class="empty">* Please enter your email address.</span>
+            </label>
+            <label class="phone">
+              <p>Phone</p>
+              <input type="tel" name="phone" placeholder="Phone" required="required">
+              <span class="empty">* Please enter your phone number.</span>
+            </label>
+            <label class="company">
+              <p>Company</p>
+              <input type="text" name="company" placeholder="Company">
+            </label>
+            <label class="message">
+              <p>Message</p>
+              <textarea name="message" required="required"></textarea>
+              <span class="empty">* Please enter a message.</span>
+            </label>
+            <div class="clear"></div>
+            <div class="buttons-wrapper">
+              <input type="hidden" name="_next" value="//www.brophy.org/aerocoat/thank-you.html" />
+              <input type="button" class="button clearBtn" value="Clear" />
+              <input type="submit" class="button submitBtn" value="Submit" />
+            </div>
+          </fieldset>
+        </form>
+
+      </article>
+    </div>
+  </div>
+</section>
+
+<script>
+  $(function () {
+
+    function validateAddress(email) {
+      var regex = /^.+@.+\.[a-z]{2,4}$/i;
+      return _.isString(email) && regex.test(email);
+    }
+
+    // Polyfills
+    if (!String.prototype.trim) {
+      String.prototype.trim = function () {
+        return this.replace(/^\s+|\s+$/g, '');
+      };
+    }
+
+    $('input.clearBtn').on('click', function (e) {
+      var $name = $('input[name=name]'),
+          $email = $('input[name=email]'),
+          $phone = $('input[name=phone]'),
+          $message = $('textarea');
+
+      $name.val('');
+      $email.val('');
+      $phone.val('');
+      $message.val('');
+    });
+
+    $('input.submitBtn').on('click', function (e) {
+      var $submit = $('input.submitBtn'),
+          $name = $('input[name=name]'),
+          $email = $('input[name=email]'),
+          $phone = $('input[name=phone]'),
+          $message = $('textarea'),
+          foundError = false;
+
+      $('#contact-form').find('.empty, .error').hide();
+
+      if ($name.val().trim() === '') {
+        $name.parent().find('.empty').show();
+        foundError = true;
+      }
+
+      if ($email.val().trim() === '') {
+        $email.parent().find('.empty').show();
+        foundError = true;
+      } else if (!validateAddress($email.val().trim())) {
+        $email.parent().find('.error').show();
+        foundError = true;
+      }
+
+      if ($phone.val().trim() === '') {
+        $phone.parent().find('.empty').show();
+        foundError = true;
+      }
+
+      if ($message.val().trim() === '') {
+        $message.parent().find('.empty').show();
+        foundError = true;
+      }
+
+      if (foundError) {
+        e.preventDefault();
+        e.stopPropagation();
+        return false;
+      }
+    })
+  });
+</script>
+{{> footer}}

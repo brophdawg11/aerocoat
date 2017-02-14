@@ -1,0 +1,46 @@
+{{> header}}
+
+<!--======================== content ===========================-->
+<section id="content" class="search-page">
+  <div class="container_12">
+    <div class="wrapper m1">
+      <article class="results grid_12">
+        <h3>Search results for <span class="search-text"></span></h3>
+        <div>
+          <h4>Stocked Products</h4>
+          <p class="loading">Loading...</p>
+          <p class="no-results">No search results found</p>
+          <ul class="stocked"></ul>
+
+        <div>
+          <h4>85285 Colors</h4>
+          <p class="loading">Loading...</p>
+          <p class="no-results">No search results found</p>
+          <ul class="spec85285"></ul>
+        </div>
+
+        <div>
+          <h4>Eclipse Colors</h4>
+          <p class="loading">Loading...</p>
+          <p class="no-results">No search results found</p>
+          <ul class="eclipse"></ul>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<script>
+  $(function () {
+    var search = decodeURIComponent(window.location.search.replace(/^\?/, ''));
+    Aero.log('Searching for ' + search);
+    Aero.prepSearchObject();
+    $('.search-text').append('"' + search + '"');
+    Aero.prepSearchObjectDfd.then(function () {
+      $('.search-page .loading').hide();
+      Aero.renderSearchResults($('.search-page .results'), search);
+    })
+  });
+</script>
+
+{{> footer}}

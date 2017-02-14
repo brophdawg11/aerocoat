@@ -1,0 +1,15 @@
+<li class="product">
+  <span class="name">{{name}}</span>
+  {{#if desc}}<span class="desc"> - {{desc}}</span>{{/if}}
+  {{#unless shareGroupFiles}}
+    <br/>
+    <a href="{{file}}">Technical Data Sheet</a>
+    <br/>
+    {{#if components}}
+      <span class="msds">MSDS:</span>
+      {{#each components}}
+        <a href="{{file}}" class="component">{{name}}</a>{{#unless @last}},{{/unless}}
+      {{/each}}
+    {{/if}}
+  {{/unless}}
+</li>

@@ -1,0 +1,43 @@
+{
+  "name": "aerocoat",
+  "version": "0.0.0",
+  "description": "Aerocoat Web Site",
+  "main": "gen-json.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cheerio": "~0.13.1",
+    "connect": "2.12.0",
+    "csv-parse": "0.0.9",
+    "express": "~4.11.0",
+    "fs-extra": "~0.14.0",
+    "glob": "~4.3.5",
+    "less": "1.6.3",
+    "lodash": "~2.4.1",
+    "minimist": "~1.1.0",
+    "punch": "0.5.44",
+    "punch-engine-handlebars": "0.0.2"
+  },
+  "scripts": {
+    "clean": "rm -rf ../output/*",
+    "csv:stocked-products": "node scripts/gen-json.js --file spreadsheets/stocked-products.csv --colWidth 6 --outFile contents/_shared/stockedProducts.json --outFile2 templates/json/stockedProducts.json",
+    "csv:spec-85285": "node scripts/gen-json.js --file spreadsheets/spec85285.csv --colWidth 6 --shareGroupFiles --productGrouping half --outFile contents/_shared/spec85285.json --outFile2 templates/json/spec85285.json",
+    "csv:eclipse": "node scripts/gen-json.js --file spreadsheets/eclipse.csv --colWidth 12 --shareGroupFiles --productGrouping third --outFile contents/_shared/eclipse.json --outFile2 templates/json/eclipse.json",
+    "csv": "npm run csv:stocked-products && npm run csv:spec-85285 && npm run csv:eclipse",
+    "generate": "punch generate",
+    "serve": "punch server",
+    "serve-output": "node scripts/web-server.js",
+    "sync-test": "node scripts/copy-robots.js && aws --profile aerocoat s3 sync output/. s3://test.aerocoat.com/ --exclude \"*Suppliers*\" --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers && node scripts/delete-robots.js",
+    "sync": "aws --profile aerocoat s3 sync output/. s3://www.aerocoat.com/ --exclude \"*Suppliers*\" --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers",
+    "build": "npm run clean && npm run csv && npm run generate"
+  },
+  "author": "Matt Brophy <matt@brophy.org> (http://www.brophy.org/)",
+  "license": "Closed",
+  "repository": {
+    "type": "git",
+    "url": "https://brophdawg11@bitbucket.org/brophdawg11/aerocoat.git"
+  },
+  "keywords": [
+    "aerocoat",
+    "paint"
+  ]
+}

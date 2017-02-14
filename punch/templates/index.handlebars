@@ -1,0 +1,122 @@
+{{> header}}
+
+<!--======================== content ===========================-->
+<section id="content" class="index">
+  <div class="container_12">
+    <div class="wrapper m1">
+      <article class="grid_8">
+        <div class="wrapper">
+          <div class="overflow">
+            <h2 class="m2">Your Source for Aerospace Primers and Topcoats</h2>
+            <h3>Distributor Specializing in Aircraft Coatings</h3>
+          </div>
+
+          <p class="p5">
+            Count on nearly 30 years experience in the aircraft coatings business from the professionals at AeroCoat Source for all of your general aviation, military aviation, and commercial aviation Aerospace Coatings needs. From our warehouse based in Maple Shade, New Jersey, this woman-owned business can supply:
+          </p>
+
+          <ul class="list-1 m3">
+            <li>Akzo Nobel QPL'd colors to mil-spec Mil-PRF-85285E, Type I Polyurethane Topcoat</li>
+            <li>Hentzen products to the Army's CARC specifications</li>
+            <li>Deft specialty aerospace primers and 03 series topcoats</li>
+            <li>Akzo Nobel Boeing Aircraft Eclipse® commercial aviation coatings and much, much more!</li>
+          </ul>
+
+          <p>
+            We can ship over 5,000 products on a next-day basis and we provide compliant paperwork free-of-charge. We ship nationwide, by all forms of shipping, including FedEx™ Air, UPS™Ground, LTL freight, and Will-Call at our Maple Shade, NJ warehouse. See our listing of <a href="stocked-products.html">Stocked Products</a>.
+          </p>
+
+          <p>
+            We have no required minimums.  So <a href="contact-us.html">contact us</a> to place your order today or to get our best recommendation of where to source your hard-to-find aerospace and mil-spec products.
+          </p>
+
+          <p>
+            <strong>
+              Call us for a no obligation quote or for sourcing recommendations, at <a href="tel:8564288145">(856) 428-8145</a>
+            </strong>
+          </p>
+
+          <p>
+            <strong>Hours of Operation:</strong>
+            <br/>
+            Monday - Friday, 8 a.m. - 5 p.m., EST.
+            &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+            Closed Saturday/Sunday
+          </p>
+
+          <p>
+            <img src="http://assets.myregisteredsite.com/images/payopt/v2/discoverlogo.gif" alt="">
+            <img src="http://assets.myregisteredsite.com/images/payopt/v2/mclogo.gif" alt="">
+            <img src="http://assets.myregisteredsite.com/images/payopt/v2/visalogo.gif" alt="">
+            <img src="http://assets.myregisteredsite.com/images/payopt/v2/amex.gif" alt="">
+          </p>
+
+          <div id="fb-root"></div>
+          <script src="http://connect.facebook.net/en_US/all.js#appId=117080145047393&xfbml=1"></script>
+          <fb:like class="p15" send="true" show_faces="false" font="arial" width="450" href="https://www.facebook.com/#!/pages/AeroCoat-Source-LLC/176448095740479"></fb:like>
+
+          <div class="exterior">
+            <figure class="box-img">
+              <img src="images/exterior.png" alt="Building Exterior" />
+            </figure>
+          </div>
+
+        </div>
+
+        <article class="grid_4 alpha text-center hide-desktop">
+          <div class="box-slider">
+            <div class="flexslider">
+              <ul class="slides">
+                {{#slideshow}}
+                  <li><img src="{{.}}" alt="" /></li>
+                {{/slideshow}}
+              </ul>
+            </div>
+          </div>
+        </article>
+
+      </article>
+
+      <article class="grid_4 text-center hide-mobile">
+        <div class="box-slider">
+          <div class="flexslider">
+            <ul class="slides">
+              {{#slideshow}}
+                <li><img src="{{.}}" alt="" /></li>
+              {{/slideshow}}
+            </ul>
+          </div>
+        </div>
+        <h3 class="p20 black">ISO Certified!</h3>
+        <figure class="box-img">
+          <img src="images/wcs-2016.png" alt="" />
+        </figure>
+
+        <p class="certified">
+          AeroCoat Source is proud to announce that it is now an ISO 9001:2008 &amp; AS 9100:Rev.C Certified Company!
+          <br/>
+          <br/>
+          <a href="resources/aerocoat-wcs-certificate-2016.pdf">Click here to download our certificate</a>
+        </p>
+
+        {{> constantcontact}}
+
+      </article>
+    </div>
+  </div>
+</section>
+
+<script>
+  $(window).load(function() {
+    $('.flexslider').flexslider({
+      animation: "slide",
+      slideshow: true,
+      slideshowSpeed: 5000,
+      animationDuration: 500,
+      prevText: "",
+      nextText: ""
+    });
+  });
+</script>
+
+{{> footer}}

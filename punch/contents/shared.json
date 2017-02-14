@@ -1,0 +1,11 @@
+{
+	"site-title": "Welcome!",
+  "navbar": [
+    { "name": "Home", "href": "index.html" },
+    { "name": "Company", "href": "company.html" },
+    { "name": "Stocked Products", "href": "stocked-products.html" },
+    { "name": "85285 Colors", "href": "85285-colors.html" },
+    { "name": "Eclipse Colors", "href": "eclipse-colors.html" },
+    { "name": "Contact Us", "href": "contact-us.html" }
+  ]
+}

@@ -3,10 +3,11 @@
 set -e  ## Exit if anything goes wrong
 set -x  ## Print commands to stdout
 
-if [ ! -d "output" ]; then
-    mkdir output
-fi
-
-cp index.html output/
+cd punch
+npm install
+npm run clean
+npm run csv
+npm run generate
+cd ..
 
 set +x  ## Stop printing commands to stdout

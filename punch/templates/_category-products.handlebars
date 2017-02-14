@@ -1,0 +1,59 @@
+{{#each .}}
+    {{#each .}}{{#if @first}}
+      <article class="grid_{{colWidth}}">
+    {{/if}}{{/each}}
+    {{#each .}}
+      <div class="category-container clearfix">
+        <!--<div class="category-logo {{category}}"></div>-->
+        <h3 class="category-name">
+          {{category}}
+          <button class="expand">
+            <span>-</span>
+          </button>
+        </h3>
+        <div class="products-container">
+          {{#each groups}}
+            {{#if group}}
+              <h4 class="group-name">{{group}}</h4>
+            {{/if}}
+
+            {{#if shareGroupFiles}}
+              {{#each products}}{{#if @first}}
+                <p class="group-file-links">
+                  <a href="{{file}}">Technical Data Sheet</a>
+                  {{#if components}}
+                    <span class="msds">, MSDS:</span>
+                    {{#each components}}
+                      <a href="{{file}}" class="component">{{name}}</a>{{#unless @last}},{{/unless}}
+                    {{/each}}
+                  {{/if}}
+                </p>
+              {{/if}}{{/each}}
+            {{/if}}
+
+            {{#if useThirds}}
+              {{#groupedByThirds products}}
+                <ul class="list-1 third">
+                  {{> products .}}
+                </ul>
+              {{/groupedByThirds}}
+            {{else}}
+              {{#if useHalves}}
+                {{#groupedByHalf products}}
+                  <ul class="list-1 half">
+                    {{> products .}}
+                  </ul>
+                {{/groupedByHalf}}
+              {{else}}
+                <ul class="list-1">
+                  {{> products products}}
+                </ul>
+              {{/if}}
+            {{/if}}
+
+          {{/each}}
+        </div>
+      </div>
+    {{/each}}
+  </article>
+{{/each}}
