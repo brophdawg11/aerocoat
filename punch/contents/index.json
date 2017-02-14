@@ -2,10 +2,10 @@
   "pageHref": "index.html",
   "title": "AeroCoat Source, LLC",
   "slideshow" : [
-    "/images/istock/tank.jpg",
-    "/images/istock/buckets.jpg",
-    "/images/istock/fighter-jet.jpg",
-    "/images/istock/color-guide.jpg",
-    "/images/istock/commercial-jet.jpg"
+    "images/istock/tank.jpg",
+    "images/istock/buckets.jpg",
+    "images/istock/fighter-jet.jpg",
+    "images/istock/color-guide.jpg",
+    "images/istock/commercial-jet.jpg"
   ]
 }
