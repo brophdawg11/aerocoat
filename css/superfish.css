@@ -1,0 +1,162 @@
+nav{float:left;position:relative}
+nav:after{background:#1a1a1a;width:1px;height:100%;border:none;display:inline-block;content:"";position:absolute;right:-1px;top:0}
+.sf-menu {list-style:none;}
+.sf-menu a{color:#fff;	
+	-webkit-transition: background 0.3s ease;
+-moz-transition: background 0.3s ease;
+-o-transition: background 0.3s ease;
+transition: background 0.3s ease	}
+
+
+.sf-menu > li {
+	position:relative;
+	float:left;
+border-left:1px solid #1a1a1a;
+	border-right:1px solid #444343;	
+}
+
+
+
+	
+	
+		
+	.sf-menu > li > a {
+		color:#fff;
+		padding:31px 44px 32px ;
+		display:block;
+		z-index:10;
+		position:relative;
+		font-family: 'Oswald', sans-serif;font-size:18px;line-height:22px;text-transform:none;
+		border-top:1px solid transparent
+
+		}
+	
+		.sf-menu > li.sfHover > a,.sf-menu > li:hover > a, .sf-menu > li.current > a  {background:#212121;text-decoration:none;
+		     box-shadow: 1px 1px 3px #1a1a1a inset;
+	-moz-box-shadow: 1px 1px 3px #1a1a1a inset;
+	-webkit-box-shadow: 1px 1px 3px #1a1a1a inset;
+		border-top:1px solid #252525
+		}
+		
+		
+
+		.sf-menu > li > a span.arrow{display:block; width:100%; height:6px; position:absolute; top:61px; left:0; background:url(../images/menu-arrow.gif) center top no-repeat;}
+/***submenu***/
+.sf-menu ul {
+	position:absolute;
+	top:-999em;
+	z-index:99;
+	width:155px;                                                                                            
+	display:none;
+	padding:22px 0 24px;
+	background:#383838;
+	  text-align:center;border-top:2px solid #8bce02
+}
+.sf-menu li li{
+	width:100%;
+	padding:0;
+	position:relative;
+  
+
+}
+
+.sf-menu ul ul{border:none;background:#606060}
+
+	.sf-menu li li a{font-size:12px;line-height:16px;text-transform:uppercase;
+		display:block;	
+		padding:7px 0;		
+		background:none;
+        font-family:Arial, Helvetica, sans-serif;display:block;
+	}
+		.sf-menu li li > a:hover,.sf-menu li li.sfHover > a{text-decoration:none; background:#212121}
+		.sf-menu li li li > a:hover{text-decoration:none; background:#212121}
+.sf-menu li:hover ul,
+.sf-menu li.sfHover ul {
+	left:-1px;
+	top:86px;
+}
+ul.sf-menu li:hover li ul,
+ul.sf-menu li.sfHover li ul {
+	top:-999em;
+}
+/***subsubmenu***/
+
+
+ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover ul {
+	left:156px;
+	top:-22px;
+}
+ul.sf-menu li li:hover li ul,
+ul.sf-menu li li.sfHover li ul {
+	top:-999em;
+}
+
+/* Design for a width of 768px */
+@media only screen and (max-width: 995px){
+	.sf-menu > li > a { 
+    padding: 32px 28px 32px
+
+}
+
+
+}
+@media only screen and (max-width: 767px) {
+	.main{width:420px}
+    .sf-menu{float:none;}
+	.sf-menu > li:first-child{border-top:none}
+	.sf-menu .sf-sub-indicator {
+		text-indent: -999em;
+		width: 9px;
+		height: 5px;
+		display:inline-block;
+		background: url(../images/indicator.png) no-repeat;
+		position:relative;
+		left:50%;
+		top:50px;margin-left:-5px;position:absolute
+	}
+	.sf-menu > li li > a > .sf-sub-indicator {
+		top:23px
+	}	
+	.sf-menu ul,.sf-menu ul ul {min-width:100%; position: relative; left: 0 !important; top:0px !important; padding:0;}
+	
+	nav {
+		width:100%;
+		float:none;
+	}
+	.sf-menu > li{width:100%;text-align:center;border-top:1px solid #1a1a1a;
+	border-bottom:1px solid #403f3f;
+	       float:none;}
+	.sf-menu > li> a{display:block;			
+	padding: 24px 0 25px ;text-align:center;
+	}	
+
+.sf-menu > li.sfHover > a,.sf-menu > li:hover > a, .sf-menu > li.current > a  {
+	background:#212121;text-decoration:none;
+     box-shadow: 0px 0px 3px 2px #1a1a1a inset;
+	-moz-box-shadow: 0px 0px 3px 2px #1a1a1a inset;
+	-webkit-box-shadow: 0px 0px 3px 2px #1a1a1a inset;
+	
+		
+		}
+
+	/***submenu***/
+	.sf-menu ul {position:static; width:100%;}	
+	/***subsubmenu***/
+	ul.sf-menu ul ul{width:100%; }
+	ul.sf-menu ul ul li{float:none; width:100%;text-align:center}
+	
+
+}
+
+/* Design for a width of 480px and 320px*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+
+
+
+
+
+
+
+
