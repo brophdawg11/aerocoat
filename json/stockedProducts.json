@@ -1000,6 +1000,21 @@
                 "type": "53039",
                 "shareGroupFiles": false,
                 "group": "Mil-DTL-53039E Type IV and/or Type IX (formerly Type I) available in the following colors:"
+              },
+              {
+                "name": "Test Product 2",
+                "desc": "Test Desc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/8620wua-ulvoc - tb.doc",
+                "components": [
+                  {
+                    "name": "08620wua-ulvoc",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/08620WUA-ULVOC.PDF"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "53039",
+                "shareGroupFiles": false,
+                "group": "Mil-DTL-53039E Type IV and/or Type IX (formerly Type I) available in the following colors:"
               }
             ]
           },
@@ -1595,7 +1610,7 @@
             ]
           }
         ],
-        "numProducts": 47
+        "numProducts": 48
       },
       {
         "category": "Miscellaneous",
@@ -3117,11 +3132,26 @@
                 "type": "53039",
                 "shareGroupFiles": false,
                 "group": "Mil-DTL-53039E Type IV and/or Type IX (formerly Type I) available in the following colors:"
+              },
+              {
+                "name": "Test Product 2",
+                "desc": "Test Desc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/8620wua-ulvoc - tb.doc",
+                "components": [
+                  {
+                    "name": "08620wua-ulvoc",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/08620WUA-ULVOC.PDF"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "53039",
+                "shareGroupFiles": false,
+                "group": "Mil-DTL-53039E Type IV and/or Type IX (formerly Type I) available in the following colors:"
               }
             ]
           }
         ],
-        "numProducts": 13
+        "numProducts": 14
       },
       {
         "category": "85582",
