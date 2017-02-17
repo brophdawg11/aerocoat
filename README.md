@@ -21,5 +21,5 @@ Aerocoat.com website
   * Make sure only `master` is checked and proceed
 * The new product should be visible on the website within a few minutes
 
-Changelog
-- Added test product
+### PI/MSDS Files
+* Live in `aerocoat.com/punch/templates`
