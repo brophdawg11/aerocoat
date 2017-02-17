@@ -1,6 +1,7 @@
 const contentful = require('contentful'),
     Resentful = require('resentful'),
     constants = require('./constants'),
+    utils = require('./utils'),
     resentful = new Resentful(),
     client = createClient(),
     _ = require('lodash'),
@@ -10,6 +11,7 @@ const contentful = require('contentful'),
         loadContentTypes,
         loadPageGroupings,
         loadAssets,
+        loadComponents,
     };
 
 resentful.registerMappers(
@@ -29,6 +31,7 @@ function loadAllExistingData() {
         loadContent.loadSubGroups(),
         loadContent.loadPageGroupings(),
         loadContent.loadAssets(),
+        loadContent.loadComponents(),
     ];
     return Promise.all(promises)
                   .then((results) => {
@@ -37,12 +40,21 @@ function loadAllExistingData() {
                           subGroups: results[1],
                           pageGroupings: results[2],
                           assets: results[3],
+                          components: results[4],
                       };
                   })
                   .then((data) => {
                       console.log('Loaded existing data', str(data));
                       return data;
                   });
+}
+
+function loadComponents() {
+    return client.getEntries({ content_type: constants.contentTypes.component })
+                 .then((response) => {
+                     console.log('\n\ncomponents response', response);
+                     return resentful.reduceSingle(_.get(response, 'items'));
+                 });
 }
 
 function loadSubGroups() {
