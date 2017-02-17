@@ -1,7 +1,7 @@
 var express = require('express'),
     path = require('path'),
     app = express(),
-    dir = path.join(__dirname, '..', 'output/'),
+    dir = path.join(__dirname, '..', '..', 'output/'),
     port = 8000;
 
 console.log('Starting web server at ' + dir);
