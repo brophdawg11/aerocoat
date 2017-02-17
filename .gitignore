@@ -4,3 +4,4 @@ node_modules
 output
 punch/contents/_shared/*.json
 punch/templates/json/*.json
+contentful/files/All Suppliers -TB and MSDS
