@@ -1,2 +1,0 @@
-# aerocoat
-Aerocoat.com website
