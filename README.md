@@ -20,3 +20,6 @@ Aerocoat.com website
   * Click `Push`
   * Make sure only `master` is checked and proceed
 * The new product should be visible on the website within a few minutes
+
+Changelog
+- Added test product
