@@ -1,0 +1,55 @@
+{
+    "displayField": "name",
+    "name": "Page Grouping",
+    "description": "A top-level grouping for a given page",
+    "fields": [{
+        "id": "name",
+        "name": "Name",
+        "type": "Symbol",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false
+    }, {
+        "id": "title",
+        "name": "Title",
+        "type": "Symbol",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false
+    }, {
+        "id": "page",
+        "name": "Page",
+        "type": "Symbol",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false
+    }, {
+        "id": "technicalDataSheet",
+        "name": "Technical Data Sheet",
+        "type": "Link",
+        "localized": false,
+        "required": false,
+        "disabled": false,
+        "omitted": false,
+        "linkType": "Asset"
+    }, {
+        "id": "groupWidth",
+        "name": "Group Width",
+        "type": "Symbol",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false
+    }, {
+        "id": "columns",
+        "name": "Columns",
+        "type": "Integer",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false
+    }]
+}

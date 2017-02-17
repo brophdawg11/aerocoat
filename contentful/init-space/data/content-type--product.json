@@ -1,0 +1,91 @@
+{
+    "displayField": "name",
+    "name": "Product",
+    "description": "A Product to be displayed on the site",
+    "fields": [{
+        "id": "name",
+        "name": "Name",
+        "type": "Symbol",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false
+    },
+    {
+        "id": "description",
+        "name": "Description",
+        "type": "Symbol",
+        "localized": false,
+        "required": false,
+        "disabled": false,
+        "omitted": false
+    },{
+        "id": "technicalDataSheet",
+        "name": "Technical Data Sheet",
+        "type": "Link",
+        "localized": false,
+        "required": false,
+        "disabled": false,
+        "omitted": false,
+        "linkType": "Asset"
+    }, {
+        "id": "components",
+        "name": "Components",
+        "type": "Array",
+        "localized": false,
+        "required": false,
+        "disabled": false,
+        "omitted": false,
+        "items": {
+            "type": "Link",
+            "linkType": "Entry",
+            "validations": [{
+                "linkContentType": [
+                    "component"
+                ]
+            }]
+        }
+    }, {
+        "id": "primaryGroup",
+        "name": "Primary Group",
+        "type": "Link",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false,
+        "linkType": "Entry",
+        "validations": [{
+            "linkContentType": [
+                "pageGrouping"
+            ]
+        }]
+    }, {
+        "id": "secondaryGroup",
+        "name": "Secondary Group",
+        "type": "Link",
+        "localized": false,
+        "required": false,
+        "disabled": false,
+        "omitted": false,
+        "linkType": "Entry",
+        "validations": [{
+            "linkContentType": [
+                "pageGrouping"
+            ]
+        }]
+    }, {
+        "id": "subGroup",
+        "name": "Sub Group",
+        "type": "Link",
+        "localized": false,
+        "required": false,
+        "disabled": false,
+        "omitted": false,
+        "linkType": "Entry",
+        "validations": [{
+            "linkContentType": [
+                "subGroup"
+            ]
+        }]
+    }]
+}

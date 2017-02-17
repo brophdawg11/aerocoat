@@ -1,0 +1,22 @@
+{
+    "displayField": "name",
+    "name": "Sub Group",
+    "description": "Sub group in which to display the product",
+    "fields": [{
+        "id": "name",
+        "name": "Name",
+        "type": "Symbol",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false
+    }, {
+        "id": "description",
+        "name": "Description",
+        "type": "Symbol",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false
+    }]
+}

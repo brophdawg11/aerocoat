@@ -1,0 +1,23 @@
+{
+    "displayField": "name",
+    "name": "Component",
+    "description": "A individual component of a product",
+    "fields": [{
+        "id": "name",
+        "name": "Name",
+        "type": "Symbol",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false
+    }, {
+        "id": "msds",
+        "name": "MSDS file",
+        "type": "Link",
+        "localized": false,
+        "required": true,
+        "disabled": false,
+        "omitted": false,
+        "linkType": "Asset"
+    }]
+}

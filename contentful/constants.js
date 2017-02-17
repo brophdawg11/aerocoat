@@ -6,6 +6,11 @@ module.exports = {
         component: 'component',
         pageGrouping: 'pageGrouping',
         product: 'product',
-        subGroup: 'subGroup'
-    }
+        subGroup: 'subGroup',
+    },
+    pages: {
+        stockedProducts: 'Stocked Products',
+        spec85285: '85285 Colors',
+        eclipse: 'Eclipse Colors',
+    },
 };
