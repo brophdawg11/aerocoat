@@ -40,13 +40,11 @@ function getGlobalData() {
     const components = getNestedComponents(products);
     const subGroups = getSubGroups(products);
     const pageGroupings = getPageGroupings();
+    const piFiles = getFiles(products);
+    const msdsFiles = getFiles(components);
 
     // We want products to be unique, so de-dup based on name/description
     const uniqueProducts = uniqifyProducts(_.cloneDeep(products));
-
-    console.log('Got products', products.length);
-    console.log('Got components', components.length);
-    console.log('Got groups', subGroups.length);
 
     return {
         components,
@@ -54,6 +52,8 @@ function getGlobalData() {
         uniqueProducts,
         subGroups,
         pageGroupings,
+        piFiles,
+        msdsFiles
     };
 }
 
@@ -154,16 +154,8 @@ function getPageGroupings() {
     ]);
 }
 
-function getPiFiles(products) {
-    return _(products)
-            .map('file')
-            .compact()
-            .uniq()
-            .value();
-}
-
-function getMsdsFiles(components) {
-    return _(components)
+function getFiles(productsOrComponents) {
+    return _(productsOrComponents)
             .map('file')
             .compact()
             .uniq()
@@ -224,8 +216,7 @@ module.exports = {
     getSubGroups,
     getPageGroupings,
     uniqifyProducts,
-    getPiFiles,
-    getMsdsFiles,
+    getFiles,
     getFileSize,
 
     delay,
