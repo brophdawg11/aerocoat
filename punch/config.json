@@ -1,21 +1,21 @@
 {
-	"template_dir": "templates",
-	"content_dir": "contents",
-	"output_dir": "../output",
+  "template_dir": "templates",
+  "content_dir": "contents",
+  "output_dir": "../output",
 
-	"server": {
-		"port": 9009
-	},
+  "server": {
+    "port": 9009
+  },
 
-	"bundles": {
-		"css/all.css": [
-			"css/reset.css",
-			"css/skeleton.css",
+  "bundles": {
+    "css/all.css": [
+      "css/reset.css",
+      "css/skeleton.css",
       "css/forms.css",
       "css/flexslider.css",
       "css/style.less"
-		]
-	},
+    ]
+  },
 
   "plugins": {
     "template_engine": "punch-engine-handlebars",

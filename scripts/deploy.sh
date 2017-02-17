@@ -32,7 +32,7 @@ cd ..
 rm -rf $OUTPUT_DIR/**/* || exit 0
 
 # Run our build script
-./build.sh
+./scripts/build.sh
 
 # Now let's go have some fun with the cloned repo
 cd $OUTPUT_DIR

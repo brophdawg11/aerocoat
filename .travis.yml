@@ -1,4 +1,4 @@
-script: bash ./deploy.sh
+script: bash ./scripts/deploy.sh
 env:
   global:
   - ENCRYPTION_LABEL: "3085f9acb42e"

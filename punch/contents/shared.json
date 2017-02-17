@@ -1,5 +1,5 @@
 {
-	"site-title": "Welcome!",
+  "site-title": "Welcome!",
   "navbar": [
     { "name": "Home", "href": "index.html" },
     { "name": "Company", "href": "company.html" },
