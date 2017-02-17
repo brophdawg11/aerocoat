@@ -33,9 +33,9 @@ function getSpace() {
 function getGlobalData() {
     // Grab all of the nested products, components, and subgroups
     const products = _.flatten([
-        getNestedProducts(stockedProducts),
-        getNestedProducts(spec85285Products),
-        getNestedProducts(eclipseProducts),
+        getNestedProducts(stockedProducts, constants.pages.stockedProducts),
+        getNestedProducts(spec85285Products, constants.pages.spec85285),
+        getNestedProducts(eclipseProducts, constants.pages.eclipse),
     ]);
     const components = getNestedComponents(products);
     const subGroups = getSubGroups(products);
@@ -57,15 +57,71 @@ function getGlobalData() {
     };
 }
 
-function getNestedProducts(productData) {
-    return _(productData.byManufacturer)
-            .flatMap()
-            .map('groups')
-            .flatten()
-            .map('products')
-            .tap(uniqifyProducts)
-            .flatten()
-            .value();
+function getNestedProducts(productData, page) {
+    // Extend products with proper primary pageGrouping
+    _.each(productData.byManufacturer, (column, i) => {
+        _.each(column, (mfg, j) => {
+            _.each(mfg.groups, (subGroup, k) => {
+                _.each(subGroup.products, (product, l) => {
+                    if (page === constants.pages.stockedProducts) {
+                        product.primaryGroup =
+                            `Stocked Products - Manufacturer - ${mfg.category}`;
+                    } else if (page === constants.pages.spec85285) {
+                        product.primaryGroup =
+                            `85285 Colors - Manufacturer - ${mfg.category}`;
+                    } else if (page === constants.pages.spec85285) {
+                        product.primaryGroup = `Eclipse Colors`;
+                    }
+                });
+            });
+        });
+    });
+
+    // Extend products with proper secondary pageGrouping
+    _.each(productData.byType, (column, i) => {
+        _.each(column, (mfg, j) => {
+            _.each(mfg.groups, (subGroup, k) => {
+                _.each(subGroup.products, (product, l) => {
+                    if (page === constants.pages.stockedProducts) {
+                        product.secondaryGroup =
+                            `Stocked Products - Mil-spec - ${mfg.category}`;
+                    } else if (page === constants.pages.spec85285) {
+                        product.secondaryGroup =
+                            `85285 Colors - Finish - ${mfg.category}`;
+                    }
+                });
+            });
+        });
+    });
+
+    const typeProducts = _(productData.byType)
+                          .flatMap()
+                          .map('groups')
+                          .flatten()
+                          .map('products')
+                          .tap(uniqifyProducts)
+                          .flatten()
+                          .value();
+
+    const mfgProducts = _(productData.byManufacturer)
+                         .flatMap()
+                         .map('groups')
+                         .flatten()
+                         .map('products')
+                         .tap(uniqifyProducts)
+                         .flatten()
+                         .value();
+
+    // Copy secondaryGrouping onto primary product
+    _.each(mfgProducts, (p) => {
+        var typeProduct = _.find(typeProducts, {
+            name: p.name,
+            desc: p.desc,
+        });
+        _.extend(p, _.pick(typeProduct, 'secondaryGroup'));
+    })
+
+    return mfgProducts;
 }
 
 function uniqifyProducts(products) {

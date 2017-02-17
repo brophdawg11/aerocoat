@@ -12,10 +12,19 @@ const contentful = require('contentful'),
         loadPageGroupings,
         loadAssets,
         loadComponents,
+        loadProducts,
     };
 
 resentful.registerMappers(
+    constants.contentTypes.component,
+    entry => _.set(entry, 'fields._sys.id', _.get(entry, 'sys.id')));
+
+resentful.registerMappers(
     constants.contentTypes.subGroup,
+    entry => _.set(entry, 'fields._sys.id', _.get(entry, 'sys.id')));
+
+resentful.registerMappers(
+    constants.contentTypes.pageGrouping,
     entry => _.set(entry, 'fields._sys.id', _.get(entry, 'sys.id')));
 
 function createClient() {
@@ -32,6 +41,7 @@ function loadAllExistingData() {
         loadContent.loadPageGroupings(),
         loadContent.loadAssets(),
         loadContent.loadComponents(),
+        loadContent.loadProducts(),
     ];
     return Promise.all(promises)
                   .then((results) => {
@@ -41,12 +51,21 @@ function loadAllExistingData() {
                           pageGroupings: results[2],
                           assets: results[3],
                           components: results[4],
+                          products: results[5],
                       };
                   })
                   .then((data) => {
                       console.log('Loaded existing data', str(data));
                       return data;
                   });
+}
+
+function loadProducts() {
+    return client.getEntries({ content_type: constants.contentTypes.product })
+                 .then((response) => {
+                     console.log('\n\nproducts response', utils.str(response));
+                     return resentful.reduceSingle(_.get(response, 'items'));
+                 });
 }
 
 function loadComponents() {
