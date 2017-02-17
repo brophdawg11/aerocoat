@@ -1,4 +1,7 @@
 script: bash ./scripts/deploy.sh
+branches:
+  only:
+  - master
 env:
   global:
   - ENCRYPTION_LABEL: "3085f9acb42e"
