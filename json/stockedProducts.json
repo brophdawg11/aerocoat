@@ -985,21 +985,6 @@
                 "type": "53039",
                 "shareGroupFiles": false,
                 "group": "Mil-DTL-53039E Type IV and/or Type IX (formerly Type I) available in the following colors:"
-              },
-              {
-                "name": "Test Product",
-                "desc": "Test Desc",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/8620wua-ulvoc - tb.doc",
-                "components": [
-                  {
-                    "name": "08620wua-ulvoc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/08620WUA-ULVOC.PDF"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "53039",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-53039E Type IV and/or Type IX (formerly Type I) available in the following colors:"
               }
             ]
           },
@@ -1595,7 +1580,7 @@
             ]
           }
         ],
-        "numProducts": 47
+        "numProducts": 46
       },
       {
         "category": "Miscellaneous",
@@ -2495,57 +2480,38 @@
         "numProducts": 7
       },
       {
-        "category": "Wash Primer",
+        "category": "53030",
         "colWidth": 6,
         "groups": [
           {
-            "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D",
+            "group": "CARC Primers Mil-P-53022 and Mil-P-53030B",
             "shareGroupFiles": false,
             "useHalves": false,
             "useThirds": false,
             "products": [
               {
-                "name": "8514C Wash Primer",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/3174yvp-1 3175ssc - tb.doc",
+                "name": "53030B Ty I",
+                "desc": "44-W-007",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44W007_NEW.pdf",
                 "components": [
                   {
-                    "name": "03174yvp",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03174yvp-1-msds.pdf"
+                    "name": "44W007",
+                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44W007.PDF"
                   },
                   {
-                    "name": "03175ssc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03175ssc-msds.pdf"
+                    "name": "44W007CAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44W007CAT.pdf"
                   }
                 ],
-                "manufacturer": "Hentzen",
-                "type": "Wash Primer",
+                "manufacturer": "Deft",
+                "type": "53030",
                 "shareGroupFiles": false,
-                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
-              },
-              {
-                "name": "DOD-P-15328D Wash Primer",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/2110gvp 2111ssc - tb.doc",
-                "components": [
-                  {
-                    "name": "02110gvp",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02110gvp-msds.pdf"
-                  },
-                  {
-                    "name": "02111ssc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02111ssc-msds.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "Wash Primer",
-                "shareGroupFiles": false,
-                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
+                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
               }
             ]
           }
         ],
-        "numProducts": 3
+        "numProducts": 2
       }
     ],
     [
@@ -3102,26 +3068,11 @@
                 "type": "53039",
                 "shareGroupFiles": false,
                 "group": "Mil-DTL-53039E Type IV and/or Type IX (formerly Type I) available in the following colors:"
-              },
-              {
-                "name": "Test Product",
-                "desc": "Test Desc",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/8620wua-ulvoc - tb.doc",
-                "components": [
-                  {
-                    "name": "08620wua-ulvoc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/08620WUA-ULVOC.PDF"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "53039",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-53039E Type IV and/or Type IX (formerly Type I) available in the following colors:"
               }
             ]
           }
         ],
-        "numProducts": 13
+        "numProducts": 12
       },
       {
         "category": "85582",
@@ -3325,38 +3276,57 @@
         "numProducts": 3
       },
       {
-        "category": "53030",
+        "category": "Wash Primer",
         "colWidth": 6,
         "groups": [
           {
-            "group": "CARC Primers Mil-P-53022 and Mil-P-53030B",
+            "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D",
             "shareGroupFiles": false,
             "useHalves": false,
             "useThirds": false,
             "products": [
               {
-                "name": "53030B Ty I",
-                "desc": "44-W-007",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44W007_NEW.pdf",
+                "name": "8514C Wash Primer",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/3174yvp-1 3175ssc - tb.doc",
                 "components": [
                   {
-                    "name": "44W007",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44W007.PDF"
+                    "name": "03174yvp",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03174yvp-1-msds.pdf"
                   },
                   {
-                    "name": "44W007CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44W007CAT.pdf"
+                    "name": "03175ssc",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03175ssc-msds.pdf"
                   }
                 ],
-                "manufacturer": "Deft",
-                "type": "53030",
+                "manufacturer": "Hentzen",
+                "type": "Wash Primer",
                 "shareGroupFiles": false,
-                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
+                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
+              },
+              {
+                "name": "DOD-P-15328D Wash Primer",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/2110gvp 2111ssc - tb.doc",
+                "components": [
+                  {
+                    "name": "02110gvp",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02110gvp-msds.pdf"
+                  },
+                  {
+                    "name": "02111ssc",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02111ssc-msds.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "Wash Primer",
+                "shareGroupFiles": false,
+                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
               }
             ]
           }
         ],
-        "numProducts": 2
+        "numProducts": 3
       }
     ]
   ]
