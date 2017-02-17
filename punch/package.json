@@ -15,9 +15,9 @@
   ],
   "scripts": {
     "clean": "rm -rf ../output/*",
-    "csv:stocked-products": "node scripts/gen-json.js --file spreadsheets/stocked-products.csv --colWidth 6 --outFile contents/_shared/stockedProducts.json --outFile2 templates/json/stockedProducts.json",
-    "csv:spec-85285": "node scripts/gen-json.js --file spreadsheets/spec85285.csv --colWidth 6 --shareGroupFiles --productGrouping half --outFile contents/_shared/spec85285.json --outFile2 templates/json/spec85285.json",
-    "csv:eclipse": "node scripts/gen-json.js --file spreadsheets/eclipse.csv --colWidth 12 --shareGroupFiles --productGrouping third --outFile contents/_shared/eclipse.json --outFile2 templates/json/eclipse.json",
+    "csv:stocked-products": "node scripts/gen-json.js --file ../csv/stocked-products.csv --colWidth 6 --outFile contents/_shared/stockedProducts.json --outFile2 templates/json/stockedProducts.json",
+    "csv:spec-85285": "node scripts/gen-json.js --file ../csv/spec-85285.csv --colWidth 6 --shareGroupFiles --productGrouping half --outFile contents/_shared/spec85285.json --outFile2 templates/json/spec85285.json",
+    "csv:eclipse": "node scripts/gen-json.js --file ../csv/eclipse.csv --colWidth 12 --shareGroupFiles --productGrouping third --outFile contents/_shared/eclipse.json --outFile2 templates/json/eclipse.json",
     "csv": "npm run csv:stocked-products && npm run csv:spec-85285 && npm run csv:eclipse",
     "generate": "punch generate",
     "build": "npm run clean && npm run csv && npm run generate",
