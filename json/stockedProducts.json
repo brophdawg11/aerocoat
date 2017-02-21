@@ -581,6 +581,44 @@
             ]
           },
           {
+            "group": "Mil-T-81772 thinners:",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "Type I",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-213.pdf",
+                "components": [
+                  {
+                    "name": "IS-213",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-213.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "81772",
+                "shareGroupFiles": false,
+                "group": "Mil-T-81772 thinners:"
+              },
+              {
+                "name": "Type II",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-237.pdf",
+                "components": [
+                  {
+                    "name": "IS-237",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-237.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "81772",
+                "shareGroupFiles": false,
+                "group": "Mil-T-81772 thinners:"
+              }
+            ]
+          },
+          {
             "group": "Aerospace primers to Mil-PRF-23377",
             "shareGroupFiles": false,
             "useHalves": false,
@@ -917,7 +955,7 @@
             ]
           }
         ],
-        "numProducts": 26
+        "numProducts": 29
       }
     ],
     [
@@ -953,7 +991,7 @@
                 "components": [
                   {
                     "name": "08609TUZ-ULVOC",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/08609TUZ-ULVOC.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08609TUZ-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -968,7 +1006,7 @@
                 "components": [
                   {
                     "name": "08609tuz-b33",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/08609TUZ-B33.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08609TUZ-B33.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -983,7 +1021,7 @@
                 "components": [
                   {
                     "name": "08625guz-b33",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/08625GUZ-B33.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08625GUZ-B33.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -998,7 +1036,7 @@
                 "components": [
                   {
                     "name": "08671GUZ-B33",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/08671GUZ-B33.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08671GUZ-B33.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1013,7 +1051,7 @@
                 "components": [
                   {
                     "name": "08605GUZ-ULVOC",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/08605GUZ-ULVOC.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08605GUZ-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1028,7 +1066,7 @@
                 "components": [
                   {
                     "name": "08605guz-b33",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/08605GUZ-B33.PDF"
+                    "file": ""
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1043,7 +1081,7 @@
                 "components": [
                   {
                     "name": "08624AUZ-ULVOC",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/08624AUZ-ULVOC.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08624AUZ-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1058,7 +1096,7 @@
                 "components": [
                   {
                     "name": "08628KUZ-ULVOC",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/08628KUZ-ULVOC.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08628KUZ-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1073,7 +1111,7 @@
                 "components": [
                   {
                     "name": "08628KUZ-B33",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/08628KUZ-B33.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08628KUZ-B33.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1088,7 +1126,7 @@
                 "components": [
                   {
                     "name": "08620wua-ulvoc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/08620WUA-ULVOC.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08620WUA-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1111,11 +1149,11 @@
                 "components": [
                   {
                     "name": "07131gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07131gwu-msds.pdf"
+                    "file": ""
                   },
                   {
                     "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1130,11 +1168,11 @@
                 "components": [
                   {
                     "name": "07178twu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07178twu-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07178TWU.pdf"
                   },
                   {
                     "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1149,11 +1187,11 @@
                 "components": [
                   {
                     "name": "07180kwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07180kwu-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07180KWU.pdf"
                   },
                   {
                     "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1168,11 +1206,11 @@
                 "components": [
                   {
                     "name": "17101kwa",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17101kwa-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17101KWA.pdf"
                   },
                   {
                     "name": "17102CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17102CMU.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17102CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1187,11 +1225,11 @@
                 "components": [
                   {
                     "name": "16931gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16931gwu-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16931GWU.pdf"
                   },
                   {
                     "name": "16932CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16932cmu.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16932CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1206,11 +1244,11 @@
                 "components": [
                   {
                     "name": "18496gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/18496gwu.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/18496GWU.pdf"
                   },
                   {
                     "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1507,11 +1545,11 @@
                 "components": [
                   {
                     "name": "53012YEP",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/53012YEP.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/53012YEP.pdf"
                   },
                   {
                     "name": "16709ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/16709ceh.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1525,12 +1563,12 @@
                 "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377J, Type I, Class C2/ad9318FD ad2298FD - tb.doc",
                 "components": [
                   {
-                    "name": "ad9318-fd",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377J, Type I, Class C2/ad9318-fd.pdf"
+                    "name": "ad9318",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD9318-FD.pdf"
                   },
                   {
-                    "name": "ad2298-fd",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377J, Type I, Class C2/ad2298-fd.pdf"
+                    "name": "ad2298",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD2298.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1545,11 +1583,11 @@
                 "components": [
                   {
                     "name": "16708tep",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/16708tep.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16708TEP.pdf"
                   },
                   {
                     "name": "16709ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/16709ceh.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1564,11 +1602,11 @@
                 "components": [
                   {
                     "name": "ad9325",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377H, Type II, Class C2/ad9325-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD9325.pdf"
                   },
                   {
                     "name": "ad2298",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377H, Type II, Class C2/ad2298-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD2298.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1583,11 +1621,11 @@
                 "components": [
                   {
                     "name": "17176KEP",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/17176kep.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17176KEP.pdf"
                   },
                   {
                     "name": "16709ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/16709ceh.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1675,11 +1713,11 @@
                 "components": [
                   {
                     "name": "03174yvp",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03174yvp-1-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03174YVP-1.pdf"
                   },
                   {
                     "name": "03175ssc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03175ssc-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03175SSC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1694,11 +1732,11 @@
                 "components": [
                   {
                     "name": "02110gvp",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02110gvp-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/02110GVP.pdf"
                   },
                   {
                     "name": "02111ssc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02111ssc-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/02111SSC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -2481,11 +2519,11 @@
                 "components": [
                   {
                     "name": "53012YEP",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/53012YEP.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/53012YEP.pdf"
                   },
                   {
                     "name": "16709ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/16709ceh.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -2499,12 +2537,12 @@
                 "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377J, Type I, Class C2/ad9318FD ad2298FD - tb.doc",
                 "components": [
                   {
-                    "name": "ad9318-fd",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377J, Type I, Class C2/ad9318-fd.pdf"
+                    "name": "ad9318",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD9318-FD.pdf"
                   },
                   {
-                    "name": "ad2298-fd",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377J, Type I, Class C2/ad2298-fd.pdf"
+                    "name": "ad2298",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD2298.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -2519,11 +2557,11 @@
                 "components": [
                   {
                     "name": "16708tep",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/16708tep.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16708TEP.pdf"
                   },
                   {
                     "name": "16709ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/16709ceh.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -2538,11 +2576,11 @@
                 "components": [
                   {
                     "name": "ad9325",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377H, Type II, Class C2/ad9325-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD9325.pdf"
                   },
                   {
                     "name": "ad2298",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377H, Type II, Class C2/ad2298-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD2298.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -2557,11 +2595,11 @@
                 "components": [
                   {
                     "name": "17176KEP",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/17176kep.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17176KEP.pdf"
                   },
                   {
                     "name": "16709ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/16709ceh.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -2723,57 +2761,83 @@
         "numProducts": 4
       },
       {
-        "category": "Wash Primer",
+        "category": "81772",
         "colWidth": 6,
         "groups": [
           {
-            "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D",
+            "group": "Mil-T-81772 thinners:",
             "shareGroupFiles": false,
             "useHalves": false,
             "useThirds": false,
             "products": [
               {
-                "name": "8514C Wash Primer",
+                "name": "Type I",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/3174yvp-1 3175ssc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-213.pdf",
                 "components": [
                   {
-                    "name": "03174yvp",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03174yvp-1-msds.pdf"
-                  },
-                  {
-                    "name": "03175ssc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03175ssc-msds.pdf"
+                    "name": "IS-213",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-213.pdf"
                   }
                 ],
-                "manufacturer": "Hentzen",
-                "type": "Wash Primer",
+                "manufacturer": "Deft",
+                "type": "81772",
                 "shareGroupFiles": false,
-                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
+                "group": "Mil-T-81772 thinners:"
               },
               {
-                "name": "DOD-P-15328D Wash Primer",
+                "name": "Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/2110gvp 2111ssc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-237.pdf",
                 "components": [
                   {
-                    "name": "02110gvp",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02110gvp-msds.pdf"
-                  },
-                  {
-                    "name": "02111ssc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02111ssc-msds.pdf"
+                    "name": "IS-237",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-237.pdf"
                   }
                 ],
-                "manufacturer": "Hentzen",
-                "type": "Wash Primer",
+                "manufacturer": "Deft",
+                "type": "81772",
                 "shareGroupFiles": false,
-                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
+                "group": "Mil-T-81772 thinners:"
               }
             ]
           }
         ],
         "numProducts": 3
+      },
+      {
+        "category": "53030",
+        "colWidth": 6,
+        "groups": [
+          {
+            "group": "CARC Primers Mil-P-53022 and Mil-P-53030B",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "53030B Ty I",
+                "desc": "44-W-007",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44W007_NEW.pdf",
+                "components": [
+                  {
+                    "name": "44W007",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007.pdf"
+                  },
+                  {
+                    "name": "44W007CAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007CAT.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "53030",
+                "shareGroupFiles": false,
+                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
+              }
+            ]
+          }
+        ],
+        "numProducts": 2
       }
     ],
     [
@@ -3188,7 +3252,7 @@
                 "components": [
                   {
                     "name": "08609TUZ-ULVOC",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/08609TUZ-ULVOC.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08609TUZ-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3203,7 +3267,7 @@
                 "components": [
                   {
                     "name": "08609tuz-b33",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/08609TUZ-B33.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08609TUZ-B33.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3218,7 +3282,7 @@
                 "components": [
                   {
                     "name": "08625guz-b33",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/08625GUZ-B33.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08625GUZ-B33.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3233,7 +3297,7 @@
                 "components": [
                   {
                     "name": "08671GUZ-B33",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/08671GUZ-B33.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08671GUZ-B33.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3248,7 +3312,7 @@
                 "components": [
                   {
                     "name": "08605GUZ-ULVOC",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/08605GUZ-ULVOC.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08605GUZ-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3263,7 +3327,7 @@
                 "components": [
                   {
                     "name": "08605guz-b33",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/08605GUZ-B33.PDF"
+                    "file": ""
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3278,7 +3342,7 @@
                 "components": [
                   {
                     "name": "08624AUZ-ULVOC",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/08624AUZ-ULVOC.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08624AUZ-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3293,7 +3357,7 @@
                 "components": [
                   {
                     "name": "08628KUZ-ULVOC",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/08628KUZ-ULVOC.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08628KUZ-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3308,7 +3372,7 @@
                 "components": [
                   {
                     "name": "08628KUZ-B33",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/08628KUZ-B33.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08628KUZ-B33.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3323,7 +3387,7 @@
                 "components": [
                   {
                     "name": "08620wua-ulvoc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/MSDS sheets/08620WUA-ULVOC.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08620WUA-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3501,11 +3565,11 @@
                 "components": [
                   {
                     "name": "07131gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07131gwu-msds.pdf"
+                    "file": ""
                   },
                   {
                     "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3520,11 +3584,11 @@
                 "components": [
                   {
                     "name": "07178twu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07178twu-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07178TWU.pdf"
                   },
                   {
                     "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3539,11 +3603,11 @@
                 "components": [
                   {
                     "name": "07180kwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07180kwu-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07180KWU.pdf"
                   },
                   {
                     "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3558,11 +3622,11 @@
                 "components": [
                   {
                     "name": "17101kwa",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17101kwa-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17101KWA.pdf"
                   },
                   {
                     "name": "17102CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17102CMU.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17102CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3577,11 +3641,11 @@
                 "components": [
                   {
                     "name": "16931gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16931gwu-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16931GWU.pdf"
                   },
                   {
                     "name": "16932CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16932cmu.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16932CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3596,11 +3660,11 @@
                 "components": [
                   {
                     "name": "18496gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/18496gwu.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/18496GWU.pdf"
                   },
                   {
                     "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -3614,38 +3678,57 @@
         "numProducts": 7
       },
       {
-        "category": "53030",
+        "category": "Wash Primer",
         "colWidth": 6,
         "groups": [
           {
-            "group": "CARC Primers Mil-P-53022 and Mil-P-53030B",
+            "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D",
             "shareGroupFiles": false,
             "useHalves": false,
             "useThirds": false,
             "products": [
               {
-                "name": "53030B Ty I",
-                "desc": "44-W-007",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44W007_NEW.pdf",
+                "name": "8514C Wash Primer",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/3174yvp-1 3175ssc - tb.doc",
                 "components": [
                   {
-                    "name": "44W007",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007.pdf"
+                    "name": "03174yvp",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03174YVP-1.pdf"
                   },
                   {
-                    "name": "44W007CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007CAT.pdf"
+                    "name": "03175ssc",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03175SSC.pdf"
                   }
                 ],
-                "manufacturer": "Deft",
-                "type": "53030",
+                "manufacturer": "Hentzen",
+                "type": "Wash Primer",
                 "shareGroupFiles": false,
-                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
+                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
+              },
+              {
+                "name": "DOD-P-15328D Wash Primer",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/2110gvp 2111ssc - tb.doc",
+                "components": [
+                  {
+                    "name": "02110gvp",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/02110GVP.pdf"
+                  },
+                  {
+                    "name": "02111ssc",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/02111SSC.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "Wash Primer",
+                "shareGroupFiles": false,
+                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
               }
             ]
           }
         ],
-        "numProducts": 2
+        "numProducts": 3
       }
     ]
   ]
