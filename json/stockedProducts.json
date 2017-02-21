@@ -1712,51 +1712,6 @@
         "numProducts": 47
       },
       {
-        "category": "Miscellaneous",
-        "colWidth": 6,
-        "groups": [
-          {
-            "group": "Commercial and General Aviation Aerospace Products",
-            "shareGroupFiles": false,
-            "useHalves": false,
-            "useThirds": false,
-            "products": [
-              {
-                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
-                "components": [
-                  {
-                    "name": "TT-P-1757",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/31566MSDS.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              },
-              {
-                "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Sea to Sky/TDS - SPC 909.pdf",
-                "components": [
-                  {
-                    "name": "SPC-909",
-                    "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              }
-            ]
-          }
-        ],
-        "numProducts": 3
-      },
-      {
         "category": "PPG",
         "colWidth": 6,
         "groups": [
@@ -1804,6 +1759,51 @@
                   }
                 ],
                 "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              }
+            ]
+          }
+        ],
+        "numProducts": 3
+      },
+      {
+        "category": "Miscellaneous",
+        "colWidth": 6,
+        "groups": [
+          {
+            "group": "Commercial and General Aviation Aerospace Products",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Sea to Sky/TDS - SPC 909.pdf",
+                "components": [
+                  {
+                    "name": "SPC-909",
+                    "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "components": [
+                  {
+                    "name": "TT-P-1757",
+                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/31566MSDS.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
                 "type": "",
                 "shareGroupFiles": false,
                 "group": "Commercial and General Aviation Aerospace Products"
@@ -2361,21 +2361,6 @@
                 "group": "Commercial and General Aviation Aerospace Products"
               },
               {
-                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
-                "components": [
-                  {
-                    "name": "TT-P-1757",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/31566MSDS.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              },
-              {
                 "name": "515X349, BMS 10-79, Type III, Class A, Grade A.  Conventional Solids Epoxy Primer",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/PPG Aerospace/DeSoto_Conventional_Exterior_Primers.pdf",
@@ -2425,6 +2410,21 @@
                   {
                     "name": "SPC-909",
                     "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "components": [
+                  {
+                    "name": "TT-P-1757",
+                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/31566MSDS.pdf"
                   }
                 ],
                 "manufacturer": "Miscellaneous",
