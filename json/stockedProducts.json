@@ -1716,6 +1716,33 @@
         "colWidth": 6,
         "groups": [
           {
+            "group": "Aerospace primers to Mil-PRF-23377",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "SPEEAY051A",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN084.pdf",
+                "components": [
+                  {
+                    "name": "SPEEAY051A",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051A).pdf"
+                  },
+                  {
+                    "name": "EEAY051B",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051B).pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              }
+            ]
+          },
+          {
             "group": "Commercial and General Aviation Aerospace Products",
             "shareGroupFiles": false,
             "useHalves": false,
@@ -1766,7 +1793,7 @@
             ]
           }
         ],
-        "numProducts": 3
+        "numProducts": 5
       },
       {
         "category": "Miscellaneous",
@@ -2598,11 +2625,30 @@
                 "type": "23377",
                 "shareGroupFiles": false,
                 "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "SPEEAY051A",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN084.pdf",
+                "components": [
+                  {
+                    "name": "SPEEAY051A",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051A).pdf"
+                  },
+                  {
+                    "name": "EEAY051B",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051B).pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
               }
             ]
           }
         ],
-        "numProducts": 9
+        "numProducts": 10
       },
       {
         "category": "53022",
