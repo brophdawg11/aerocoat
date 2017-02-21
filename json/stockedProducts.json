@@ -45,11 +45,11 @@
                 "components": [
                   {
                     "name": "10P20-13",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P20-13_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P20-13.pdf"
                   },
                   {
                     "name": "EC-213",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-213_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-213.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -99,11 +99,30 @@
                 "components": [
                   {
                     "name": "10P4-2NF",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P4-2NF_USA_ENG_111212.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P4-2.pdf"
                   },
                   {
                     "name": "EC-117S",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-117S_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-117S.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "10P4-3NF, Fluid Resistant Epoxy Primer, Nytal Free, BAC 377 Yellow to Boeing Spec BMS 10-11, Type I, Class A, Grade A",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p4-3NF.PDF",
+                "components": [
+                  {
+                    "name": "10P4-3NF",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P4_3NF.pdf"
+                  },
+                  {
+                    "name": "EC-117",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC_117.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -118,11 +137,11 @@
                 "components": [
                   {
                     "name": "10P8-10NF",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P8-10NF_USA_ENG_050912.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P8-10.pdf"
                   },
                   {
                     "name": "EC-283",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC_283_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-283.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -137,11 +156,11 @@
                 "components": [
                   {
                     "name": "446-22-1000",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/446-22-1000_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/446-22-1000.pdf"
                   },
                   {
                     "name": "X-530",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/X-530_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/X-530.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -156,11 +175,11 @@
                 "components": [
                   {
                     "name": "446-22-2000",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/446-22-2000_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/446-22-2000.pdf"
                   },
                   {
                     "name": "X-530",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/X-530_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/X-530.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -175,11 +194,30 @@
                 "components": [
                   {
                     "name": "683-3-2",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/683-3-2_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/683-3-2.pdf"
                   },
                   {
                     "name": "X-310A",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/X_310A_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/X-310A.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "683-3-20, Clear Polyurethane Coating_BAC 5710, Type 41",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/683-3 Series.pdf",
+                "components": [
+                  {
+                    "name": "683-3-20",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/683-3-20.pdf"
+                  },
+                  {
+                    "name": "X-310A",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/X-310A.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -194,11 +232,11 @@
                 "components": [
                   {
                     "name": "454-4-1",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/454-4-1_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/454-4-1.pdf"
                   },
                   {
                     "name": "CA-109",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/CA-109_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/CA-109.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -213,30 +251,11 @@
                 "components": [
                   {
                     "name": "463-6-4",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/463-6-4_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/463-6-4.pdf"
                   },
                   {
                     "name": "X-306",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/X-306_USA_ENG.pdf"
-                  }
-                ],
-                "manufacturer": "AkzoNobel",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              },
-              {
-                "name": "463-3-8, Flat Black Temperature Control Topcoat to spec MIS-34328",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/463-3-8.pdf",
-                "components": [
-                  {
-                    "name": "463-3-8",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/463-3-8_USA_ENG.pdf"
-                  },
-                  {
-                    "name": "CA-118",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/CA_118_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/X-306.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -251,11 +270,11 @@
                 "components": [
                   {
                     "name": "463-12-8",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/463-12-8_USA_ENG_112012.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/463-12-8.pdf"
                   },
                   {
                     "name": "CA-116",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/CA_116_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/CA-116.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -270,11 +289,11 @@
                 "components": [
                   {
                     "name": "467-9",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/467-9_USA_ENG_082412.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/467-9.pdf"
                   },
                   {
                     "name": "CA-41B",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/CA-41B.PDF"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/CA-41B.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -289,11 +308,11 @@
                 "components": [
                   {
                     "name": "10P8-11",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P8-11_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P8-11.pdf"
                   },
                   {
                     "name": "EC-286",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC_286_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-286.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -302,17 +321,21 @@
                 "group": "Commercial and General Aviation Aerospace Products"
               },
               {
-                "name": "10P30-5, Corrosion Resistant Epoxy Primer to Cessna Spec CMFS029, Type II",
+                "name": "10P30-5, Corrosion Resistant Epoxy Primer to Cessna Spec CMFS029, Type II/GMS 5005, Type I",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P30-5.pdf",
                 "components": [
                   {
                     "name": "10P30-5",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P30_5_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P30-5.pdf"
                   },
                   {
                     "name": "EC-275",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC_275_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-275.pdf"
+                  },
+                  {
+                    "name": "TR-115",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/TR-115.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -327,11 +350,11 @@
                 "components": [
                   {
                     "name": "10P30-8",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P30-8_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P30-8.pdf"
                   },
                   {
                     "name": "EC-284",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-284_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-284.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -340,17 +363,55 @@
                 "group": "Commercial and General Aviation Aerospace Products"
               },
               {
-                "name": "23T3-105, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I",
+                "name": "23T3-10, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I, BAC 700",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
+                "components": [
+                  {
+                    "name": "23T3-10",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/23T3-10.pdf"
+                  },
+                  {
+                    "name": "PC-216",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/PC-216.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "23T3-105, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I,  BAC 707",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
                 "components": [
                   {
                     "name": "23T3-105",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/23T3-105_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/23T3-105.pdf"
                   },
                   {
                     "name": "PC-216",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/PC-216_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/PC-216.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "23T3-106, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I, DN 3635 ",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
+                "components": [
+                  {
+                    "name": "23T3-106",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/23T3-106.pdf"
+                  },
+                  {
+                    "name": "PC-216",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/PC-216.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -365,11 +426,11 @@
                 "components": [
                   {
                     "name": "10P2-3",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P2-3_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P2-3.pdf"
                   },
                   {
                     "name": "EC-110",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC_110_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-110.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -384,11 +445,38 @@
                 "components": [
                   {
                     "name": "10P20-44",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P20-44.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P20-44.pdf"
                   },
                   {
                     "name": "EC-265",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-265.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-265.pdf"
+                  },
+                  {
+                    "name": "TR-114",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/TR-114.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "10P20-44MNF, BMS 10-72 Type IX",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P20-44mnf.pdf",
+                "components": [
+                  {
+                    "name": "10P20-44MNF",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P20_44MNF.pdf"
+                  },
+                  {
+                    "name": "EC-291B",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC_291B.pdf"
+                  },
+                  {
+                    "name": "TR-114",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/TR-114.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -399,7 +487,7 @@
             ]
           }
         ],
-        "numProducts": 23
+        "numProducts": 27
       },
       {
         "category": "Deft",
@@ -505,11 +593,11 @@
                 "components": [
                   {
                     "name": "02Y040A",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/02Y040A.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y40A.pdf"
                   },
                   {
                     "name": "02Y040ACAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/02Y040ACAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y40ACAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -524,11 +612,11 @@
                 "components": [
                   {
                     "name": "02GN084",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/02GN084.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02GN84.pdf"
                   },
                   {
                     "name": "02GN084CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/02GN084CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02GN84CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -551,11 +639,11 @@
                 "components": [
                   {
                     "name": "44W007",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44W007.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007.pdf"
                   },
                   {
                     "name": "44W007CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44W007CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -776,7 +864,11 @@
                 "components": [
                   {
                     "name": "01-W-074",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/01W074.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/01W74.pdf"
+                  },
+                  {
+                    "name": "80-X-104A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/80X104A.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -788,7 +880,16 @@
                 "name": "01-R-051 (Gulfstream GMS 5006C, Type I, FS Color 11136)",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01R051_NEW.pdf",
-                "components": [],
+                "components": [
+                  {
+                    "name": "01-R-051",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/01R051a.pdf"
+                  },
+                  {
+                    "name": "80-X-104A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/80X104A.pdf"
+                  }
+                ],
                 "manufacturer": "Deft",
                 "type": "",
                 "shareGroupFiles": false,
@@ -798,7 +899,16 @@
                 "name": "01-BK-038 (Gulfstream GMS 5006C, Type I, FS Color 27038)",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01BK038_NEW.pdf",
-                "components": [],
+                "components": [
+                  {
+                    "name": "01-BK-038",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/01BK038a.pdf"
+                  },
+                  {
+                    "name": "80-X-104A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/80X104A.pdf"
+                  }
+                ],
                 "manufacturer": "Deft",
                 "type": "",
                 "shareGroupFiles": false,
@@ -1500,11 +1610,11 @@
                 "components": [
                   {
                     "name": "04488wep",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/04488wep-4-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/04488WEP-4.pdf"
                   },
                   {
                     "name": "04489ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/04489ceh-4-msds.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/04489CEH-4.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1519,11 +1629,30 @@
                 "components": [
                   {
                     "name": "03848WEP-HFX",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/03848WEP-HFX.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03848WEP-HFX.pdf"
                   },
                   {
                     "name": "03849CEH-HFX",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/03849CEH-HFX.PDF"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03849CEH-HFX.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "53022",
+                "shareGroupFiles": false,
+                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
+              },
+              {
+                "name": "53022 Ty IV",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/22167WEP-22170CEH-TB.pdf",
+                "components": [
+                  {
+                    "name": "22167WEP",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/22167WEP.pdf"
+                  },
+                  {
+                    "name": "22170CEH",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/22170CEH.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1580,7 +1709,7 @@
             ]
           }
         ],
-        "numProducts": 46
+        "numProducts": 47
       },
       {
         "category": "Miscellaneous",
@@ -1608,6 +1737,36 @@
                 "group": "Commercial and General Aviation Aerospace Products"
               },
               {
+                "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Sea to Sky/TDS - SPC 909.pdf",
+                "components": [
+                  {
+                    "name": "SPC-909",
+                    "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              }
+            ]
+          }
+        ],
+        "numProducts": 3
+      },
+      {
+        "category": "PPG",
+        "colWidth": 6,
+        "groups": [
+          {
+            "group": "Commercial and General Aviation Aerospace Products",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
                 "name": "515X349, BMS 10-79, Type III, Class A, Grade A.  Conventional Solids Epoxy Primer",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/PPG Aerospace/DeSoto_Conventional_Exterior_Primers.pdf",
@@ -1621,7 +1780,7 @@
                     "file": "All Suppliers -TB and MSDS/PPG Aerospace/910X533.pdf"
                   }
                 ],
-                "manufacturer": "Miscellaneous",
+                "manufacturer": "PPG",
                 "type": "",
                 "shareGroupFiles": false,
                 "group": "Commercial and General Aviation Aerospace Products"
@@ -1644,22 +1803,7 @@
                     "file": "All Suppliers -TB and MSDS/PPG Aerospace/020-707.pdf"
                   }
                 ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              },
-              {
-                "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Sea to Sky/TDS - SPC 909.pdf",
-                "components": [
-                  {
-                    "name": "SPC-909",
-                    "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
+                "manufacturer": "PPG",
                 "type": "",
                 "shareGroupFiles": false,
                 "group": "Commercial and General Aviation Aerospace Products"
@@ -1667,7 +1811,7 @@
             ]
           }
         ],
-        "numProducts": 5
+        "numProducts": 3
       }
     ]
   ],
@@ -1774,11 +1918,30 @@
                 "components": [
                   {
                     "name": "10P4-2NF",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P4-2NF_USA_ENG_111212.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P4-2.pdf"
                   },
                   {
                     "name": "EC-117S",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-117S_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-117S.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "10P4-3NF, Fluid Resistant Epoxy Primer, Nytal Free, BAC 377 Yellow to Boeing Spec BMS 10-11, Type I, Class A, Grade A",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p4-3NF.PDF",
+                "components": [
+                  {
+                    "name": "10P4-3NF",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P4_3NF.pdf"
+                  },
+                  {
+                    "name": "EC-117",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC_117.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -1793,11 +1956,11 @@
                 "components": [
                   {
                     "name": "10P8-10NF",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P8-10NF_USA_ENG_050912.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P8-10.pdf"
                   },
                   {
                     "name": "EC-283",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC_283_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-283.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -1812,11 +1975,11 @@
                 "components": [
                   {
                     "name": "446-22-1000",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/446-22-1000_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/446-22-1000.pdf"
                   },
                   {
                     "name": "X-530",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/X-530_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/X-530.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -1831,11 +1994,11 @@
                 "components": [
                   {
                     "name": "446-22-2000",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/446-22-2000_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/446-22-2000.pdf"
                   },
                   {
                     "name": "X-530",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/X-530_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/X-530.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -1850,11 +2013,30 @@
                 "components": [
                   {
                     "name": "683-3-2",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/683-3-2_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/683-3-2.pdf"
                   },
                   {
                     "name": "X-310A",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/X_310A_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/X-310A.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "683-3-20, Clear Polyurethane Coating_BAC 5710, Type 41",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/683-3 Series.pdf",
+                "components": [
+                  {
+                    "name": "683-3-20",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/683-3-20.pdf"
+                  },
+                  {
+                    "name": "X-310A",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/X-310A.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -1869,11 +2051,11 @@
                 "components": [
                   {
                     "name": "454-4-1",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/454-4-1_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/454-4-1.pdf"
                   },
                   {
                     "name": "CA-109",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/CA-109_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/CA-109.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -1888,30 +2070,11 @@
                 "components": [
                   {
                     "name": "463-6-4",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/463-6-4_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/463-6-4.pdf"
                   },
                   {
                     "name": "X-306",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/X-306_USA_ENG.pdf"
-                  }
-                ],
-                "manufacturer": "AkzoNobel",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              },
-              {
-                "name": "463-3-8, Flat Black Temperature Control Topcoat to spec MIS-34328",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/463-3-8.pdf",
-                "components": [
-                  {
-                    "name": "463-3-8",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/463-3-8_USA_ENG.pdf"
-                  },
-                  {
-                    "name": "CA-118",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/CA_118_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/X-306.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -1926,11 +2089,11 @@
                 "components": [
                   {
                     "name": "463-12-8",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/463-12-8_USA_ENG_112012.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/463-12-8.pdf"
                   },
                   {
                     "name": "CA-116",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/CA_116_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/CA-116.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -1945,11 +2108,11 @@
                 "components": [
                   {
                     "name": "467-9",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/467-9_USA_ENG_082412.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/467-9.pdf"
                   },
                   {
                     "name": "CA-41B",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/CA-41B.PDF"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/CA-41B.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -1964,11 +2127,11 @@
                 "components": [
                   {
                     "name": "10P8-11",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P8-11_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P8-11.pdf"
                   },
                   {
                     "name": "EC-286",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC_286_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-286.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -1977,17 +2140,21 @@
                 "group": "Commercial and General Aviation Aerospace Products"
               },
               {
-                "name": "10P30-5, Corrosion Resistant Epoxy Primer to Cessna Spec CMFS029, Type II",
+                "name": "10P30-5, Corrosion Resistant Epoxy Primer to Cessna Spec CMFS029, Type II/GMS 5005, Type I",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P30-5.pdf",
                 "components": [
                   {
                     "name": "10P30-5",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P30_5_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P30-5.pdf"
                   },
                   {
                     "name": "EC-275",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC_275_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-275.pdf"
+                  },
+                  {
+                    "name": "TR-115",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/TR-115.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -2002,11 +2169,11 @@
                 "components": [
                   {
                     "name": "10P30-8",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P30-8_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P30-8.pdf"
                   },
                   {
                     "name": "EC-284",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-284_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-284.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -2015,17 +2182,55 @@
                 "group": "Commercial and General Aviation Aerospace Products"
               },
               {
-                "name": "23T3-105, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I",
+                "name": "23T3-10, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I, BAC 700",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
+                "components": [
+                  {
+                    "name": "23T3-10",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/23T3-10.pdf"
+                  },
+                  {
+                    "name": "PC-216",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/PC-216.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "23T3-105, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I,  BAC 707",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
                 "components": [
                   {
                     "name": "23T3-105",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/23T3-105_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/23T3-105.pdf"
                   },
                   {
                     "name": "PC-216",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/PC-216_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/PC-216.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "23T3-106, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I, DN 3635 ",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
+                "components": [
+                  {
+                    "name": "23T3-106",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/23T3-106.pdf"
+                  },
+                  {
+                    "name": "PC-216",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/PC-216.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -2040,11 +2245,11 @@
                 "components": [
                   {
                     "name": "10P2-3",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P2-3_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P2-3.pdf"
                   },
                   {
                     "name": "EC-110",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC_110_USEN.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-110.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -2059,11 +2264,38 @@
                 "components": [
                   {
                     "name": "10P20-44",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P20-44.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P20-44.pdf"
                   },
                   {
                     "name": "EC-265",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-265.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-265.pdf"
+                  },
+                  {
+                    "name": "TR-114",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/TR-114.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "10P20-44MNF, BMS 10-72 Type IX",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P20-44mnf.pdf",
+                "components": [
+                  {
+                    "name": "10P20-44MNF",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P20_44MNF.pdf"
+                  },
+                  {
+                    "name": "EC-291B",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC_291B.pdf"
+                  },
+                  {
+                    "name": "TR-114",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/TR-114.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -2078,7 +2310,11 @@
                 "components": [
                   {
                     "name": "01-W-074",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/01W074.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/01W74.pdf"
+                  },
+                  {
+                    "name": "80-X-104A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/80X104A.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -2090,7 +2326,16 @@
                 "name": "01-R-051 (Gulfstream GMS 5006C, Type I, FS Color 11136)",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01R051_NEW.pdf",
-                "components": [],
+                "components": [
+                  {
+                    "name": "01-R-051",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/01R051a.pdf"
+                  },
+                  {
+                    "name": "80-X-104A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/80X104A.pdf"
+                  }
+                ],
                 "manufacturer": "Deft",
                 "type": "",
                 "shareGroupFiles": false,
@@ -2100,7 +2345,16 @@
                 "name": "01-BK-038 (Gulfstream GMS 5006C, Type I, FS Color 27038)",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01BK038_NEW.pdf",
-                "components": [],
+                "components": [
+                  {
+                    "name": "01-BK-038",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/01BK038a.pdf"
+                  },
+                  {
+                    "name": "80-X-104A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/80X104A.pdf"
+                  }
+                ],
                 "manufacturer": "Deft",
                 "type": "",
                 "shareGroupFiles": false,
@@ -2135,7 +2389,7 @@
                     "file": "All Suppliers -TB and MSDS/PPG Aerospace/910X533.pdf"
                   }
                 ],
-                "manufacturer": "Miscellaneous",
+                "manufacturer": "PPG",
                 "type": "",
                 "shareGroupFiles": false,
                 "group": "Commercial and General Aviation Aerospace Products"
@@ -2158,7 +2412,7 @@
                     "file": "All Suppliers -TB and MSDS/PPG Aerospace/020-707.pdf"
                   }
                 ],
-                "manufacturer": "Miscellaneous",
+                "manufacturer": "PPG",
                 "type": "",
                 "shareGroupFiles": false,
                 "group": "Commercial and General Aviation Aerospace Products"
@@ -2181,7 +2435,7 @@
             ]
           }
         ],
-        "numProducts": 29
+        "numProducts": 33
       },
       {
         "category": "23377",
@@ -2295,11 +2549,11 @@
                 "components": [
                   {
                     "name": "10P20-13",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10P20-13_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P20-13.pdf"
                   },
                   {
                     "name": "EC-213",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-213_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-213.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -2314,11 +2568,11 @@
                 "components": [
                   {
                     "name": "02Y040A",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/02Y040A.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y40A.pdf"
                   },
                   {
                     "name": "02Y040ACAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/02Y040ACAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y40ACAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -2333,11 +2587,11 @@
                 "components": [
                   {
                     "name": "02GN084",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/02GN084.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02GN84.pdf"
                   },
                   {
                     "name": "02GN084CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/02GN084CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02GN84CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -2351,136 +2605,7 @@
         "numProducts": 9
       },
       {
-        "category": "64159",
-        "colWidth": 6,
-        "groups": [
-          {
-            "group": "Mil-DTL-64159 Type II available in the following colors:",
-            "shareGroupFiles": false,
-            "useHalves": false,
-            "useThirds": false,
-            "products": [
-              {
-                "name": "FS 34094 (383 Green)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7131gwu 7170cmu - tb.doc",
-                "components": [
-                  {
-                    "name": "07131gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07131gwu-msds.pdf"
-                  },
-                  {
-                    "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
-              },
-              {
-                "name": "FS 33446 (686 Tan)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7178twu 7170cmu - tb.doc",
-                "components": [
-                  {
-                    "name": "07178twu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07178twu-msds.pdf"
-                  },
-                  {
-                    "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
-              },
-              {
-                "name": "FS 37030 (Black)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7180kwu 7170 - tb.doc",
-                "components": [
-                  {
-                    "name": "07180kwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07180kwu-msds.pdf"
-                  },
-                  {
-                    "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
-              },
-              {
-                "name": "FS 37038 (Aircraft Black)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17101kwa 17102cmu - tb.doc",
-                "components": [
-                  {
-                    "name": "17101kwa",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17101kwa-msds.pdf"
-                  },
-                  {
-                    "name": "17102CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17102CMU.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
-              },
-              {
-                "name": "FS 34031 (Aircraft Green)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16931gwu 16932cmu - tb.doc",
-                "components": [
-                  {
-                    "name": "16931gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16931gwu-msds.pdf"
-                  },
-                  {
-                    "name": "16932CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16932cmu.PDF"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
-              },
-              {
-                "name": "FS 34160 (Foliage Green)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/18496gwu 7170cmu - tb.pdf",
-                "components": [
-                  {
-                    "name": "18496gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/18496gwu.PDF"
-                  },
-                  {
-                    "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
-              }
-            ]
-          }
-        ],
-        "numProducts": 7
-      },
-      {
-        "category": "53030",
+        "category": "53022",
         "colWidth": 6,
         "groups": [
           {
@@ -2490,28 +2615,119 @@
             "useThirds": false,
             "products": [
               {
-                "name": "53030B Ty I",
-                "desc": "44-W-007",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44W007_NEW.pdf",
+                "name": "53022 Ty II",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/4488wep-4 4489ceh - tb.doc",
                 "components": [
                   {
-                    "name": "44W007",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44W007.PDF"
+                    "name": "04488wep",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/04488WEP-4.pdf"
                   },
                   {
-                    "name": "44W007CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44W007CAT.pdf"
+                    "name": "04489ceh",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/04489CEH-4.pdf"
                   }
                 ],
-                "manufacturer": "Deft",
-                "type": "53030",
+                "manufacturer": "Hentzen",
+                "type": "53022",
+                "shareGroupFiles": false,
+                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
+              },
+              {
+                "name": "53022 Ty III",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/03848WEP-HFX-03849CEH-HFX-NO-TB.doc",
+                "components": [
+                  {
+                    "name": "03848WEP-HFX",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03848WEP-HFX.pdf"
+                  },
+                  {
+                    "name": "03849CEH-HFX",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03849CEH-HFX.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "53022",
+                "shareGroupFiles": false,
+                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
+              },
+              {
+                "name": "53022 Ty IV",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/22167WEP-22170CEH-TB.pdf",
+                "components": [
+                  {
+                    "name": "22167WEP",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/22167WEP.pdf"
+                  },
+                  {
+                    "name": "22170CEH",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/22170CEH.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "53022",
                 "shareGroupFiles": false,
                 "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
               }
             ]
           }
         ],
-        "numProducts": 2
+        "numProducts": 4
+      },
+      {
+        "category": "Wash Primer",
+        "colWidth": 6,
+        "groups": [
+          {
+            "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "8514C Wash Primer",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/3174yvp-1 3175ssc - tb.doc",
+                "components": [
+                  {
+                    "name": "03174yvp",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03174yvp-1-msds.pdf"
+                  },
+                  {
+                    "name": "03175ssc",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03175ssc-msds.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "Wash Primer",
+                "shareGroupFiles": false,
+                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
+              },
+              {
+                "name": "DOD-P-15328D Wash Primer",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/2110gvp 2111ssc - tb.doc",
+                "components": [
+                  {
+                    "name": "02110gvp",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02110gvp-msds.pdf"
+                  },
+                  {
+                    "name": "02111ssc",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02111ssc-msds.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "Wash Primer",
+                "shareGroupFiles": false,
+                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
+              }
+            ]
+          }
+        ],
+        "numProducts": 3
       }
     ],
     [
@@ -3223,7 +3439,136 @@
         "numProducts": 8
       },
       {
-        "category": "53022",
+        "category": "64159",
+        "colWidth": 6,
+        "groups": [
+          {
+            "group": "Mil-DTL-64159 Type II available in the following colors:",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "FS 34094 (383 Green)",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7131gwu 7170cmu - tb.doc",
+                "components": [
+                  {
+                    "name": "07131gwu",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07131gwu-msds.pdf"
+                  },
+                  {
+                    "name": "07170CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "64159",
+                "shareGroupFiles": false,
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
+              },
+              {
+                "name": "FS 33446 (686 Tan)",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7178twu 7170cmu - tb.doc",
+                "components": [
+                  {
+                    "name": "07178twu",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07178twu-msds.pdf"
+                  },
+                  {
+                    "name": "07170CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "64159",
+                "shareGroupFiles": false,
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
+              },
+              {
+                "name": "FS 37030 (Black)",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7180kwu 7170 - tb.doc",
+                "components": [
+                  {
+                    "name": "07180kwu",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07180kwu-msds.pdf"
+                  },
+                  {
+                    "name": "07170CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "64159",
+                "shareGroupFiles": false,
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
+              },
+              {
+                "name": "FS 37038 (Aircraft Black)",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17101kwa 17102cmu - tb.doc",
+                "components": [
+                  {
+                    "name": "17101kwa",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17101kwa-msds.pdf"
+                  },
+                  {
+                    "name": "17102CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17102CMU.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "64159",
+                "shareGroupFiles": false,
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
+              },
+              {
+                "name": "FS 34031 (Aircraft Green)",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16931gwu 16932cmu - tb.doc",
+                "components": [
+                  {
+                    "name": "16931gwu",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16931gwu-msds.pdf"
+                  },
+                  {
+                    "name": "16932CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16932cmu.PDF"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "64159",
+                "shareGroupFiles": false,
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
+              },
+              {
+                "name": "FS 34160 (Foliage Green)",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/18496gwu 7170cmu - tb.pdf",
+                "components": [
+                  {
+                    "name": "18496gwu",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/18496gwu.PDF"
+                  },
+                  {
+                    "name": "07170CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/07170CMU.PDF"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "64159",
+                "shareGroupFiles": false,
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
+              }
+            ]
+          }
+        ],
+        "numProducts": 7
+      },
+      {
+        "category": "53030",
         "colWidth": 6,
         "groups": [
           {
@@ -3233,100 +3578,28 @@
             "useThirds": false,
             "products": [
               {
-                "name": "53022 Ty II",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/4488wep-4 4489ceh - tb.doc",
+                "name": "53030B Ty I",
+                "desc": "44-W-007",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44W007_NEW.pdf",
                 "components": [
                   {
-                    "name": "04488wep",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/04488wep-4-msds.pdf"
+                    "name": "44W007",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007.pdf"
                   },
                   {
-                    "name": "04489ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/04489ceh-4-msds.pdf"
+                    "name": "44W007CAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007CAT.pdf"
                   }
                 ],
-                "manufacturer": "Hentzen",
-                "type": "53022",
-                "shareGroupFiles": false,
-                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
-              },
-              {
-                "name": "53022 Ty III",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/03848WEP-HFX-03849CEH-HFX-NO-TB.doc",
-                "components": [
-                  {
-                    "name": "03848WEP-HFX",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/03848WEP-HFX.PDF"
-                  },
-                  {
-                    "name": "03849CEH-HFX",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/03849CEH-HFX.PDF"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "53022",
+                "manufacturer": "Deft",
+                "type": "53030",
                 "shareGroupFiles": false,
                 "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
               }
             ]
           }
         ],
-        "numProducts": 3
-      },
-      {
-        "category": "Wash Primer",
-        "colWidth": 6,
-        "groups": [
-          {
-            "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D",
-            "shareGroupFiles": false,
-            "useHalves": false,
-            "useThirds": false,
-            "products": [
-              {
-                "name": "8514C Wash Primer",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/3174yvp-1 3175ssc - tb.doc",
-                "components": [
-                  {
-                    "name": "03174yvp",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03174yvp-1-msds.pdf"
-                  },
-                  {
-                    "name": "03175ssc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/03175ssc-msds.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "Wash Primer",
-                "shareGroupFiles": false,
-                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
-              },
-              {
-                "name": "DOD-P-15328D Wash Primer",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/2110gvp 2111ssc - tb.doc",
-                "components": [
-                  {
-                    "name": "02110gvp",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02110gvp-msds.pdf"
-                  },
-                  {
-                    "name": "02111ssc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/02111ssc-msds.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "Wash Primer",
-                "shareGroupFiles": false,
-                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
-              }
-            ]
-          }
-        ],
-        "numProducts": 3
+        "numProducts": 2
       }
     ]
   ]
