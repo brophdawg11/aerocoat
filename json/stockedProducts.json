@@ -1849,7 +1849,7 @@
               {
                 "name": "515X349, BMS 10-79, Type III, Class A, Grade A.  Conventional Solids Epoxy Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X349.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X349.pdf",
                 "components": [
                   {
                     "name": "515X349",
@@ -1857,7 +1857,7 @@
                   },
                   {
                     "name": "910X533",
-                    "file": "All Suppliers -TB and MSDS/SDS/910X533.PDF"
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X533.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -1868,7 +1868,7 @@
               {
                 "name": "823-707, AMS-C-27725, Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/823-707 TB.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/823-707 TB.pdf",
                 "components": [
                   {
                     "name": "823-707",
@@ -1891,7 +1891,7 @@
               {
                 "name": "833K086/930K088, AMS-C-27725, Type I, Fuel Tank Coating",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/833K086.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/833K086.pdf",
                 "components": [
                   {
                     "name": "833K086",
@@ -1910,7 +1910,7 @@
               {
                 "name": "825-009, BAC 5710, Ty 51/BAMS 565-013.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/825-009.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/825-009.pdf",
                 "components": [
                   {
                     "name": "825-009",
@@ -1933,7 +1933,7 @@
               {
                 "name": "823-011/910-099/020-037, Mil-C-27725, Type II, Fuel Tank Coating.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/823-011.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/823-011.pdf",
                 "components": [
                   {
                     "name": "823-011",
@@ -1956,7 +1956,7 @@
               {
                 "name": "512X310/910X533, Urethane Compatible Chrome-Free Epoxy Gray Primer, BMS 10-103, Type I, Grade A.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/512X310.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/512X310.pdf",
                 "components": [
                   {
                     "name": "512X310",
@@ -1975,7 +1975,7 @@
               {
                 "name": "515X333/910X350, GMS 5001/GM 5002A.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X333.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X333.pdf",
                 "components": [
                   {
                     "name": "515X333",
@@ -1994,7 +1994,7 @@
               {
                 "name": "515X346, BAC 5710 Rev V, Ty 102/BAC 5710, Rev N, Ty 60.  Epoxy Polyamide Corrosion Preventative Bonding Primer. ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X336.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X336.PDF",
                 "components": [
                   {
                     "name": "515X346",
@@ -2017,7 +2017,7 @@
               {
                 "name": "515X408/910X937, 2 gallon kit.  Super Koropon Fluid Resistant Primer.  LMA-MR058/5PTMRG58",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X408.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X408.pdf",
                 "components": [
                   {
                     "name": "515X408",
@@ -2036,7 +2036,7 @@
               {
                 "name": "515-700/910-704, STM0685-01, Green Primer  ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515-700.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515-700.pdf",
                 "components": [
                   {
                     "name": "515-700",
@@ -2055,7 +2055,7 @@
               {
                 "name": "519X303/910X357/020X324, 299-947-167/MMS-425B.  High Temperature Epoxy Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/519X303.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/519X303.pdf",
                 "components": [
                   {
                     "name": "519X303",
@@ -2078,10 +2078,10 @@
               {
                 "name": "528X310/910X464, BMS 10-21, Type III.  Black Conductive Coating.  ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X310.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X310.PDF",
                 "components": [
                   {
-                    "name": "dummy",
+                    "name": "528X310",
                     "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X310.PDF"
                   },
                   {
@@ -2649,7 +2649,7 @@
               {
                 "name": "515X349, BMS 10-79, Type III, Class A, Grade A.  Conventional Solids Epoxy Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X349.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X349.pdf",
                 "components": [
                   {
                     "name": "515X349",
@@ -2657,7 +2657,7 @@
                   },
                   {
                     "name": "910X533",
-                    "file": "All Suppliers -TB and MSDS/SDS/910X533.PDF"
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X533.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2668,7 +2668,7 @@
               {
                 "name": "823-707, AMS-C-27725, Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/823-707 TB.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/823-707 TB.pdf",
                 "components": [
                   {
                     "name": "823-707",
@@ -2736,7 +2736,7 @@
               {
                 "name": "833K086/930K088, AMS-C-27725, Type I, Fuel Tank Coating",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/833K086.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/833K086.pdf",
                 "components": [
                   {
                     "name": "833K086",
@@ -2755,7 +2755,7 @@
               {
                 "name": "825-009, BAC 5710, Ty 51/BAMS 565-013.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/825-009.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/825-009.pdf",
                 "components": [
                   {
                     "name": "825-009",
@@ -2778,7 +2778,7 @@
               {
                 "name": "823-011/910-099/020-037, Mil-C-27725, Type II, Fuel Tank Coating.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/823-011.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/823-011.pdf",
                 "components": [
                   {
                     "name": "823-011",
@@ -2801,7 +2801,7 @@
               {
                 "name": "512X310/910X533, Urethane Compatible Chrome-Free Epoxy Gray Primer, BMS 10-103, Type I, Grade A.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/512X310.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/512X310.pdf",
                 "components": [
                   {
                     "name": "512X310",
@@ -2820,7 +2820,7 @@
               {
                 "name": "515X333/910X350, GMS 5001/GM 5002A.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X333.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X333.pdf",
                 "components": [
                   {
                     "name": "515X333",
@@ -2839,7 +2839,7 @@
               {
                 "name": "515X346, BAC 5710 Rev V, Ty 102/BAC 5710, Rev N, Ty 60.  Epoxy Polyamide Corrosion Preventative Bonding Primer. ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X336.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X336.PDF",
                 "components": [
                   {
                     "name": "515X346",
@@ -2862,7 +2862,7 @@
               {
                 "name": "515X408/910X937, 2 gallon kit.  Super Koropon Fluid Resistant Primer.  LMA-MR058/5PTMRG58",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X408.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X408.pdf",
                 "components": [
                   {
                     "name": "515X408",
@@ -2881,7 +2881,7 @@
               {
                 "name": "515-700/910-704, STM0685-01, Green Primer  ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515-700.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515-700.pdf",
                 "components": [
                   {
                     "name": "515-700",
@@ -2900,7 +2900,7 @@
               {
                 "name": "519X303/910X357/020X324, 299-947-167/MMS-425B.  High Temperature Epoxy Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/519X303.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/519X303.pdf",
                 "components": [
                   {
                     "name": "519X303",
@@ -2923,10 +2923,10 @@
               {
                 "name": "528X310/910X464, BMS 10-21, Type III.  Black Conductive Coating.  ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X310.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X310.PDF",
                 "components": [
                   {
-                    "name": "dummy",
+                    "name": "528X310",
                     "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X310.PDF"
                   },
                   {
