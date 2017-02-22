@@ -72,11 +72,11 @@
                 "components": [
                   {
                     "name": "10PW20-4",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10PW20-4_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10PW20-4.pdf"
                   },
                   {
                     "name": "ECW-104",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/ECW_104.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/ECW-104.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -540,11 +540,26 @@
                 "type": "",
                 "shareGroupFiles": false,
                 "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "28C1 Composite Pinhole Filler, 1 Gallon Unit.  BAC 5837/299-947-144.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/28c1.pdf",
+                "components": [
+                  {
+                    "name": "28C1",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/28C1.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
               }
             ]
           }
         ],
-        "numProducts": 30
+        "numProducts": 31
       },
       {
         "category": "Deft",
@@ -736,6 +751,25 @@
             "useThirds": false,
             "products": [
               {
+                "name": "02-Y-024",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02Y024.pdf",
+                "components": [
+                  {
+                    "name": "02-Y-024",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02y024a.PDF"
+                  },
+                  {
+                    "name": "02Y024CAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02y024b.PDF"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
                 "name": "02-Y-040A",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02Y040A_NEW.pdf",
@@ -747,6 +781,44 @@
                   {
                     "name": "02Y040ACAT",
                     "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y40ACAT.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "02-GN-070A",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN070A_NEW.pdf",
+                "components": [
+                  {
+                    "name": "02-GN-070A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02gn070a.pdf"
+                  },
+                  {
+                    "name": "02GN070ACAT",
+                    "file": ""
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "02-GN-070B",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN070B_NEW.pdf",
+                "components": [
+                  {
+                    "name": "02-GN-070B",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02gn070b.pdf"
+                  },
+                  {
+                    "name": "02GN070BCAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02gn070bcat.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -815,11 +887,11 @@
                 "components": [
                   {
                     "name": "44GN007",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN007.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN007.pdf"
                   },
                   {
                     "name": "44GN007CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN007CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN007CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -828,17 +900,36 @@
                 "group": "Aerospace waterborne primers to the following military and commercial specs:"
               },
               {
-                "name": "44-GN-011 (BMS 10-11AB, Type I, Class A, Grade E)",
+                "name": "44-GN-008A (Mil-PRF-85582, Type II, Class C1)",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN008A.pdf",
+                "components": [
+                  {
+                    "name": "44GN008A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44gn008a.pdf"
+                  },
+                  {
+                    "name": "44GN008ACAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44gn008ab.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "85582",
+                "shareGroupFiles": false,
+                "group": "Aerospace waterborne primers to the following military and commercial specs:"
+              },
+              {
+                "name": "44-GN-011 (BMS 10-11AB, Type I, Class A, Grade E, BAC 452 Green)",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN011_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN011",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN011.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN011.pdf"
                   },
                   {
                     "name": "44GN011CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN011CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN011CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -853,11 +944,11 @@
                 "components": [
                   {
                     "name": "44GN024",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN024.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN024.pdf"
                   },
                   {
                     "name": "44GN024CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN024CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN024CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -872,11 +963,11 @@
                 "components": [
                   {
                     "name": "44GN036",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN036.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN036.pdf"
                   },
                   {
                     "name": "44GN036CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN036CAT.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN036CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -891,11 +982,11 @@
                 "components": [
                   {
                     "name": "44GN049",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN049.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN049.PDF"
                   },
                   {
                     "name": "44GN049CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN049CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN049CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -910,11 +1001,11 @@
                 "components": [
                   {
                     "name": "44GN054",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN054.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN054.pdf"
                   },
                   {
                     "name": "44GN054CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN054CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN054CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -929,11 +1020,11 @@
                 "components": [
                   {
                     "name": "44GN060",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN060.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN060.pdf"
                   },
                   {
                     "name": "44GN060CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN060CAT.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN060CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -948,11 +1039,11 @@
                 "components": [
                   {
                     "name": "44GN072",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN072.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN072.pdf"
                   },
                   {
                     "name": "44GN072CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN072CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN072CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -967,15 +1058,34 @@
                 "components": [
                   {
                     "name": "44GN098",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN098.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN098.pdf"
                   },
                   {
                     "name": "44GN098CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN098CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN098CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
                 "type": "85582",
+                "shareGroupFiles": false,
+                "group": "Aerospace waterborne primers to the following military and commercial specs:"
+              },
+              {
+                "name": "44-Y-022 (BMS 10-11AC, Type I, Class A, Grade E, Color Yellow)",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44Y022.pdf",
+                "components": [
+                  {
+                    "name": "44Y022",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44Y022.pdf"
+                  },
+                  {
+                    "name": "44Y022CAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44Y022CAT.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "",
                 "shareGroupFiles": false,
                 "group": "Aerospace waterborne primers to the following military and commercial specs:"
               },
@@ -986,11 +1096,11 @@
                 "components": [
                   {
                     "name": "45GY005",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/45GY005.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/45GY005.pdf"
                   },
                   {
                     "name": "45GY005CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/45GY005CAT.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/45GY005CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -1066,90 +1176,7 @@
             ]
           }
         ],
-        "numProducts": 31
-      },
-      {
-        "category": "Miscellaneous",
-        "colWidth": 6,
-        "groups": [
-          {
-            "group": "Mil-T-81772 thinners:",
-            "shareGroupFiles": false,
-            "useHalves": false,
-            "useThirds": false,
-            "products": [
-              {
-                "name": "Type III",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf",
-                "components": [
-                  {
-                    "name": "81772-3",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "81772",
-                "shareGroupFiles": false,
-                "group": "Mil-T-81772 thinners:"
-              }
-            ]
-          },
-          {
-            "group": "Commercial and General Aviation Aerospace Products",
-            "shareGroupFiles": false,
-            "useHalves": false,
-            "useThirds": false,
-            "products": [
-              {
-                "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Sea to Sky/TDS - SPC 909.pdf",
-                "components": [
-                  {
-                    "name": "SPC-909",
-                    "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              },
-              {
-                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
-                "components": [
-                  {
-                    "name": "TT-P-1757",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Spectrum Yellow.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              },
-              {
-                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Green",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
-                "components": [
-                  {
-                    "name": "TT-P-1757",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/TTP1757 Green.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              }
-            ]
-          }
-        ],
-        "numProducts": 6
+        "numProducts": 36
       }
     ],
     [
@@ -1185,7 +1212,7 @@
                 "components": [
                   {
                     "name": "8618tuz-ulvoc",
-                    "file": ""
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08618TUZ-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -1555,7 +1582,7 @@
                 "components": [
                   {
                     "name": "16635ref-lvoc",
-                    "file": ""
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16062CEH-LVOC.pdf"
                   },
                   {
                     "name": "16062ceh-lvoc",
@@ -1669,7 +1696,7 @@
                 "components": [
                   {
                     "name": "16632kef-lvoc",
-                    "file": ""
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16632KEF-LVOC.pdf"
                   },
                   {
                     "name": "16062ceh-lvoc",
@@ -2267,9 +2294,32 @@
         "numProducts": 15
       },
       {
-        "category": "",
+        "category": "Miscellaneous",
         "colWidth": 6,
         "groups": [
+          {
+            "group": "Mil-T-81772 thinners:",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "Type III",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf",
+                "components": [
+                  {
+                    "name": "81772-3",
+                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
+                "type": "81772",
+                "shareGroupFiles": false,
+                "group": "Mil-T-81772 thinners:"
+              }
+            ]
+          },
           {
             "group": "Commercial and General Aviation Aerospace Products",
             "shareGroupFiles": false,
@@ -2277,16 +2327,46 @@
             "useThirds": false,
             "products": [
               {
-                "name": "28C1 Composite Pinhole Filler, 1 Gallon Unit.  BAC 5837/299-947-144.",
+                "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/28c1.pdf",
+                "file": "All Suppliers -TB and MSDS/Sea to Sky/TDS - SPC 909.pdf",
                 "components": [
                   {
-                    "name": "28C1",
-                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/28C1.pdf"
+                    "name": "SPC-909",
+                    "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
                   }
                 ],
-                "manufacturer": "",
+                "manufacturer": "Miscellaneous",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "components": [
+                  {
+                    "name": "TT-P-1757",
+                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Spectrum Yellow.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Green",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "components": [
+                  {
+                    "name": "TT-P-1757",
+                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/TTP1757 Green.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
                 "type": "",
                 "shareGroupFiles": false,
                 "group": "Commercial and General Aviation Aerospace Products"
@@ -2294,7 +2374,7 @@
             ]
           }
         ],
-        "numProducts": 2
+        "numProducts": 6
       }
     ]
   ],
@@ -2311,17 +2391,17 @@
             "useThirds": false,
             "products": [
               {
-                "name": "44-GN-011 (BMS 10-11AB, Type I, Class A, Grade E)",
+                "name": "44-GN-011 (BMS 10-11AB, Type I, Class A, Grade E, BAC 452 Green)",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN011_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN011",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN011.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN011.pdf"
                   },
                   {
                     "name": "44GN011CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN011CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN011CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -2336,11 +2416,11 @@
                 "components": [
                   {
                     "name": "44GN054",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN054.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN054.pdf"
                   },
                   {
                     "name": "44GN054CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN054CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN054CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -2355,11 +2435,30 @@
                 "components": [
                   {
                     "name": "44GN060",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN060.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN060.pdf"
                   },
                   {
                     "name": "44GN060CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN060CAT.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN060CAT.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Aerospace waterborne primers to the following military and commercial specs:"
+              },
+              {
+                "name": "44-Y-022 (BMS 10-11AC, Type I, Class A, Grade E, Color Yellow)",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44Y022.pdf",
+                "components": [
+                  {
+                    "name": "44Y022",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44Y022.pdf"
+                  },
+                  {
+                    "name": "44Y022CAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44Y022CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -2374,11 +2473,11 @@
                 "components": [
                   {
                     "name": "45GY005",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/45GY005.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/45GY005.pdf"
                   },
                   {
                     "name": "45GY005CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/45GY005CAT.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/45GY005CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -3203,7 +3302,7 @@
                     "file": "All Suppliers -TB and MSDS/AKZO/SDS/28C1.pdf"
                   }
                 ],
-                "manufacturer": "",
+                "manufacturer": "AkzoNobel",
                 "type": "",
                 "shareGroupFiles": false,
                 "group": "Commercial and General Aviation Aerospace Products"
@@ -3211,7 +3310,7 @@
             ]
           }
         ],
-        "numProducts": 48
+        "numProducts": 49
       },
       {
         "category": "85582",
@@ -3230,11 +3329,30 @@
                 "components": [
                   {
                     "name": "44GN007",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN007.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN007.pdf"
                   },
                   {
                     "name": "44GN007CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN007CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN007CAT.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "85582",
+                "shareGroupFiles": false,
+                "group": "Aerospace waterborne primers to the following military and commercial specs:"
+              },
+              {
+                "name": "44-GN-008A (Mil-PRF-85582, Type II, Class C1)",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN008A.pdf",
+                "components": [
+                  {
+                    "name": "44GN008A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44gn008a.pdf"
+                  },
+                  {
+                    "name": "44GN008ACAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44gn008ab.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -3249,11 +3367,11 @@
                 "components": [
                   {
                     "name": "44GN024",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN024.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN024.pdf"
                   },
                   {
                     "name": "44GN024CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN024CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN024CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -3268,11 +3386,11 @@
                 "components": [
                   {
                     "name": "44GN036",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN036.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN036.pdf"
                   },
                   {
                     "name": "44GN036CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN036CAT.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN036CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -3287,11 +3405,11 @@
                 "components": [
                   {
                     "name": "44GN049",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN049.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN049.PDF"
                   },
                   {
                     "name": "44GN049CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN049CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN049CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -3306,11 +3424,11 @@
                 "components": [
                   {
                     "name": "44GN072",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN072.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN072.pdf"
                   },
                   {
                     "name": "44GN072CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN072CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN072CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -3325,11 +3443,11 @@
                 "components": [
                   {
                     "name": "44GN098",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN098.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN098.pdf"
                   },
                   {
                     "name": "44GN098CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/MSDS/44GN098CAT.pdf"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN098CAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -3344,11 +3462,11 @@
                 "components": [
                   {
                     "name": "10PW20-4",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/10PW20-4_USA_ENG.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10PW20-4.pdf"
                   },
                   {
                     "name": "ECW-104",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/ECW_104.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/ECW-104.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -3359,70 +3477,10 @@
             ]
           }
         ],
-        "numProducts": 8
+        "numProducts": 9
       },
       {
-        "category": "81772",
-        "colWidth": 6,
-        "groups": [
-          {
-            "group": "Mil-T-81772 thinners:",
-            "shareGroupFiles": false,
-            "useHalves": false,
-            "useThirds": false,
-            "products": [
-              {
-                "name": "Type I",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-213.pdf",
-                "components": [
-                  {
-                    "name": "IS-213",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-213.pdf"
-                  }
-                ],
-                "manufacturer": "Deft",
-                "type": "81772",
-                "shareGroupFiles": false,
-                "group": "Mil-T-81772 thinners:"
-              },
-              {
-                "name": "Type II",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-237.pdf",
-                "components": [
-                  {
-                    "name": "IS-237",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-237.pdf"
-                  }
-                ],
-                "manufacturer": "Deft",
-                "type": "81772",
-                "shareGroupFiles": false,
-                "group": "Mil-T-81772 thinners:"
-              },
-              {
-                "name": "Type III",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf",
-                "components": [
-                  {
-                    "name": "81772-3",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "81772",
-                "shareGroupFiles": false,
-                "group": "Mil-T-81772 thinners:"
-              }
-            ]
-          }
-        ],
-        "numProducts": 4
-      },
-      {
-        "category": "53030",
+        "category": "53022",
         "colWidth": 6,
         "groups": [
           {
@@ -3432,28 +3490,119 @@
             "useThirds": false,
             "products": [
               {
-                "name": "53030B Ty I",
-                "desc": "44-W-007",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44W007_NEW.pdf",
+                "name": "53022 Ty II",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/4488wep-4 4489ceh - tb.doc",
                 "components": [
                   {
-                    "name": "44W007",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007.pdf"
+                    "name": "04488wep",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/04488WEP-4.pdf"
                   },
                   {
-                    "name": "44W007CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007CAT.pdf"
+                    "name": "04489ceh",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/04489CEH-4.pdf"
                   }
                 ],
-                "manufacturer": "Deft",
-                "type": "53030",
+                "manufacturer": "Hentzen",
+                "type": "53022",
+                "shareGroupFiles": false,
+                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
+              },
+              {
+                "name": "53022 Ty III",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/03848WEP-HFX-03849CEH-HFX-NO-TB.doc",
+                "components": [
+                  {
+                    "name": "03848WEP-HFX",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03848WEP-HFX.pdf"
+                  },
+                  {
+                    "name": "03849CEH-HFX",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03849CEH-HFX.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "53022",
+                "shareGroupFiles": false,
+                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
+              },
+              {
+                "name": "53022 Ty IV",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/22167WEP-22170CEH-TB.pdf",
+                "components": [
+                  {
+                    "name": "22167WEP",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/22167WEP.pdf"
+                  },
+                  {
+                    "name": "22170CEH",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/22170CEH.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "53022",
                 "shareGroupFiles": false,
                 "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
               }
             ]
           }
         ],
-        "numProducts": 2
+        "numProducts": 4
+      },
+      {
+        "category": "Wash Primer",
+        "colWidth": 6,
+        "groups": [
+          {
+            "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "8514C Wash Primer",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/3174yvp-1 3175ssc - tb.doc",
+                "components": [
+                  {
+                    "name": "03174yvp",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03174YVP-1.pdf"
+                  },
+                  {
+                    "name": "03175ssc",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03175SSC.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "Wash Primer",
+                "shareGroupFiles": false,
+                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
+              },
+              {
+                "name": "DOD-P-15328D Wash Primer",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/2110gvp 2111ssc - tb.doc",
+                "components": [
+                  {
+                    "name": "02110gvp",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/02110GVP.pdf"
+                  },
+                  {
+                    "name": "02111ssc",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/02111SSC.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "Wash Primer",
+                "shareGroupFiles": false,
+                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
+              }
+            ]
+          }
+        ],
+        "numProducts": 3
       }
     ],
     [
@@ -3474,7 +3623,7 @@
                 "components": [
                   {
                     "name": "16635ref-lvoc",
-                    "file": ""
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16062CEH-LVOC.pdf"
                   },
                   {
                     "name": "16062ceh-lvoc",
@@ -3702,7 +3851,7 @@
                 "components": [
                   {
                     "name": "16632kef-lvoc",
-                    "file": ""
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16632KEF-LVOC.pdf"
                   },
                   {
                     "name": "16062ceh-lvoc",
@@ -3865,7 +4014,7 @@
                 "components": [
                   {
                     "name": "8618tuz-ulvoc",
-                    "file": ""
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/08618TUZ-ULVOC.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
@@ -4228,6 +4377,25 @@
                 "group": "Aerospace primers to Mil-PRF-23377"
               },
               {
+                "name": "02-Y-024",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02Y024.pdf",
+                "components": [
+                  {
+                    "name": "02-Y-024",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02y024a.PDF"
+                  },
+                  {
+                    "name": "02Y024CAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02y024b.PDF"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
                 "name": "02-Y-040A",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02Y040A_NEW.pdf",
@@ -4239,6 +4407,44 @@
                   {
                     "name": "02Y040ACAT",
                     "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y40ACAT.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "02-GN-070A",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN070A_NEW.pdf",
+                "components": [
+                  {
+                    "name": "02-GN-070A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02gn070a.pdf"
+                  },
+                  {
+                    "name": "02GN070ACAT",
+                    "file": ""
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "02-GN-070B",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN070B_NEW.pdf",
+                "components": [
+                  {
+                    "name": "02-GN-070B",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02gn070b.pdf"
+                  },
+                  {
+                    "name": "02GN070BCAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02gn070bcat.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -4287,7 +4493,7 @@
             ]
           }
         ],
-        "numProducts": 10
+        "numProducts": 13
       },
       {
         "category": "64159",
@@ -4419,7 +4625,67 @@
         "numProducts": 7
       },
       {
-        "category": "53022",
+        "category": "81772",
+        "colWidth": 6,
+        "groups": [
+          {
+            "group": "Mil-T-81772 thinners:",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "Type I",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-213.pdf",
+                "components": [
+                  {
+                    "name": "IS-213",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-213.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "81772",
+                "shareGroupFiles": false,
+                "group": "Mil-T-81772 thinners:"
+              },
+              {
+                "name": "Type II",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-237.pdf",
+                "components": [
+                  {
+                    "name": "IS-237",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-237.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "81772",
+                "shareGroupFiles": false,
+                "group": "Mil-T-81772 thinners:"
+              },
+              {
+                "name": "Type III",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf",
+                "components": [
+                  {
+                    "name": "81772-3",
+                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
+                "type": "81772",
+                "shareGroupFiles": false,
+                "group": "Mil-T-81772 thinners:"
+              }
+            ]
+          }
+        ],
+        "numProducts": 4
+      },
+      {
+        "category": "53030",
         "colWidth": 6,
         "groups": [
           {
@@ -4429,119 +4695,28 @@
             "useThirds": false,
             "products": [
               {
-                "name": "53022 Ty II",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/4488wep-4 4489ceh - tb.doc",
+                "name": "53030B Ty I",
+                "desc": "44-W-007",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44W007_NEW.pdf",
                 "components": [
                   {
-                    "name": "04488wep",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/04488WEP-4.pdf"
+                    "name": "44W007",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007.pdf"
                   },
                   {
-                    "name": "04489ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/04489CEH-4.pdf"
+                    "name": "44W007CAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44W007CAT.pdf"
                   }
                 ],
-                "manufacturer": "Hentzen",
-                "type": "53022",
-                "shareGroupFiles": false,
-                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
-              },
-              {
-                "name": "53022 Ty III",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/03848WEP-HFX-03849CEH-HFX-NO-TB.doc",
-                "components": [
-                  {
-                    "name": "03848WEP-HFX",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03848WEP-HFX.pdf"
-                  },
-                  {
-                    "name": "03849CEH-HFX",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03849CEH-HFX.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "53022",
-                "shareGroupFiles": false,
-                "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
-              },
-              {
-                "name": "53022 Ty IV",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/22167WEP-22170CEH-TB.pdf",
-                "components": [
-                  {
-                    "name": "22167WEP",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/22167WEP.pdf"
-                  },
-                  {
-                    "name": "22170CEH",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/22170CEH.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "53022",
+                "manufacturer": "Deft",
+                "type": "53030",
                 "shareGroupFiles": false,
                 "group": "CARC Primers Mil-P-53022 and Mil-P-53030B"
               }
             ]
           }
         ],
-        "numProducts": 4
-      },
-      {
-        "category": "Wash Primer",
-        "colWidth": 6,
-        "groups": [
-          {
-            "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D",
-            "shareGroupFiles": false,
-            "useHalves": false,
-            "useThirds": false,
-            "products": [
-              {
-                "name": "8514C Wash Primer",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/3174yvp-1 3175ssc - tb.doc",
-                "components": [
-                  {
-                    "name": "03174yvp",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03174YVP-1.pdf"
-                  },
-                  {
-                    "name": "03175ssc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/03175SSC.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "Wash Primer",
-                "shareGroupFiles": false,
-                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
-              },
-              {
-                "name": "DOD-P-15328D Wash Primer",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/2110gvp 2111ssc - tb.doc",
-                "components": [
-                  {
-                    "name": "02110gvp",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/02110GVP.pdf"
-                  },
-                  {
-                    "name": "02111ssc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/02111SSC.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "Wash Primer",
-                "shareGroupFiles": false,
-                "group": "Wash Primers to Mil-C-8514C & DOD-P-15328D"
-              }
-            ]
-          }
-        ],
-        "numProducts": 3
+        "numProducts": 2
       }
     ]
   ]
