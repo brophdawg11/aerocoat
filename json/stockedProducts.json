@@ -956,6 +956,66 @@
           }
         ],
         "numProducts": 29
+      },
+      {
+        "category": "Miscellaneous",
+        "colWidth": 6,
+        "groups": [
+          {
+            "group": "Commercial and General Aviation Aerospace Products",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Sea to Sky/TDS - SPC 909.pdf",
+                "components": [
+                  {
+                    "name": "SPC-909",
+                    "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "components": [
+                  {
+                    "name": "TT-P-1757",
+                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Spectrum Yellow.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Green",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "components": [
+                  {
+                    "name": "TT-P-1757",
+                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/TTP1757 Green.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              }
+            ]
+          }
+        ],
+        "numProducts": 4
       }
     ],
     [
@@ -1762,7 +1822,7 @@
               {
                 "name": "SPEEAY051A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN084.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/EEAY051.PDF",
                 "components": [
                   {
                     "name": "SPEEAY051A",
@@ -1789,15 +1849,15 @@
               {
                 "name": "515X349, BMS 10-79, Type III, Class A, Grade A.  Conventional Solids Epoxy Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/DeSoto_Conventional_Exterior_Primers.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X349.PDF",
                 "components": [
                   {
                     "name": "515X349",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/515X349.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X349.pdf"
                   },
                   {
                     "name": "910X533",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/910X533.pdf"
+                    "file": "All Suppliers -TB and MSDS/SDS/910X533.PDF"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -1808,19 +1868,225 @@
               {
                 "name": "823-707, AMS-C-27725, Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/desoto_ift_integral_fuel_tank_coatings.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/823-707 TB.PDF",
                 "components": [
                   {
                     "name": "823-707",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/823-707.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/823-707.pdf"
                   },
                   {
                     "name": "910-702",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/910-702.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-702.pdf"
                   },
                   {
                     "name": "020-707",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/020-707.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-707.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "833K086/930K088, AMS-C-27725, Type I, Fuel Tank Coating",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/833K086.PDF",
+                "components": [
+                  {
+                    "name": "833K086",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/833K086.pdf"
+                  },
+                  {
+                    "name": "930K088",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/930K088.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "825-009, BAC 5710, Ty 51/BAMS 565-013.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/825-009.PDF",
+                "components": [
+                  {
+                    "name": "825-009",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/825-009.pdf"
+                  },
+                  {
+                    "name": "910-175",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-175.pdf"
+                  },
+                  {
+                    "name": "020-044",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-044.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "823-011/910-099/020-037, Mil-C-27725, Type II, Fuel Tank Coating.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/823-011.PDF",
+                "components": [
+                  {
+                    "name": "823-011",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/823-011.pdf"
+                  },
+                  {
+                    "name": "910-099",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-099.pdf"
+                  },
+                  {
+                    "name": "020-037",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-037.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "512X310/910X533, Urethane Compatible Chrome-Free Epoxy Gray Primer, BMS 10-103, Type I, Grade A.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/512X310.PDF",
+                "components": [
+                  {
+                    "name": "512X310",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/512X310.pdf"
+                  },
+                  {
+                    "name": "910X533",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X533.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "515X333/910X350, GMS 5001/GM 5002A.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X333.PDF",
+                "components": [
+                  {
+                    "name": "515X333",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X333.pdf"
+                  },
+                  {
+                    "name": "910X350",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X350.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "515X346, BAC 5710 Rev V, Ty 102/BAC 5710, Rev N, Ty 60.  Epoxy Polyamide Corrosion Preventative Bonding Primer. ",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X336.PDF",
+                "components": [
+                  {
+                    "name": "515X346",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X336.PDF"
+                  },
+                  {
+                    "name": "910X520",
+                    "file": ""
+                  },
+                  {
+                    "name": "020-702",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-702.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "515X408/910X937, 2 gallon kit.  Super Koropon Fluid Resistant Primer.  LMA-MR058/5PTMRG58",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X408.PDF",
+                "components": [
+                  {
+                    "name": "515X408",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X408.pdf"
+                  },
+                  {
+                    "name": "910X937",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X350.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "515-700/910-704, STM0685-01, Green Primer  ",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515-700.PDF",
+                "components": [
+                  {
+                    "name": "515-700",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515-700.pdf"
+                  },
+                  {
+                    "name": "910-704",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-704.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "519X303/910X357/020X324, 299-947-167/MMS-425B.  High Temperature Epoxy Primer",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/519X303.PDF",
+                "components": [
+                  {
+                    "name": "519X303",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/519X303.pdf"
+                  },
+                  {
+                    "name": "910X357",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X357.pdf"
+                  },
+                  {
+                    "name": "020X324",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020X324.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "528X310/910X464, BMS 10-21, Type III.  Black Conductive Coating.  ",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X310.PDF",
+                "components": [
+                  {
+                    "name": "528X310",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X310.PDF"
+                  },
+                  {
+                    "name": "910X464",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X464.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -1831,52 +2097,7 @@
             ]
           }
         ],
-        "numProducts": 5
-      },
-      {
-        "category": "Miscellaneous",
-        "colWidth": 6,
-        "groups": [
-          {
-            "group": "Commercial and General Aviation Aerospace Products",
-            "shareGroupFiles": false,
-            "useHalves": false,
-            "useThirds": false,
-            "products": [
-              {
-                "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Sea to Sky/TDS - SPC 909.pdf",
-                "components": [
-                  {
-                    "name": "SPC-909",
-                    "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              },
-              {
-                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
-                "components": [
-                  {
-                    "name": "TT-P-1757",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/31566MSDS.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              }
-            ]
-          }
-        ],
-        "numProducts": 3
+        "numProducts": 15
       }
     ]
   ],
@@ -2428,15 +2649,15 @@
               {
                 "name": "515X349, BMS 10-79, Type III, Class A, Grade A.  Conventional Solids Epoxy Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/DeSoto_Conventional_Exterior_Primers.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X349.PDF",
                 "components": [
                   {
                     "name": "515X349",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/515X349.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X349.pdf"
                   },
                   {
                     "name": "910X533",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/910X533.pdf"
+                    "file": "All Suppliers -TB and MSDS/SDS/910X533.PDF"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2447,19 +2668,19 @@
               {
                 "name": "823-707, AMS-C-27725, Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/desoto_ift_integral_fuel_tank_coatings.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/823-707 TB.PDF",
                 "components": [
                   {
                     "name": "823-707",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/823-707.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/823-707.pdf"
                   },
                   {
                     "name": "910-702",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/910-702.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-702.pdf"
                   },
                   {
                     "name": "020-707",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/020-707.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-707.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2489,10 +2710,231 @@
                 "components": [
                   {
                     "name": "TT-P-1757",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/31566MSDS.pdf"
+                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Spectrum Yellow.pdf"
                   }
                 ],
                 "manufacturer": "Miscellaneous",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Green",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "components": [
+                  {
+                    "name": "TT-P-1757",
+                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/TTP1757 Green.pdf"
+                  }
+                ],
+                "manufacturer": "Miscellaneous",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "833K086/930K088, AMS-C-27725, Type I, Fuel Tank Coating",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/833K086.PDF",
+                "components": [
+                  {
+                    "name": "833K086",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/833K086.pdf"
+                  },
+                  {
+                    "name": "930K088",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/930K088.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "825-009, BAC 5710, Ty 51/BAMS 565-013.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/825-009.PDF",
+                "components": [
+                  {
+                    "name": "825-009",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/825-009.pdf"
+                  },
+                  {
+                    "name": "910-175",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-175.pdf"
+                  },
+                  {
+                    "name": "020-044",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-044.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "823-011/910-099/020-037, Mil-C-27725, Type II, Fuel Tank Coating.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/823-011.PDF",
+                "components": [
+                  {
+                    "name": "823-011",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/823-011.pdf"
+                  },
+                  {
+                    "name": "910-099",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-099.pdf"
+                  },
+                  {
+                    "name": "020-037",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-037.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "512X310/910X533, Urethane Compatible Chrome-Free Epoxy Gray Primer, BMS 10-103, Type I, Grade A.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/512X310.PDF",
+                "components": [
+                  {
+                    "name": "512X310",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/512X310.pdf"
+                  },
+                  {
+                    "name": "910X533",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X533.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "515X333/910X350, GMS 5001/GM 5002A.",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X333.PDF",
+                "components": [
+                  {
+                    "name": "515X333",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X333.pdf"
+                  },
+                  {
+                    "name": "910X350",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X350.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "515X346, BAC 5710 Rev V, Ty 102/BAC 5710, Rev N, Ty 60.  Epoxy Polyamide Corrosion Preventative Bonding Primer. ",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X336.PDF",
+                "components": [
+                  {
+                    "name": "515X346",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X336.PDF"
+                  },
+                  {
+                    "name": "910X520",
+                    "file": ""
+                  },
+                  {
+                    "name": "020-702",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-702.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "515X408/910X937, 2 gallon kit.  Super Koropon Fluid Resistant Primer.  LMA-MR058/5PTMRG58",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X408.PDF",
+                "components": [
+                  {
+                    "name": "515X408",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X408.pdf"
+                  },
+                  {
+                    "name": "910X937",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X350.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "515-700/910-704, STM0685-01, Green Primer  ",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515-700.PDF",
+                "components": [
+                  {
+                    "name": "515-700",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515-700.pdf"
+                  },
+                  {
+                    "name": "910-704",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-704.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "519X303/910X357/020X324, 299-947-167/MMS-425B.  High Temperature Epoxy Primer",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/519X303.PDF",
+                "components": [
+                  {
+                    "name": "519X303",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/519X303.pdf"
+                  },
+                  {
+                    "name": "910X357",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X357.pdf"
+                  },
+                  {
+                    "name": "020X324",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020X324.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "",
+                "shareGroupFiles": false,
+                "group": "Commercial and General Aviation Aerospace Products"
+              },
+              {
+                "name": "528X310/910X464, BMS 10-21, Type III.  Black Conductive Coating.  ",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X310.PDF",
+                "components": [
+                  {
+                    "name": "528X310",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X310.PDF"
+                  },
+                  {
+                    "name": "910X464",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X464.pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
                 "type": "",
                 "shareGroupFiles": false,
                 "group": "Commercial and General Aviation Aerospace Products"
@@ -2500,193 +2942,136 @@
             ]
           }
         ],
-        "numProducts": 33
+        "numProducts": 44
       },
       {
-        "category": "23377",
+        "category": "64159",
         "colWidth": 6,
         "groups": [
           {
-            "group": "Aerospace primers to Mil-PRF-23377",
+            "group": "Mil-DTL-64159 Type II available in the following colors:",
             "shareGroupFiles": false,
             "useHalves": false,
             "useThirds": false,
             "products": [
               {
-                "name": "Type I, Class C1",
+                "name": "FS 34094 (383 Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/53012yep 16709ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7131gwu 7170cmu - tb.doc",
                 "components": [
                   {
-                    "name": "53012YEP",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/53012YEP.pdf"
+                    "name": "07131gwu",
+                    "file": ""
                   },
                   {
-                    "name": "16709ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
+                    "name": "07170CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
-                "type": "23377",
+                "type": "64159",
                 "shareGroupFiles": false,
-                "group": "Aerospace primers to Mil-PRF-23377"
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
               },
               {
-                "name": "Type I, Class C2",
+                "name": "FS 33446 (686 Tan)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377J, Type I, Class C2/ad9318FD ad2298FD - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7178twu 7170cmu - tb.doc",
                 "components": [
                   {
-                    "name": "ad9318",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD9318-FD.pdf"
+                    "name": "07178twu",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07178TWU.pdf"
                   },
                   {
-                    "name": "ad2298",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD2298.pdf"
+                    "name": "07170CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
-                "type": "23377",
+                "type": "64159",
                 "shareGroupFiles": false,
-                "group": "Aerospace primers to Mil-PRF-23377"
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
               },
               {
-                "name": "Type I, Class N",
+                "name": "FS 37030 (Black)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/16708tep 16709ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7180kwu 7170 - tb.doc",
                 "components": [
                   {
-                    "name": "16708tep",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16708TEP.pdf"
+                    "name": "07180kwu",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07180KWU.pdf"
                   },
                   {
-                    "name": "16709ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
+                    "name": "07170CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
-                "type": "23377",
+                "type": "64159",
                 "shareGroupFiles": false,
-                "group": "Aerospace primers to Mil-PRF-23377"
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
               },
               {
-                "name": "Type II, Class C2",
+                "name": "FS 37038 (Aircraft Black)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377H, Type II, Class C2/AD9325-FD MIL-PRF-23377 T2 CLS C2 TDS.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17101kwa 17102cmu - tb.doc",
                 "components": [
                   {
-                    "name": "ad9325",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD9325.pdf"
+                    "name": "17101kwa",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17101KWA.pdf"
                   },
                   {
-                    "name": "ad2298",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD2298.pdf"
+                    "name": "17102CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17102CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
-                "type": "23377",
+                "type": "64159",
                 "shareGroupFiles": false,
-                "group": "Aerospace primers to Mil-PRF-23377"
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
               },
               {
-                "name": "Type II, Class N",
+                "name": "FS 34031 (Aircraft Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/17176kep 16709ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16931gwu 16932cmu - tb.doc",
                 "components": [
                   {
-                    "name": "17176KEP",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17176KEP.pdf"
+                    "name": "16931gwu",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16931GWU.pdf"
                   },
                   {
-                    "name": "16709ceh",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
+                    "name": "16932CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16932CMU.pdf"
                   }
                 ],
                 "manufacturer": "Hentzen",
-                "type": "23377",
+                "type": "64159",
                 "shareGroupFiles": false,
-                "group": "Aerospace primers to Mil-PRF-23377"
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
               },
               {
-                "name": "10P20-13",
+                "name": "FS 34160 (Foliage Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p20-13.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/18496gwu 7170cmu - tb.pdf",
                 "components": [
                   {
-                    "name": "10P20-13",
-                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P20-13.pdf"
+                    "name": "18496gwu",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/18496GWU.pdf"
                   },
                   {
-                    "name": "EC-213",
-                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-213.pdf"
+                    "name": "07170CMU",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
                   }
                 ],
-                "manufacturer": "AkzoNobel",
-                "type": "23377",
+                "manufacturer": "Hentzen",
+                "type": "64159",
                 "shareGroupFiles": false,
-                "group": "Aerospace primers to Mil-PRF-23377"
-              },
-              {
-                "name": "02-Y-040A",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02Y040A_NEW.pdf",
-                "components": [
-                  {
-                    "name": "02Y040A",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y40A.pdf"
-                  },
-                  {
-                    "name": "02Y040ACAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y40ACAT.pdf"
-                  }
-                ],
-                "manufacturer": "Deft",
-                "type": "23377",
-                "shareGroupFiles": false,
-                "group": "Aerospace primers to Mil-PRF-23377"
-              },
-              {
-                "name": "02-GN-084",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN084.pdf",
-                "components": [
-                  {
-                    "name": "02GN084",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02GN84.pdf"
-                  },
-                  {
-                    "name": "02GN084CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02GN84CAT.pdf"
-                  }
-                ],
-                "manufacturer": "Deft",
-                "type": "23377",
-                "shareGroupFiles": false,
-                "group": "Aerospace primers to Mil-PRF-23377"
-              },
-              {
-                "name": "SPEEAY051A",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN084.pdf",
-                "components": [
-                  {
-                    "name": "SPEEAY051A",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051A).pdf"
-                  },
-                  {
-                    "name": "EEAY051B",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051B).pdf"
-                  }
-                ],
-                "manufacturer": "PPG",
-                "type": "23377",
-                "shareGroupFiles": false,
-                "group": "Aerospace primers to Mil-PRF-23377"
+                "group": "Mil-DTL-64159 Type II available in the following colors:"
               }
             ]
           }
         ],
-        "numProducts": 10
+        "numProducts": 7
       },
       {
         "category": "53022",
@@ -2759,51 +3144,6 @@
           }
         ],
         "numProducts": 4
-      },
-      {
-        "category": "81772",
-        "colWidth": 6,
-        "groups": [
-          {
-            "group": "Mil-T-81772 thinners:",
-            "shareGroupFiles": false,
-            "useHalves": false,
-            "useThirds": false,
-            "products": [
-              {
-                "name": "Type I",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-213.pdf",
-                "components": [
-                  {
-                    "name": "IS-213",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-213.pdf"
-                  }
-                ],
-                "manufacturer": "Deft",
-                "type": "81772",
-                "shareGroupFiles": false,
-                "group": "Mil-T-81772 thinners:"
-              },
-              {
-                "name": "Type II",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-237.pdf",
-                "components": [
-                  {
-                    "name": "IS-237",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-237.pdf"
-                  }
-                ],
-                "manufacturer": "Deft",
-                "type": "81772",
-                "shareGroupFiles": false,
-                "group": "Mil-T-81772 thinners:"
-              }
-            ]
-          }
-        ],
-        "numProducts": 3
       },
       {
         "category": "53030",
@@ -3401,6 +3741,192 @@
         "numProducts": 12
       },
       {
+        "category": "23377",
+        "colWidth": 6,
+        "groups": [
+          {
+            "group": "Aerospace primers to Mil-PRF-23377",
+            "shareGroupFiles": false,
+            "useHalves": false,
+            "useThirds": false,
+            "products": [
+              {
+                "name": "Type I, Class C1",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/53012yep 16709ceh - tb.doc",
+                "components": [
+                  {
+                    "name": "53012YEP",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/53012YEP.pdf"
+                  },
+                  {
+                    "name": "16709ceh",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "Type I, Class C2",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377J, Type I, Class C2/ad9318FD ad2298FD - tb.doc",
+                "components": [
+                  {
+                    "name": "ad9318",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD9318-FD.pdf"
+                  },
+                  {
+                    "name": "ad2298",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD2298.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "Type I, Class N",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/16708tep 16709ceh - tb.doc",
+                "components": [
+                  {
+                    "name": "16708tep",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16708TEP.pdf"
+                  },
+                  {
+                    "name": "16709ceh",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "Type II, Class C2",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377H, Type II, Class C2/AD9325-FD MIL-PRF-23377 T2 CLS C2 TDS.doc",
+                "components": [
+                  {
+                    "name": "ad9325",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD9325.pdf"
+                  },
+                  {
+                    "name": "ad2298",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/AD2298.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "Type II, Class N",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/17176kep 16709ceh - tb.doc",
+                "components": [
+                  {
+                    "name": "17176KEP",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17176KEP.pdf"
+                  },
+                  {
+                    "name": "16709ceh",
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16709CEH.pdf"
+                  }
+                ],
+                "manufacturer": "Hentzen",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "10P20-13",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p20-13.pdf",
+                "components": [
+                  {
+                    "name": "10P20-13",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/10P20-13.pdf"
+                  },
+                  {
+                    "name": "EC-213",
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-213.pdf"
+                  }
+                ],
+                "manufacturer": "AkzoNobel",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "02-Y-040A",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02Y040A_NEW.pdf",
+                "components": [
+                  {
+                    "name": "02Y040A",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y40A.pdf"
+                  },
+                  {
+                    "name": "02Y040ACAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y40ACAT.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "02-GN-084",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN084.pdf",
+                "components": [
+                  {
+                    "name": "02GN084",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02GN84.pdf"
+                  },
+                  {
+                    "name": "02GN084CAT",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02GN84CAT.pdf"
+                  }
+                ],
+                "manufacturer": "Deft",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              },
+              {
+                "name": "SPEEAY051A",
+                "desc": "",
+                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/EEAY051.PDF",
+                "components": [
+                  {
+                    "name": "SPEEAY051A",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051A).pdf"
+                  },
+                  {
+                    "name": "EEAY051B",
+                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051B).pdf"
+                  }
+                ],
+                "manufacturer": "PPG",
+                "type": "23377",
+                "shareGroupFiles": false,
+                "group": "Aerospace primers to Mil-PRF-23377"
+              }
+            ]
+          }
+        ],
+        "numProducts": 10
+      },
+      {
         "category": "85582",
         "colWidth": 6,
         "groups": [
@@ -3549,133 +4075,49 @@
         "numProducts": 8
       },
       {
-        "category": "64159",
+        "category": "81772",
         "colWidth": 6,
         "groups": [
           {
-            "group": "Mil-DTL-64159 Type II available in the following colors:",
+            "group": "Mil-T-81772 thinners:",
             "shareGroupFiles": false,
             "useHalves": false,
             "useThirds": false,
             "products": [
               {
-                "name": "FS 34094 (383 Green)",
+                "name": "Type I",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7131gwu 7170cmu - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-213.pdf",
                 "components": [
                   {
-                    "name": "07131gwu",
-                    "file": ""
-                  },
-                  {
-                    "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
+                    "name": "IS-213",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-213.pdf"
                   }
                 ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
+                "manufacturer": "Deft",
+                "type": "81772",
                 "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
+                "group": "Mil-T-81772 thinners:"
               },
               {
-                "name": "FS 33446 (686 Tan)",
+                "name": "Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7178twu 7170cmu - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-237.pdf",
                 "components": [
                   {
-                    "name": "07178twu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07178TWU.pdf"
-                  },
-                  {
-                    "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
+                    "name": "IS-237",
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/IS-237.pdf"
                   }
                 ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
+                "manufacturer": "Deft",
+                "type": "81772",
                 "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
-              },
-              {
-                "name": "FS 37030 (Black)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7180kwu 7170 - tb.doc",
-                "components": [
-                  {
-                    "name": "07180kwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07180KWU.pdf"
-                  },
-                  {
-                    "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
-              },
-              {
-                "name": "FS 37038 (Aircraft Black)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17101kwa 17102cmu - tb.doc",
-                "components": [
-                  {
-                    "name": "17101kwa",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17101KWA.pdf"
-                  },
-                  {
-                    "name": "17102CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/17102CMU.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
-              },
-              {
-                "name": "FS 34031 (Aircraft Green)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16931gwu 16932cmu - tb.doc",
-                "components": [
-                  {
-                    "name": "16931gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16931GWU.pdf"
-                  },
-                  {
-                    "name": "16932CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16932CMU.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
-              },
-              {
-                "name": "FS 34160 (Foliage Green)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/18496gwu 7170cmu - tb.pdf",
-                "components": [
-                  {
-                    "name": "18496gwu",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/18496GWU.pdf"
-                  },
-                  {
-                    "name": "07170CMU",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/07170CMU.pdf"
-                  }
-                ],
-                "manufacturer": "Hentzen",
-                "type": "64159",
-                "shareGroupFiles": false,
-                "group": "Mil-DTL-64159 Type II available in the following colors:"
+                "group": "Mil-T-81772 thinners:"
               }
             ]
           }
         ],
-        "numProducts": 7
+        "numProducts": 3
       },
       {
         "category": "Wash Primer",
