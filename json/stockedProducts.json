@@ -2081,7 +2081,7 @@
                 "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X310.PDF",
                 "components": [
                   {
-                    "name": "528X310",
+                    "name": "dummy",
                     "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X310.PDF"
                   },
                   {
@@ -2926,7 +2926,7 @@
                 "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI Sheets/515X310.PDF",
                 "components": [
                   {
-                    "name": "528X310",
+                    "name": "dummy",
                     "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X310.PDF"
                   },
                   {
