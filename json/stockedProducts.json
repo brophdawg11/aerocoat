@@ -547,7 +547,7 @@
                 "file": "All Suppliers -TB and MSDS/AKZO/PI/28c1.pdf",
                 "components": [
                   {
-                    "name": "CHASE",
+                    "name": "28C1",
                     "file": "All Suppliers -TB and MSDS/AKZO/SDS/28C1.pdf"
                   }
                 ],
@@ -3298,7 +3298,7 @@
                 "file": "All Suppliers -TB and MSDS/AKZO/PI/28c1.pdf",
                 "components": [
                   {
-                    "name": "CHASE",
+                    "name": "28C1",
                     "file": "All Suppliers -TB and MSDS/AKZO/SDS/28C1.pdf"
                   }
                 ],
