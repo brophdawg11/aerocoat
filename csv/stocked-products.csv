@@ -28,7 +28,7 @@ FS 34031 (Aircraft Green),,docs\Hentzen\PI\16931gwu 16932cmu - tb.doc,16931gwu,d
 FS 34160 (Foliage Green),,docs\Hentzen\PI\18496gwu 7170cmu - tb.pdf,18496gwu,docs\Hentzen\SDS\18496GWU.pdf,07170CMU,docs\Hentzen\SDS\07170CMU.pdf,,,,,Hentzen,64159
 ,,,,,,,,,,,,
 Mil-PRF-22750G Type II topcoat in the following colors: ,,,,,,,,,,,,
-FS 11136,,docs\Hentzen\PI\16635ref-lvoc 16062ceh-lvoc - tb.doc,16635ref-lvoc,docs\Hentzen\SDS\16062CEH-LVOC.pdf,16062ceh-lvoc,docs\Hentzen\SDS\16062CEH-LVOC.pdf,,,,,Hentzen,22750
+FS 11136,,docs\Hentzen\PI\16635ref-lvoc 16062ceh-lvoc - tb.doc,16635ref-lvoc,docs\Hentzen\SDS\16635REF-LVOC.pdf,16062ceh-lvoc,docs\Hentzen\SDS\16062CEH-LVOC.pdf,,,,,Hentzen,22750
 FS 16081,,docs\Deft\PI\01F Series Epoxy Topcoat.pdf,01-GY-089,docs\Deft\SDS\01GY089a.pdf,80-X-109,docs\Deft\SDS\80x109f.pdf,,,,,Deft,22750
 FS 16440,,docs\Deft\PI\01F Series Epoxy Topcoat.pdf,01-GY-073,docs\Deft\SDS\01GY073a.pdf,80-X-109,docs\Deft\SDS\80x109f.pdf,,,,,Deft,22750
 FS 16473,,docs\Deft\PI\01F Series Epoxy Topcoat.pdf,01-GY-100,docs\Deft\SDS\01gy100a.pdf,80-X-109,docs\Deft\SDS\80x109f.pdf,,,,,Deft,22750
@@ -62,7 +62,7 @@ Aerospace primers to Mil-PRF-23377,,,,,,,,,,,,
 10P20-13,,docs\AKZO\PI\10p20-13.pdf,10P20-13,docs\AKZO\SDS\10P20-13.pdf,EC-213,docs\AKZO\SDS\EC-213.pdf,,,,,AkzoNobel,23377
 02-Y-024,,docs\Deft\PI\02Y024.pdf,02-Y-024,docs\Deft\SDS\02y024a.pdf,02Y024CAT,docs\Deft\SDS\02y024b.pdf,,,,,Deft,23377
 02-Y-040A,,docs\Deft\PI\02Y040A_NEW.pdf,02Y040A,docs\Deft\SDS\02Y40A.pdf,02Y040ACAT,docs\Deft\SDS\02Y40ACAT.pdf,,,,,Deft,23377
-02-GN-070A,,docs\Deft\PI\02GN070A_NEW.pdf,02-GN-070A,docs\Deft\SDS\02gn070a.pdf,02GN070ACAT,,,,,,Deft,23377
+02-GN-070A,,docs\Deft\PI\02GN070A_NEW.pdf,02-GN-070A,docs\Deft\SDS\02gn070a.pdf,02GN070ACAT,docs\Deft\SDS\02GN070ACAT.pdf,,,,,Deft,23377
 02-GN-070B,,docs\Deft\PI\02GN070B_NEW.pdf,02-GN-070B,docs\Deft\SDS\02gn070b.pdf,02GN070BCAT,docs\Deft\SDS\02gn070bcat.pdf,,,,,Deft,23377
 02-GN-084,,docs\Deft\PI\02GN084.pdf,02GN084,docs\Deft\SDS\02GN84.pdf,02GN084CAT,docs\Deft\SDS\02GN84CAT.pdf,,,,,Deft,23377
 SPEEAY051A,,docs\PPG\PI\EEAY051.pdf,SPEEAY051A,docs\PPG\SDS\SPEEAY051A (EEAY051A).pdf,EEAY051B,docs\PPG\SDS\SPEEAY051A (EEAY051B).pdf,,,,,PPG,23377
@@ -132,8 +132,8 @@ Commercial and General Aviation Aerospace Products,,,,,,,,,,,,
 "515X408/910X937, 2 gallon kit.  Super Koropon Fluid Resistant Primer.  LMA-MR058/5PTMRG58",,docs\PPG\PI\515X408.pdf,515X408,docs\PPG\SDS\515X408.pdf,910X937,docs\PPG\SDS\910X350.pdf,,,,,PPG,
 "515-700/910-704, STM0685-01, Green Primer  ",,docs\PPG\PI\515-700.pdf,515-700,docs\PPG\SDS\515-700.pdf,910-704,docs\PPG\SDS\910-704.pdf,,,,,PPG,
 "519X303/910X357/020X324, 299-947-167/MMS-425B.  High Temperature Epoxy Primer",,docs\PPG\PI\519X303.pdf,519X303,docs\PPG\SDS\519X303.pdf,910X357,docs\PPG\SDS\910X357.pdf,020X324,docs\PPG\SDS\020X324.pdf,,,PPG,
-"528X310/910X464, BMS 10-21, Type III.  Black Conductive Coating.  ",,docs\PPG\PI\515X310.pdf,528X310,docs\PPG\SDS\515X310.pdf,910X464,docs\PPG\SDS\910X464.pdf,,,,,PPG,
+"528X310/910X464, BMS 10-21, Type III.  Black Conductive Coating.  ",,docs\PPG\PI\528X310.pdf,528X310,docs\PPG\SDS\528X310.pdf,910X464,docs\PPG\SDS\910X464.pdf,,,,,PPG,
 "20P1-21/PC-235, HS Integral Fuel Tank Coating, DHMS C4.06, Type I, Class A, Grade B and F/BAMS 565-010",,docs\AKZO\PI\20p1-21.pdf,20P1-21,docs\AKZO\SDS\20P1_21.pdf,PC-235,docs\AKZO\SDS\PC-235.pdf,,,,,AkzoNobel,
 "20P20-3/PC-232, Sandable Polyurethane Surfacer",,docs\AKZO\PI\20p20-3.pdf,20P20-3,docs\AKZO\SDS\20P20-3.pdf,PC-232,docs\AKZO\SDS\PC-232.pdf,,,,,AkzoNobel,
 "24F20-101 VOC Compliant Polyurethane Topcoat, BMS 10-60V Type I & II, Class B, Grade D, BAC 707 Gray",,docs\AKZO\PI\24F20-101.pdf,24F20-101,docs\AKZO\SDS\24F20-101.pdf,PC-226,docs\AKZO\SDS\PC-226.pdf,,,,,AkzoNobel,
-"28C1 Composite Pinhole Filler, 1 Gallon Unit.  BAC 5837/299-947-144.",,docs\AKZO\PI\28c1.pdf,28C1,docs\AKZO\SDS\28C1.pdf,,,,,,,AkzoNobel,
+"28C1 Composite Pinhole Filler, 1 Gallon Unit.  BAC 5837/299-947-144.",,docs\AKZO\PI\28c1.pdf,CHASE,docs\AKZO\SDS\28C1.pdf,,,,,,,AkzoNobel,
