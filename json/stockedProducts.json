@@ -14,7 +14,7 @@
               {
                 "name": "FS 17178",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/422X Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/422X Series.pdf",
                 "components": [
                   {
                     "name": "4222T17178",
@@ -41,7 +41,7 @@
               {
                 "name": "10P20-13",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p20-13.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p20-13.pdf",
                 "components": [
                   {
                     "name": "10P20-13",
@@ -68,7 +68,7 @@
               {
                 "name": "10PW20-4 (Mil-PRF-85582E, Type I, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10pw20-4.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10pw20-4.pdf",
                 "components": [
                   {
                     "name": "10PW20-4",
@@ -95,7 +95,7 @@
               {
                 "name": "10P4-2NF, Fluid Resistant Epoxy Primer, Nytal Free, BAC 452 Green to Boeing Spec BMS 10-11, Type I, Class A, Grade A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p4-2NF.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p4-2NF.pdf",
                 "components": [
                   {
                     "name": "10P4-2NF",
@@ -114,7 +114,7 @@
               {
                 "name": "10P4-3NF, Fluid Resistant Epoxy Primer, Nytal Free, BAC 377 Yellow to Boeing Spec BMS 10-11, Type I, Class A, Grade A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p4-3NF.PDF",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p4-3NF.PDF",
                 "components": [
                   {
                     "name": "10P4-3NF",
@@ -133,7 +133,7 @@
               {
                 "name": "10P8-10NF, Fluid Resistant Epoxy Primer, Nytal Free, BAC 452 Green to Boeing Spec BMS 10-11, Type I, Class A, Grade B",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p8-10nf.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p8-10nf.pdf",
                 "components": [
                   {
                     "name": "10P8-10NF",
@@ -152,7 +152,7 @@
               {
                 "name": "446-22-1000, BAC 702 Gloss White, High Solids Epoxy Topcoat to Boeing Spec BMS 10-11AB, Type II, Class B, Grade D",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/22-23 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/22-23 Series.pdf",
                 "components": [
                   {
                     "name": "446-22-1000",
@@ -171,7 +171,7 @@
               {
                 "name": "446-22-2000, BAC 707 Gloss Gray, High Solids Epoxy Topcoat to Boeing Spec BMS 10-11AB, Type II, Class B, Grade D",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/22-23 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/22-23 Series.pdf",
                 "components": [
                   {
                     "name": "446-22-2000",
@@ -190,7 +190,7 @@
               {
                 "name": "683-3-2, Clear Polyurethane Coating_BAC 5710, Type 41",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/683-3 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/683-3 Series.pdf",
                 "components": [
                   {
                     "name": "683-3-2",
@@ -209,7 +209,7 @@
               {
                 "name": "683-3-20, Clear Polyurethane Coating_BAC 5710, Type 41",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/683-3 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/683-3 Series.pdf",
                 "components": [
                   {
                     "name": "683-3-20",
@@ -228,7 +228,7 @@
               {
                 "name": "454-4-1, Integral Fuel Tank Coating, BMS 10-20, TY II, Cl A, Gr A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/454-4.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/454-4.pdf",
                 "components": [
                   {
                     "name": "454-4-1",
@@ -247,7 +247,7 @@
               {
                 "name": "463-6-4, High Temperature Epoxy Coating to Boeing spec BAC 5755, Type 10",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/463-6-4.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/463-6-4.pdf",
                 "components": [
                   {
                     "name": "463-6-4",
@@ -266,7 +266,7 @@
               {
                 "name": "463-12-8, Fluid Resistant Epoxy Primer to spec DMS 1786, Type I, Comp A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/463-12-8.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/463-12-8.pdf",
                 "components": [
                   {
                     "name": "463-12-8",
@@ -285,7 +285,7 @@
               {
                 "name": "467-9, Composite Filler Putty, to spec_DPM 5765.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/467-9.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/467-9.pdf",
                 "components": [
                   {
                     "name": "467-9",
@@ -304,7 +304,7 @@
               {
                 "name": "10P8-11, High Solids General Aviation Primer to Cessna spec CMFS035",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P8-11.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10P8-11.pdf",
                 "components": [
                   {
                     "name": "10P8-11",
@@ -323,7 +323,7 @@
               {
                 "name": "10P30-5, Corrosion Resistant Epoxy Primer to Cessna Spec CMFS029, Type II/GMS 5005, Type I",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P30-5.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10P30-5.pdf",
                 "components": [
                   {
                     "name": "10P30-5",
@@ -346,7 +346,7 @@
               {
                 "name": "10P30-8, High Solids General Aviation Sanding Surfacer to Cessna Spec CMFS039",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p30-8.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p30-8.pdf",
                 "components": [
                   {
                     "name": "10P30-8",
@@ -365,7 +365,7 @@
               {
                 "name": "23T3-10, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I, BAC 700",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/23T3 Series.pdf",
                 "components": [
                   {
                     "name": "23T3-10",
@@ -384,7 +384,7 @@
               {
                 "name": "23T3-105, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I,  BAC 707",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/23T3 Series.pdf",
                 "components": [
                   {
                     "name": "23T3-105",
@@ -403,7 +403,7 @@
               {
                 "name": "23T3-106, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I, DN 3635 ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/23T3 Series.pdf",
                 "components": [
                   {
                     "name": "23T3-106",
@@ -422,7 +422,7 @@
               {
                 "name": "10P2-3, Anti-Static Conductive Flat Black Epoxy Coating to Boeing Spec BMS 10-21, Type III",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p2-3.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p2-3.pdf",
                 "components": [
                   {
                     "name": "10P2-3",
@@ -441,7 +441,7 @@
               {
                 "name": "10P20-44, BMS 10-79 Type II & III, Class B, Grade D",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P20-44.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10P20-44.pdf",
                 "components": [
                   {
                     "name": "10P20-44",
@@ -464,7 +464,7 @@
               {
                 "name": "10P20-44MNF, BMS 10-72 Type IX",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P20-44mnf.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10P20-44mnf.pdf",
                 "components": [
                   {
                     "name": "10P20-44MNF",
@@ -487,7 +487,7 @@
               {
                 "name": "20P1-21/PC-235, HS Integral Fuel Tank Coating, DHMS C4.06, Type I, Class A, Grade B and F/BAMS 565-010",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/20p1-21.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/20p1-21.pdf",
                 "components": [
                   {
                     "name": "20P1-21",
@@ -506,7 +506,7 @@
               {
                 "name": "20P20-3/PC-232, Sandable Polyurethane Surfacer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/20p20-3.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/20p20-3.pdf",
                 "components": [
                   {
                     "name": "20P20-3",
@@ -525,7 +525,7 @@
               {
                 "name": "24F20-101 VOC Compliant Polyurethane Topcoat, BMS 10-60V Type I & II, Class B, Grade D, BAC 707 Gray",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/24F20-101.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/24F20-101.pdf",
                 "components": [
                   {
                     "name": "24F20-101",
@@ -544,10 +544,10 @@
               {
                 "name": "28C1 Composite Pinhole Filler, 1 Gallon Unit.  BAC 5837/299-947-144.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/28c1.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/28c1.pdf",
                 "components": [
                   {
-                    "name": "28C1",
+                    "name": "CHASE",
                     "file": "All Suppliers -TB and MSDS/AKZO/SDS/28C1.pdf"
                   }
                 ],
@@ -574,7 +574,7 @@
               {
                 "name": "FS 16081",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-GY-089",
@@ -593,7 +593,7 @@
               {
                 "name": "FS 16440",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-GY-073",
@@ -612,7 +612,7 @@
               {
                 "name": "FS 16473",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-GY-100",
@@ -631,7 +631,7 @@
               {
                 "name": "FS 17038",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-BK-043",
@@ -650,7 +650,7 @@
               {
                 "name": "FS 17178",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-GY-093",
@@ -669,7 +669,7 @@
               {
                 "name": "FS 36375",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-GY-082",
@@ -688,7 +688,7 @@
               {
                 "name": "Gloss Clear",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-X-060",
@@ -715,7 +715,7 @@
               {
                 "name": "Type I",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-213.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-213.pdf",
                 "components": [
                   {
                     "name": "IS-213",
@@ -730,7 +730,7 @@
               {
                 "name": "Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-237.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-237.pdf",
                 "components": [
                   {
                     "name": "IS-237",
@@ -753,7 +753,7 @@
               {
                 "name": "02-Y-024",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02Y024.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y024.pdf",
                 "components": [
                   {
                     "name": "02-Y-024",
@@ -772,7 +772,7 @@
               {
                 "name": "02-Y-040A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02Y040A_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y040A_NEW.pdf",
                 "components": [
                   {
                     "name": "02Y040A",
@@ -791,7 +791,7 @@
               {
                 "name": "02-GN-070A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN070A_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070A_NEW.pdf",
                 "components": [
                   {
                     "name": "02-GN-070A",
@@ -799,7 +799,7 @@
                   },
                   {
                     "name": "02GN070ACAT",
-                    "file": ""
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02GN070ACAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -810,7 +810,7 @@
               {
                 "name": "02-GN-070B",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN070B_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070B_NEW.pdf",
                 "components": [
                   {
                     "name": "02-GN-070B",
@@ -829,7 +829,7 @@
               {
                 "name": "02-GN-084",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN084.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN084.pdf",
                 "components": [
                   {
                     "name": "02GN084",
@@ -856,7 +856,7 @@
               {
                 "name": "53030B Ty I",
                 "desc": "44-W-007",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44W007_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44W007_NEW.pdf",
                 "components": [
                   {
                     "name": "44W007",
@@ -883,7 +883,7 @@
               {
                 "name": "44-GN-007 (Mil-PRF-85582, Type I, Class C1)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN007_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN007_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN007",
@@ -902,7 +902,7 @@
               {
                 "name": "44-GN-008A (Mil-PRF-85582, Type II, Class C1)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN008A.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN008A.pdf",
                 "components": [
                   {
                     "name": "44GN008A",
@@ -921,7 +921,7 @@
               {
                 "name": "44-GN-011 (BMS 10-11AB, Type I, Class A, Grade E, BAC 452 Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN011_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN011_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN011",
@@ -940,7 +940,7 @@
               {
                 "name": "44-GN-024 (Mil-PRF-85582, Type I, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN024_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN024_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN024",
@@ -959,7 +959,7 @@
               {
                 "name": "44-GN-036 (Mil-PRF-85582, Type I, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN036_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN036_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN036",
@@ -978,11 +978,11 @@
               {
                 "name": "44-GN-049 (Mil-PRF-85582, Type II, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN049_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN049_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN049",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN049.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN049.pdf"
                   },
                   {
                     "name": "44GN049CAT",
@@ -997,7 +997,7 @@
               {
                 "name": "44-GN-054 (DMS 1786M, Comp D)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN054_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN054_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN054",
@@ -1016,7 +1016,7 @@
               {
                 "name": "44-GN-060 (STMG L753 Rev C, Class C/BMS 10-11, Type I, Class A, Grade E)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN060_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN060_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN060",
@@ -1035,7 +1035,7 @@
               {
                 "name": "44-GN-072 (Mil-PRF-85582, Type I, Class C2/MMS 423)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN072_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN072_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN072",
@@ -1054,7 +1054,7 @@
               {
                 "name": "44-GN-098 (Mil-PRF-85582, Type I, Class N/LMA-MR003E, Class 2, Type II, Grade A)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN098_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN098_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN098",
@@ -1073,7 +1073,7 @@
               {
                 "name": "44-Y-022 (BMS 10-11AC, Type I, Class A, Grade E, Color Yellow)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44Y022.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44Y022.pdf",
                 "components": [
                   {
                     "name": "44Y022",
@@ -1092,7 +1092,7 @@
               {
                 "name": "45-GY-5 (BMS 10-103D, Type I, Grade E)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/45GY005.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/45GY005.pdf",
                 "components": [
                   {
                     "name": "45GY005",
@@ -1119,7 +1119,7 @@
               {
                 "name": "01-W-074 (Gulfstream GMS 5006C, Type I, FS Color 17925)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01W074_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01W074_NEW.pdf",
                 "components": [
                   {
                     "name": "01-W-074",
@@ -1138,7 +1138,7 @@
               {
                 "name": "01-R-051 (Gulfstream GMS 5006C, Type I, FS Color 11136)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01R051_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01R051_NEW.pdf",
                 "components": [
                   {
                     "name": "01-R-051",
@@ -1157,7 +1157,7 @@
               {
                 "name": "01-BK-038 (Gulfstream GMS 5006C, Type I, FS Color 27038)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01BK038_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01BK038_NEW.pdf",
                 "components": [
                   {
                     "name": "01-BK-038",
@@ -1193,7 +1193,7 @@
               {
                 "name": "FS 31136",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/04909RUA-ULVOC.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/04909RUA-ULVOC.pdf",
                 "components": [
                   {
                     "name": "04909RUA-ULVOC",
@@ -1208,7 +1208,7 @@
               {
                 "name": "FS 33303 (Sand)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/8618tuz-ulvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8618tuz-ulvoc - tb.doc",
                 "components": [
                   {
                     "name": "8618tuz-ulvoc",
@@ -1223,7 +1223,7 @@
               {
                 "name": "FS 33446 (686A Tan)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/8609tuz-ulvoc-tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8609tuz-ulvoc-tb.pdf",
                 "components": [
                   {
                     "name": "08609TUZ-ULVOC",
@@ -1238,7 +1238,7 @@
               {
                 "name": "FS 33446 (686A Tan)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/8609tuz-b33 - tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8609tuz-b33 - tb.pdf",
                 "components": [
                   {
                     "name": "08609tuz-b33",
@@ -1253,7 +1253,7 @@
               {
                 "name": "FS 33531",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/03813TUA-ULVOC.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/03813TUA-ULVOC.pdf",
                 "components": [
                   {
                     "name": "03813TUA-ULVOC",
@@ -1268,7 +1268,7 @@
               {
                 "name": "FS 33538 (Aircraft Yellow)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/04098YUZ-ULVOC.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/04098YUZ-ULVOC.pdf",
                 "components": [
                   {
                     "name": "04098YUZ-ULVOC",
@@ -1283,7 +1283,7 @@
               {
                 "name": "FS 34031 (Aircraft Green)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/8625guz-b33 - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8625guz-b33 - tb.doc",
                 "components": [
                   {
                     "name": "08625guz-b33",
@@ -1298,7 +1298,7 @@
               {
                 "name": "FS 34088 (Olive Drab)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/08671GUZ-B33 tb.PDF",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/08671GUZ-B33 tb.PDF",
                 "components": [
                   {
                     "name": "08671GUZ-B33",
@@ -1313,7 +1313,7 @@
               {
                 "name": "FS 34094 (383 Green)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/8605guz-ulvoc - tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8605guz-ulvoc - tb.PDF",
                 "components": [
                   {
                     "name": "08605GUZ-ULVOC",
@@ -1328,7 +1328,7 @@
               {
                 "name": "FS 34094 (383 Green)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/8605guz-b33 - tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8605guz-b33 - tb.pdf",
                 "components": [
                   {
                     "name": "08605guz-b33",
@@ -1343,7 +1343,7 @@
               {
                 "name": "FS 34201 (Woodland Sage)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/17798GUZ-ULVOC.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/17798GUZ-ULVOC.pdf",
                 "components": [
                   {
                     "name": "17798GUZ-ULVOC",
@@ -1358,7 +1358,7 @@
               {
                 "name": "FS 36231 (Aircraft Gray)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/8624auz-ulvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8624auz-ulvoc - tb.DOC",
                 "components": [
                   {
                     "name": "08624AUZ-ULVOC",
@@ -1373,7 +1373,7 @@
               {
                 "name": "FS 37030 (Black)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/08610KUZ-B33.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/08610KUZ-B33.pdf",
                 "components": [
                   {
                     "name": "08610KUZ-B33",
@@ -1388,7 +1388,7 @@
               {
                 "name": "FS 37038 (Aircraft Black)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/8628kuz-ulvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8628kuz-ulvoc - tb.DOC",
                 "components": [
                   {
                     "name": "08628KUZ-ULVOC",
@@ -1403,7 +1403,7 @@
               {
                 "name": "FS 37038 (Aircraft Black)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/8628kuz-b33 - tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8628kuz-b33 - tb.pdf",
                 "components": [
                   {
                     "name": "08628KUZ-B33",
@@ -1418,7 +1418,7 @@
               {
                 "name": "FS 37875 (Aircraft White)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/8620wua-ulvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8620wua-ulvoc - tb.doc",
                 "components": [
                   {
                     "name": "08620wua-ulvoc",
@@ -1433,7 +1433,7 @@
               {
                 "name": "Israeli Tan",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/08633TUA-B33.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/08633TUA-B33.pdf",
                 "components": [
                   {
                     "name": "08633TUA-B33",
@@ -1456,7 +1456,7 @@
               {
                 "name": "FS 34094 (383 Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7131gwu 7170cmu - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/7131gwu 7170cmu - tb.doc",
                 "components": [
                   {
                     "name": "07131gwu",
@@ -1475,7 +1475,7 @@
               {
                 "name": "FS 33446 (686 Tan)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7178twu 7170cmu - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/7178twu 7170cmu - tb.doc",
                 "components": [
                   {
                     "name": "07178twu",
@@ -1494,7 +1494,7 @@
               {
                 "name": "FS 37030 (Black)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7180kwu 7170 - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/7180kwu 7170 - tb.doc",
                 "components": [
                   {
                     "name": "07180kwu",
@@ -1513,7 +1513,7 @@
               {
                 "name": "FS 37038 (Aircraft Black)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17101kwa 17102cmu - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/17101kwa 17102cmu - tb.doc",
                 "components": [
                   {
                     "name": "17101kwa",
@@ -1532,7 +1532,7 @@
               {
                 "name": "FS 34031 (Aircraft Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16931gwu 16932cmu - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16931gwu 16932cmu - tb.doc",
                 "components": [
                   {
                     "name": "16931gwu",
@@ -1551,7 +1551,7 @@
               {
                 "name": "FS 34160 (Foliage Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/18496gwu 7170cmu - tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/18496gwu 7170cmu - tb.pdf",
                 "components": [
                   {
                     "name": "18496gwu",
@@ -1578,11 +1578,11 @@
               {
                 "name": "FS 11136",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16635ref-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16635ref-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16635ref-lvoc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16062CEH-LVOC.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16635REF-LVOC.pdf"
                   },
                   {
                     "name": "16062ceh-lvoc",
@@ -1597,7 +1597,7 @@
               {
                 "name": "FS 17875",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16627wef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16627wef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16627wef-lvoc",
@@ -1616,7 +1616,7 @@
               {
                 "name": "FS 17925",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16087WEF-LVOC-16062CEH-LVOC.TB.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16087WEF-LVOC-16062CEH-LVOC.TB.doc",
                 "components": [
                   {
                     "name": "16087wef-lvoc",
@@ -1635,7 +1635,7 @@
               {
                 "name": "FS 24410",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16657gef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16657gef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16657gef-lvoc",
@@ -1654,7 +1654,7 @@
               {
                 "name": "FS 24533",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16125gef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16125gef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16125gef-lvoc",
@@ -1673,7 +1673,7 @@
               {
                 "name": "FS 26307",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16630aef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16630aef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16630aef-lvoc",
@@ -1692,7 +1692,7 @@
               {
                 "name": "FS 27038",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16632kef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16632kef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16632kef-lvoc",
@@ -1711,7 +1711,7 @@
               {
                 "name": "FS 27875",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16628wef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16628wef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16628wef-lvoc",
@@ -1730,7 +1730,7 @@
               {
                 "name": "FS 36118",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16677aef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16677aef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16677aef-lvoc",
@@ -1749,7 +1749,7 @@
               {
                 "name": "FS 36231",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16678aef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16678aef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16678aef-lvoc",
@@ -1768,7 +1768,7 @@
               {
                 "name": "FS 37038",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16633kef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16633kef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16633kef-lvoc",
@@ -1795,7 +1795,7 @@
               {
                 "name": "Type I, Class C1",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/53012yep 16709ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/53012yep 16709ceh - tb.doc",
                 "components": [
                   {
                     "name": "53012YEP",
@@ -1814,7 +1814,7 @@
               {
                 "name": "Type I, Class C2",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377J, Type I, Class C2/ad9318FD ad2298FD - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/ad9318FD ad2298FD - tb.doc",
                 "components": [
                   {
                     "name": "ad9318",
@@ -1833,7 +1833,7 @@
               {
                 "name": "Type I, Class N",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/16708tep 16709ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16708tep 16709ceh - tb.doc",
                 "components": [
                   {
                     "name": "16708tep",
@@ -1852,7 +1852,7 @@
               {
                 "name": "Type II, Class C2",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377H, Type II, Class C2/AD9325-FD MIL-PRF-23377 T2 CLS C2 TDS.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/AD9325-FD MIL-PRF-23377 T2 CLS C2 TDS.doc",
                 "components": [
                   {
                     "name": "ad9325",
@@ -1871,7 +1871,7 @@
               {
                 "name": "Type II, Class N",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/17176kep 16709ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/17176kep 16709ceh - tb.doc",
                 "components": [
                   {
                     "name": "17176KEP",
@@ -1898,7 +1898,7 @@
               {
                 "name": "53022 Ty II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/4488wep-4 4489ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/4488wep-4 4489ceh - tb.doc",
                 "components": [
                   {
                     "name": "04488wep",
@@ -1917,7 +1917,7 @@
               {
                 "name": "53022 Ty III",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/03848WEP-HFX-03849CEH-HFX-NO-TB.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/03848WEP-HFX-03849CEH-HFX-NO-TB.doc",
                 "components": [
                   {
                     "name": "03848WEP-HFX",
@@ -1936,7 +1936,7 @@
               {
                 "name": "53022 Ty IV",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/22167WEP-22170CEH-TB.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/22167WEP-22170CEH-TB.pdf",
                 "components": [
                   {
                     "name": "22167WEP",
@@ -1963,7 +1963,7 @@
               {
                 "name": "8514C Wash Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/3174yvp-1 3175ssc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/3174yvp-1 3175ssc - tb.doc",
                 "components": [
                   {
                     "name": "03174yvp",
@@ -1982,7 +1982,7 @@
               {
                 "name": "DOD-P-15328D Wash Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/2110gvp 2111ssc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/2110gvp 2111ssc - tb.doc",
                 "components": [
                   {
                     "name": "02110gvp",
@@ -2016,15 +2016,15 @@
               {
                 "name": "SPEEAY051A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/EEAY051.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/EEAY051.pdf",
                 "components": [
                   {
                     "name": "SPEEAY051A",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051A).pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/SPEEAY051A (EEAY051A).pdf"
                   },
                   {
                     "name": "EEAY051B",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051B).pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/SPEEAY051A (EEAY051B).pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2043,15 +2043,15 @@
               {
                 "name": "515X349, BMS 10-79, Type III, Class A, Grade A.  Conventional Solids Epoxy Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X349.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515X349.pdf",
                 "components": [
                   {
                     "name": "515X349",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X349.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X349.pdf"
                   },
                   {
                     "name": "910X533",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X533.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X533.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2062,19 +2062,19 @@
               {
                 "name": "823-707, AMS-C-27725, Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/823-707 TB.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/823-707 TB.pdf",
                 "components": [
                   {
                     "name": "823-707",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/823-707.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/823-707.pdf"
                   },
                   {
                     "name": "910-702",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-702.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910-702.pdf"
                   },
                   {
                     "name": "020-707",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-707.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/020-707.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2085,15 +2085,15 @@
               {
                 "name": "833K086/930K088, AMS-C-27725, Type I, Fuel Tank Coating",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/833K086.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/833K086.pdf",
                 "components": [
                   {
                     "name": "833K086",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/833K086.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/833K086.pdf"
                   },
                   {
                     "name": "930K088",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/930K088.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/930K088.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2104,19 +2104,19 @@
               {
                 "name": "825-009, BAC 5710, Ty 51/BAMS 565-013.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/825-009.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/825-009.pdf",
                 "components": [
                   {
                     "name": "825-009",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/825-009.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/825-009.pdf"
                   },
                   {
                     "name": "910-175",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-175.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910-175.pdf"
                   },
                   {
                     "name": "020-044",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-044.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/020-044.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2127,19 +2127,19 @@
               {
                 "name": "823-011/910-099/020-037, Mil-C-27725, Type II, Fuel Tank Coating.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/823-011.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/823-011.pdf",
                 "components": [
                   {
                     "name": "823-011",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/823-011.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/823-011.pdf"
                   },
                   {
                     "name": "910-099",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-099.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910-099.pdf"
                   },
                   {
                     "name": "020-037",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-037.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/020-037.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2150,15 +2150,15 @@
               {
                 "name": "512X310/910X533, Urethane Compatible Chrome-Free Epoxy Gray Primer, BMS 10-103, Type I, Grade A.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/512X310.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/512X310.pdf",
                 "components": [
                   {
                     "name": "512X310",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/512X310.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/512X310.pdf"
                   },
                   {
                     "name": "910X533",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X533.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X533.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2169,15 +2169,15 @@
               {
                 "name": "515X333/910X350, GMS 5001/GM 5002A.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X333.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515X333.pdf",
                 "components": [
                   {
                     "name": "515X333",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X333.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X333.pdf"
                   },
                   {
                     "name": "910X350",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X350.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X350.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2188,19 +2188,19 @@
               {
                 "name": "515X346, BAC 5710 Rev V, Ty 102/BAC 5710, Rev N, Ty 60.  Epoxy Polyamide Corrosion Preventative Bonding Primer. ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X336.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515X336.PDF",
                 "components": [
                   {
                     "name": "515X346",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X336.PDF"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X336.PDF"
                   },
                   {
                     "name": "910X520",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X520.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X520.pdf"
                   },
                   {
                     "name": "020-702",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-702.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/020-702.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2211,15 +2211,15 @@
               {
                 "name": "515X408/910X937, 2 gallon kit.  Super Koropon Fluid Resistant Primer.  LMA-MR058/5PTMRG58",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X408.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515X408.pdf",
                 "components": [
                   {
                     "name": "515X408",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X408.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X408.pdf"
                   },
                   {
                     "name": "910X937",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X350.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X350.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2230,15 +2230,15 @@
               {
                 "name": "515-700/910-704, STM0685-01, Green Primer  ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515-700.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515-700.pdf",
                 "components": [
                   {
                     "name": "515-700",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515-700.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515-700.pdf"
                   },
                   {
                     "name": "910-704",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-704.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910-704.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2249,19 +2249,19 @@
               {
                 "name": "519X303/910X357/020X324, 299-947-167/MMS-425B.  High Temperature Epoxy Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/519X303.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/519X303.pdf",
                 "components": [
                   {
                     "name": "519X303",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/519X303.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/519X303.pdf"
                   },
                   {
                     "name": "910X357",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X357.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X357.pdf"
                   },
                   {
                     "name": "020X324",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020X324.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/020X324.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2272,15 +2272,15 @@
               {
                 "name": "528X310/910X464, BMS 10-21, Type III.  Black Conductive Coating.  ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X310.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/528X310.pdf",
                 "components": [
                   {
                     "name": "528X310",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X310.PDF"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/528X310.pdf"
                   },
                   {
                     "name": "910X464",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X464.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X464.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2306,11 +2306,11 @@
               {
                 "name": "Type III",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf",
+                "file": "All Suppliers -TB and MSDS/Misc/SDS/Type III Thinner.pdf",
                 "components": [
                   {
                     "name": "81772-3",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf"
+                    "file": "All Suppliers -TB and MSDS/Misc/SDS/Type III Thinner.pdf"
                   }
                 ],
                 "manufacturer": "Miscellaneous",
@@ -2329,11 +2329,11 @@
               {
                 "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Sea to Sky/TDS - SPC 909.pdf",
+                "file": "All Suppliers -TB and MSDS/Misc/PI/TDS - SPC 909.pdf",
                 "components": [
                   {
                     "name": "SPC-909",
-                    "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
+                    "file": "All Suppliers -TB and MSDS/Misc/SDS/MSDS - SPC-909.pdf"
                   }
                 ],
                 "manufacturer": "Miscellaneous",
@@ -2344,11 +2344,11 @@
               {
                 "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "file": "All Suppliers -TB and MSDS/Misc/PI/1757B PI sheet.pdf",
                 "components": [
                   {
                     "name": "TT-P-1757",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Spectrum Yellow.pdf"
+                    "file": "All Suppliers -TB and MSDS/Misc/SDS/Spectrum Yellow.pdf"
                   }
                 ],
                 "manufacturer": "Miscellaneous",
@@ -2359,11 +2359,11 @@
               {
                 "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Green",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "file": "All Suppliers -TB and MSDS/Misc/PI/1757B PI sheet.pdf",
                 "components": [
                   {
                     "name": "TT-P-1757",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/TTP1757 Green.pdf"
+                    "file": "All Suppliers -TB and MSDS/Misc/SDS/TTP1757 Green.pdf"
                   }
                 ],
                 "manufacturer": "Miscellaneous",
@@ -2393,7 +2393,7 @@
               {
                 "name": "44-GN-011 (BMS 10-11AB, Type I, Class A, Grade E, BAC 452 Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN011_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN011_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN011",
@@ -2412,7 +2412,7 @@
               {
                 "name": "44-GN-054 (DMS 1786M, Comp D)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN054_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN054_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN054",
@@ -2431,7 +2431,7 @@
               {
                 "name": "44-GN-060 (STMG L753 Rev C, Class C/BMS 10-11, Type I, Class A, Grade E)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN060_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN060_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN060",
@@ -2450,7 +2450,7 @@
               {
                 "name": "44-Y-022 (BMS 10-11AC, Type I, Class A, Grade E, Color Yellow)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44Y022.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44Y022.pdf",
                 "components": [
                   {
                     "name": "44Y022",
@@ -2469,7 +2469,7 @@
               {
                 "name": "45-GY-5 (BMS 10-103D, Type I, Grade E)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/45GY005.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/45GY005.pdf",
                 "components": [
                   {
                     "name": "45GY005",
@@ -2496,7 +2496,7 @@
               {
                 "name": "10P4-2NF, Fluid Resistant Epoxy Primer, Nytal Free, BAC 452 Green to Boeing Spec BMS 10-11, Type I, Class A, Grade A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p4-2NF.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p4-2NF.pdf",
                 "components": [
                   {
                     "name": "10P4-2NF",
@@ -2515,7 +2515,7 @@
               {
                 "name": "10P4-3NF, Fluid Resistant Epoxy Primer, Nytal Free, BAC 377 Yellow to Boeing Spec BMS 10-11, Type I, Class A, Grade A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p4-3NF.PDF",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p4-3NF.PDF",
                 "components": [
                   {
                     "name": "10P4-3NF",
@@ -2534,7 +2534,7 @@
               {
                 "name": "10P8-10NF, Fluid Resistant Epoxy Primer, Nytal Free, BAC 452 Green to Boeing Spec BMS 10-11, Type I, Class A, Grade B",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p8-10nf.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p8-10nf.pdf",
                 "components": [
                   {
                     "name": "10P8-10NF",
@@ -2553,7 +2553,7 @@
               {
                 "name": "446-22-1000, BAC 702 Gloss White, High Solids Epoxy Topcoat to Boeing Spec BMS 10-11AB, Type II, Class B, Grade D",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/22-23 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/22-23 Series.pdf",
                 "components": [
                   {
                     "name": "446-22-1000",
@@ -2572,7 +2572,7 @@
               {
                 "name": "446-22-2000, BAC 707 Gloss Gray, High Solids Epoxy Topcoat to Boeing Spec BMS 10-11AB, Type II, Class B, Grade D",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/22-23 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/22-23 Series.pdf",
                 "components": [
                   {
                     "name": "446-22-2000",
@@ -2591,7 +2591,7 @@
               {
                 "name": "683-3-2, Clear Polyurethane Coating_BAC 5710, Type 41",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/683-3 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/683-3 Series.pdf",
                 "components": [
                   {
                     "name": "683-3-2",
@@ -2610,7 +2610,7 @@
               {
                 "name": "683-3-20, Clear Polyurethane Coating_BAC 5710, Type 41",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/683-3 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/683-3 Series.pdf",
                 "components": [
                   {
                     "name": "683-3-20",
@@ -2629,7 +2629,7 @@
               {
                 "name": "454-4-1, Integral Fuel Tank Coating, BMS 10-20, TY II, Cl A, Gr A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/454-4.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/454-4.pdf",
                 "components": [
                   {
                     "name": "454-4-1",
@@ -2648,7 +2648,7 @@
               {
                 "name": "463-6-4, High Temperature Epoxy Coating to Boeing spec BAC 5755, Type 10",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/463-6-4.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/463-6-4.pdf",
                 "components": [
                   {
                     "name": "463-6-4",
@@ -2667,7 +2667,7 @@
               {
                 "name": "463-12-8, Fluid Resistant Epoxy Primer to spec DMS 1786, Type I, Comp A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/463-12-8.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/463-12-8.pdf",
                 "components": [
                   {
                     "name": "463-12-8",
@@ -2686,7 +2686,7 @@
               {
                 "name": "467-9, Composite Filler Putty, to spec_DPM 5765.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/467-9.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/467-9.pdf",
                 "components": [
                   {
                     "name": "467-9",
@@ -2705,7 +2705,7 @@
               {
                 "name": "10P8-11, High Solids General Aviation Primer to Cessna spec CMFS035",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P8-11.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10P8-11.pdf",
                 "components": [
                   {
                     "name": "10P8-11",
@@ -2724,7 +2724,7 @@
               {
                 "name": "10P30-5, Corrosion Resistant Epoxy Primer to Cessna Spec CMFS029, Type II/GMS 5005, Type I",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P30-5.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10P30-5.pdf",
                 "components": [
                   {
                     "name": "10P30-5",
@@ -2747,7 +2747,7 @@
               {
                 "name": "10P30-8, High Solids General Aviation Sanding Surfacer to Cessna Spec CMFS039",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p30-8.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p30-8.pdf",
                 "components": [
                   {
                     "name": "10P30-8",
@@ -2766,7 +2766,7 @@
               {
                 "name": "23T3-10, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I, BAC 700",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/23T3 Series.pdf",
                 "components": [
                   {
                     "name": "23T3-10",
@@ -2785,7 +2785,7 @@
               {
                 "name": "23T3-105, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I,  BAC 707",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/23T3 Series.pdf",
                 "components": [
                   {
                     "name": "23T3-105",
@@ -2804,7 +2804,7 @@
               {
                 "name": "23T3-106, High Solids Teflon Coating to_Boeing Spec BMS 10-86, Type I, DN 3635 ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/23T3 Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/23T3 Series.pdf",
                 "components": [
                   {
                     "name": "23T3-106",
@@ -2823,7 +2823,7 @@
               {
                 "name": "10P2-3, Anti-Static Conductive Flat Black Epoxy Coating to Boeing Spec BMS 10-21, Type III",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p2-3.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p2-3.pdf",
                 "components": [
                   {
                     "name": "10P2-3",
@@ -2842,7 +2842,7 @@
               {
                 "name": "10P20-44, BMS 10-79 Type II & III, Class B, Grade D",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P20-44.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10P20-44.pdf",
                 "components": [
                   {
                     "name": "10P20-44",
@@ -2865,7 +2865,7 @@
               {
                 "name": "10P20-44MNF, BMS 10-72 Type IX",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10P20-44mnf.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10P20-44mnf.pdf",
                 "components": [
                   {
                     "name": "10P20-44MNF",
@@ -2888,7 +2888,7 @@
               {
                 "name": "01-W-074 (Gulfstream GMS 5006C, Type I, FS Color 17925)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01W074_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01W074_NEW.pdf",
                 "components": [
                   {
                     "name": "01-W-074",
@@ -2907,7 +2907,7 @@
               {
                 "name": "01-R-051 (Gulfstream GMS 5006C, Type I, FS Color 11136)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01R051_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01R051_NEW.pdf",
                 "components": [
                   {
                     "name": "01-R-051",
@@ -2926,7 +2926,7 @@
               {
                 "name": "01-BK-038 (Gulfstream GMS 5006C, Type I, FS Color 27038)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01BK038_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01BK038_NEW.pdf",
                 "components": [
                   {
                     "name": "01-BK-038",
@@ -2945,15 +2945,15 @@
               {
                 "name": "515X349, BMS 10-79, Type III, Class A, Grade A.  Conventional Solids Epoxy Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X349.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515X349.pdf",
                 "components": [
                   {
                     "name": "515X349",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X349.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X349.pdf"
                   },
                   {
                     "name": "910X533",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X533.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X533.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2964,19 +2964,19 @@
               {
                 "name": "823-707, AMS-C-27725, Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/823-707 TB.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/823-707 TB.pdf",
                 "components": [
                   {
                     "name": "823-707",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/823-707.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/823-707.pdf"
                   },
                   {
                     "name": "910-702",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-702.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910-702.pdf"
                   },
                   {
                     "name": "020-707",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-707.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/020-707.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2987,11 +2987,11 @@
               {
                 "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Sea to Sky/TDS - SPC 909.pdf",
+                "file": "All Suppliers -TB and MSDS/Misc/PI/TDS - SPC 909.pdf",
                 "components": [
                   {
                     "name": "SPC-909",
-                    "file": "All Suppliers -TB and MSDS/Sea to Sky/MSDS - SPC-909.pdf"
+                    "file": "All Suppliers -TB and MSDS/Misc/SDS/MSDS - SPC-909.pdf"
                   }
                 ],
                 "manufacturer": "Miscellaneous",
@@ -3002,11 +3002,11 @@
               {
                 "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "file": "All Suppliers -TB and MSDS/Misc/PI/1757B PI sheet.pdf",
                 "components": [
                   {
                     "name": "TT-P-1757",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Spectrum Yellow.pdf"
+                    "file": "All Suppliers -TB and MSDS/Misc/SDS/Spectrum Yellow.pdf"
                   }
                 ],
                 "manufacturer": "Miscellaneous",
@@ -3017,11 +3017,11 @@
               {
                 "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Green",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/1757B PI sheet.pdf",
+                "file": "All Suppliers -TB and MSDS/Misc/PI/1757B PI sheet.pdf",
                 "components": [
                   {
                     "name": "TT-P-1757",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/TTP1757 Green.pdf"
+                    "file": "All Suppliers -TB and MSDS/Misc/SDS/TTP1757 Green.pdf"
                   }
                 ],
                 "manufacturer": "Miscellaneous",
@@ -3032,15 +3032,15 @@
               {
                 "name": "833K086/930K088, AMS-C-27725, Type I, Fuel Tank Coating",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/833K086.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/833K086.pdf",
                 "components": [
                   {
                     "name": "833K086",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/833K086.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/833K086.pdf"
                   },
                   {
                     "name": "930K088",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/930K088.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/930K088.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3051,19 +3051,19 @@
               {
                 "name": "825-009, BAC 5710, Ty 51/BAMS 565-013.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/825-009.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/825-009.pdf",
                 "components": [
                   {
                     "name": "825-009",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/825-009.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/825-009.pdf"
                   },
                   {
                     "name": "910-175",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-175.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910-175.pdf"
                   },
                   {
                     "name": "020-044",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-044.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/020-044.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3074,19 +3074,19 @@
               {
                 "name": "823-011/910-099/020-037, Mil-C-27725, Type II, Fuel Tank Coating.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/823-011.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/823-011.pdf",
                 "components": [
                   {
                     "name": "823-011",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/823-011.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/823-011.pdf"
                   },
                   {
                     "name": "910-099",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-099.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910-099.pdf"
                   },
                   {
                     "name": "020-037",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-037.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/020-037.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3097,15 +3097,15 @@
               {
                 "name": "512X310/910X533, Urethane Compatible Chrome-Free Epoxy Gray Primer, BMS 10-103, Type I, Grade A.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/512X310.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/512X310.pdf",
                 "components": [
                   {
                     "name": "512X310",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/512X310.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/512X310.pdf"
                   },
                   {
                     "name": "910X533",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X533.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X533.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3116,15 +3116,15 @@
               {
                 "name": "515X333/910X350, GMS 5001/GM 5002A.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X333.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515X333.pdf",
                 "components": [
                   {
                     "name": "515X333",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X333.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X333.pdf"
                   },
                   {
                     "name": "910X350",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X350.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X350.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3135,19 +3135,19 @@
               {
                 "name": "515X346, BAC 5710 Rev V, Ty 102/BAC 5710, Rev N, Ty 60.  Epoxy Polyamide Corrosion Preventative Bonding Primer. ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X336.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515X336.PDF",
                 "components": [
                   {
                     "name": "515X346",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X336.PDF"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X336.PDF"
                   },
                   {
                     "name": "910X520",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X520.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X520.pdf"
                   },
                   {
                     "name": "020-702",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020-702.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/020-702.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3158,15 +3158,15 @@
               {
                 "name": "515X408/910X937, 2 gallon kit.  Super Koropon Fluid Resistant Primer.  LMA-MR058/5PTMRG58",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X408.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515X408.pdf",
                 "components": [
                   {
                     "name": "515X408",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X408.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X408.pdf"
                   },
                   {
                     "name": "910X937",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X350.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X350.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3177,15 +3177,15 @@
               {
                 "name": "515-700/910-704, STM0685-01, Green Primer  ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515-700.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515-700.pdf",
                 "components": [
                   {
                     "name": "515-700",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515-700.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515-700.pdf"
                   },
                   {
                     "name": "910-704",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910-704.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910-704.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3196,19 +3196,19 @@
               {
                 "name": "519X303/910X357/020X324, 299-947-167/MMS-425B.  High Temperature Epoxy Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/519X303.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/519X303.pdf",
                 "components": [
                   {
                     "name": "519X303",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/519X303.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/519X303.pdf"
                   },
                   {
                     "name": "910X357",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X357.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X357.pdf"
                   },
                   {
                     "name": "020X324",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/020X324.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/020X324.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3219,15 +3219,15 @@
               {
                 "name": "528X310/910X464, BMS 10-21, Type III.  Black Conductive Coating.  ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/515X310.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/528X310.pdf",
                 "components": [
                   {
                     "name": "528X310",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/515X310.PDF"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/528X310.pdf"
                   },
                   {
                     "name": "910X464",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/910X464.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X464.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3238,7 +3238,7 @@
               {
                 "name": "20P1-21/PC-235, HS Integral Fuel Tank Coating, DHMS C4.06, Type I, Class A, Grade B and F/BAMS 565-010",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/20p1-21.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/20p1-21.pdf",
                 "components": [
                   {
                     "name": "20P1-21",
@@ -3257,7 +3257,7 @@
               {
                 "name": "20P20-3/PC-232, Sandable Polyurethane Surfacer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/20p20-3.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/20p20-3.pdf",
                 "components": [
                   {
                     "name": "20P20-3",
@@ -3276,7 +3276,7 @@
               {
                 "name": "24F20-101 VOC Compliant Polyurethane Topcoat, BMS 10-60V Type I & II, Class B, Grade D, BAC 707 Gray",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/24F20-101.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/24F20-101.pdf",
                 "components": [
                   {
                     "name": "24F20-101",
@@ -3295,10 +3295,10 @@
               {
                 "name": "28C1 Composite Pinhole Filler, 1 Gallon Unit.  BAC 5837/299-947-144.",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/28c1.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/28c1.pdf",
                 "components": [
                   {
-                    "name": "28C1",
+                    "name": "CHASE",
                     "file": "All Suppliers -TB and MSDS/AKZO/SDS/28C1.pdf"
                   }
                 ],
@@ -3325,7 +3325,7 @@
               {
                 "name": "44-GN-007 (Mil-PRF-85582, Type I, Class C1)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN007_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN007_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN007",
@@ -3344,7 +3344,7 @@
               {
                 "name": "44-GN-008A (Mil-PRF-85582, Type II, Class C1)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN008A.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN008A.pdf",
                 "components": [
                   {
                     "name": "44GN008A",
@@ -3363,7 +3363,7 @@
               {
                 "name": "44-GN-024 (Mil-PRF-85582, Type I, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN024_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN024_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN024",
@@ -3382,7 +3382,7 @@
               {
                 "name": "44-GN-036 (Mil-PRF-85582, Type I, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN036_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN036_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN036",
@@ -3401,11 +3401,11 @@
               {
                 "name": "44-GN-049 (Mil-PRF-85582, Type II, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN049_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN049_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN049",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN049.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44GN049.pdf"
                   },
                   {
                     "name": "44GN049CAT",
@@ -3420,7 +3420,7 @@
               {
                 "name": "44-GN-072 (Mil-PRF-85582, Type I, Class C2/MMS 423)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN072_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN072_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN072",
@@ -3439,7 +3439,7 @@
               {
                 "name": "44-GN-098 (Mil-PRF-85582, Type I, Class N/LMA-MR003E, Class 2, Type II, Grade A)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44GN098_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN098_NEW.pdf",
                 "components": [
                   {
                     "name": "44GN098",
@@ -3458,7 +3458,7 @@
               {
                 "name": "10PW20-4 (Mil-PRF-85582E, Type I, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10pw20-4.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10pw20-4.pdf",
                 "components": [
                   {
                     "name": "10PW20-4",
@@ -3492,7 +3492,7 @@
               {
                 "name": "53022 Ty II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/4488wep-4 4489ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/4488wep-4 4489ceh - tb.doc",
                 "components": [
                   {
                     "name": "04488wep",
@@ -3511,7 +3511,7 @@
               {
                 "name": "53022 Ty III",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-P-53022B, Type II/03848WEP-HFX-03849CEH-HFX-NO-TB.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/03848WEP-HFX-03849CEH-HFX-NO-TB.doc",
                 "components": [
                   {
                     "name": "03848WEP-HFX",
@@ -3530,7 +3530,7 @@
               {
                 "name": "53022 Ty IV",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/22167WEP-22170CEH-TB.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/22167WEP-22170CEH-TB.pdf",
                 "components": [
                   {
                     "name": "22167WEP",
@@ -3564,7 +3564,7 @@
               {
                 "name": "8514C Wash Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-C-8514C/3174yvp-1 3175ssc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/3174yvp-1 3175ssc - tb.doc",
                 "components": [
                   {
                     "name": "03174yvp",
@@ -3583,7 +3583,7 @@
               {
                 "name": "DOD-P-15328D Wash Primer",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/DOD-P-15328D/2110gvp 2111ssc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/2110gvp 2111ssc - tb.doc",
                 "components": [
                   {
                     "name": "02110gvp",
@@ -3619,11 +3619,11 @@
               {
                 "name": "FS 11136",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16635ref-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16635ref-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16635ref-lvoc",
-                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16062CEH-LVOC.pdf"
+                    "file": "All Suppliers -TB and MSDS/Hentzen/SDS/16635REF-LVOC.pdf"
                   },
                   {
                     "name": "16062ceh-lvoc",
@@ -3638,7 +3638,7 @@
               {
                 "name": "FS 16081",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-GY-089",
@@ -3657,7 +3657,7 @@
               {
                 "name": "FS 16440",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-GY-073",
@@ -3676,7 +3676,7 @@
               {
                 "name": "FS 16473",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-GY-100",
@@ -3695,7 +3695,7 @@
               {
                 "name": "FS 17038",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-BK-043",
@@ -3714,7 +3714,7 @@
               {
                 "name": "FS 17178",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-GY-093",
@@ -3733,7 +3733,7 @@
               {
                 "name": "FS 17178",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/422X Series.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/422X Series.pdf",
                 "components": [
                   {
                     "name": "4222T17178",
@@ -3752,7 +3752,7 @@
               {
                 "name": "FS 17875",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16627wef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16627wef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16627wef-lvoc",
@@ -3771,7 +3771,7 @@
               {
                 "name": "FS 17925",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16087WEF-LVOC-16062CEH-LVOC.TB.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16087WEF-LVOC-16062CEH-LVOC.TB.doc",
                 "components": [
                   {
                     "name": "16087wef-lvoc",
@@ -3790,7 +3790,7 @@
               {
                 "name": "FS 24410",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16657gef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16657gef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16657gef-lvoc",
@@ -3809,7 +3809,7 @@
               {
                 "name": "FS 24533",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16125gef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16125gef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16125gef-lvoc",
@@ -3828,7 +3828,7 @@
               {
                 "name": "FS 26307",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16630aef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16630aef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16630aef-lvoc",
@@ -3847,7 +3847,7 @@
               {
                 "name": "FS 27038",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16632kef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16632kef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16632kef-lvoc",
@@ -3866,7 +3866,7 @@
               {
                 "name": "FS 27875",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16628wef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16628wef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16628wef-lvoc",
@@ -3885,7 +3885,7 @@
               {
                 "name": "FS 36118",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16677aef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16677aef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16677aef-lvoc",
@@ -3904,7 +3904,7 @@
               {
                 "name": "FS 36231",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16678aef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16678aef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16678aef-lvoc",
@@ -3923,7 +3923,7 @@
               {
                 "name": "FS 36375",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-GY-082",
@@ -3942,7 +3942,7 @@
               {
                 "name": "FS 37038",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-PRF-22750F - Epoxy/16633kef-lvoc 16062ceh-lvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16633kef-lvoc 16062ceh-lvoc - tb.doc",
                 "components": [
                   {
                     "name": "16633kef-lvoc",
@@ -3961,7 +3961,7 @@
               {
                 "name": "Gloss Clear",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/01F Series Epoxy Topcoat.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/01F Series Epoxy Topcoat.pdf",
                 "components": [
                   {
                     "name": "01-X-060",
@@ -3995,7 +3995,7 @@
               {
                 "name": "FS 31136",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/04909RUA-ULVOC.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/04909RUA-ULVOC.pdf",
                 "components": [
                   {
                     "name": "04909RUA-ULVOC",
@@ -4010,7 +4010,7 @@
               {
                 "name": "FS 33303 (Sand)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/8618tuz-ulvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8618tuz-ulvoc - tb.doc",
                 "components": [
                   {
                     "name": "8618tuz-ulvoc",
@@ -4025,7 +4025,7 @@
               {
                 "name": "FS 33446 (686A Tan)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/8609tuz-ulvoc-tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8609tuz-ulvoc-tb.pdf",
                 "components": [
                   {
                     "name": "08609TUZ-ULVOC",
@@ -4040,7 +4040,7 @@
               {
                 "name": "FS 33446 (686A Tan)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/8609tuz-b33 - tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8609tuz-b33 - tb.pdf",
                 "components": [
                   {
                     "name": "08609tuz-b33",
@@ -4055,7 +4055,7 @@
               {
                 "name": "FS 33531",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/03813TUA-ULVOC.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/03813TUA-ULVOC.pdf",
                 "components": [
                   {
                     "name": "03813TUA-ULVOC",
@@ -4070,7 +4070,7 @@
               {
                 "name": "FS 33538 (Aircraft Yellow)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/04098YUZ-ULVOC.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/04098YUZ-ULVOC.pdf",
                 "components": [
                   {
                     "name": "04098YUZ-ULVOC",
@@ -4085,7 +4085,7 @@
               {
                 "name": "FS 34031 (Aircraft Green)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/8625guz-b33 - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8625guz-b33 - tb.doc",
                 "components": [
                   {
                     "name": "08625guz-b33",
@@ -4100,7 +4100,7 @@
               {
                 "name": "FS 34088 (Olive Drab)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/08671GUZ-B33 tb.PDF",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/08671GUZ-B33 tb.PDF",
                 "components": [
                   {
                     "name": "08671GUZ-B33",
@@ -4115,7 +4115,7 @@
               {
                 "name": "FS 34094 (383 Green)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/8605guz-ulvoc - tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8605guz-ulvoc - tb.PDF",
                 "components": [
                   {
                     "name": "08605GUZ-ULVOC",
@@ -4130,7 +4130,7 @@
               {
                 "name": "FS 34094 (383 Green)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/8605guz-b33 - tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8605guz-b33 - tb.pdf",
                 "components": [
                   {
                     "name": "08605guz-b33",
@@ -4145,7 +4145,7 @@
               {
                 "name": "FS 34201 (Woodland Sage)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/17798GUZ-ULVOC.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/17798GUZ-ULVOC.pdf",
                 "components": [
                   {
                     "name": "17798GUZ-ULVOC",
@@ -4160,7 +4160,7 @@
               {
                 "name": "FS 36231 (Aircraft Gray)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/8624auz-ulvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8624auz-ulvoc - tb.DOC",
                 "components": [
                   {
                     "name": "08624AUZ-ULVOC",
@@ -4175,7 +4175,7 @@
               {
                 "name": "FS 37030 (Black)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/08610KUZ-B33.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/08610KUZ-B33.pdf",
                 "components": [
                   {
                     "name": "08610KUZ-B33",
@@ -4190,7 +4190,7 @@
               {
                 "name": "FS 37038 (Aircraft Black)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/53039 Type IV TB and MSDS/8628kuz-ulvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8628kuz-ulvoc - tb.DOC",
                 "components": [
                   {
                     "name": "08628KUZ-ULVOC",
@@ -4205,7 +4205,7 @@
               {
                 "name": "FS 37038 (Aircraft Black)",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-53039B - CARC/Ty IX/8628kuz-b33 - tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8628kuz-b33 - tb.pdf",
                 "components": [
                   {
                     "name": "08628KUZ-B33",
@@ -4220,7 +4220,7 @@
               {
                 "name": "FS 37875 (Aircraft White)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/8620wua-ulvoc - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8620wua-ulvoc - tb.doc",
                 "components": [
                   {
                     "name": "08620wua-ulvoc",
@@ -4235,7 +4235,7 @@
               {
                 "name": "Israeli Tan",
                 "desc": "Type IX",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/08633TUA-B33.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/08633TUA-B33.pdf",
                 "components": [
                   {
                     "name": "08633TUA-B33",
@@ -4265,7 +4265,7 @@
               {
                 "name": "Type I, Class C1",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/53012yep 16709ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/53012yep 16709ceh - tb.doc",
                 "components": [
                   {
                     "name": "53012YEP",
@@ -4284,7 +4284,7 @@
               {
                 "name": "Type I, Class C2",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377J, Type I, Class C2/ad9318FD ad2298FD - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/ad9318FD ad2298FD - tb.doc",
                 "components": [
                   {
                     "name": "ad9318",
@@ -4303,7 +4303,7 @@
               {
                 "name": "Type I, Class N",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/16708tep 16709ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16708tep 16709ceh - tb.doc",
                 "components": [
                   {
                     "name": "16708tep",
@@ -4322,7 +4322,7 @@
               {
                 "name": "Type II, Class C2",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Primers - TB & MSDS/MIL-PRF-23377H, Type II, Class C2/AD9325-FD MIL-PRF-23377 T2 CLS C2 TDS.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/AD9325-FD MIL-PRF-23377 T2 CLS C2 TDS.doc",
                 "components": [
                   {
                     "name": "ad9325",
@@ -4341,7 +4341,7 @@
               {
                 "name": "Type II, Class N",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI sheets/17176kep 16709ceh - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/17176kep 16709ceh - tb.doc",
                 "components": [
                   {
                     "name": "17176KEP",
@@ -4360,7 +4360,7 @@
               {
                 "name": "10P20-13",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI Sheets/10p20-13.pdf",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p20-13.pdf",
                 "components": [
                   {
                     "name": "10P20-13",
@@ -4379,7 +4379,7 @@
               {
                 "name": "02-Y-024",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02Y024.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y024.pdf",
                 "components": [
                   {
                     "name": "02-Y-024",
@@ -4398,7 +4398,7 @@
               {
                 "name": "02-Y-040A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02Y040A_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y040A_NEW.pdf",
                 "components": [
                   {
                     "name": "02Y040A",
@@ -4417,7 +4417,7 @@
               {
                 "name": "02-GN-070A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN070A_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070A_NEW.pdf",
                 "components": [
                   {
                     "name": "02-GN-070A",
@@ -4425,7 +4425,7 @@
                   },
                   {
                     "name": "02GN070ACAT",
-                    "file": ""
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02GN070ACAT.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -4436,7 +4436,7 @@
               {
                 "name": "02-GN-070B",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN070B_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070B_NEW.pdf",
                 "components": [
                   {
                     "name": "02-GN-070B",
@@ -4455,7 +4455,7 @@
               {
                 "name": "02-GN-084",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/02GN084.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN084.pdf",
                 "components": [
                   {
                     "name": "02GN084",
@@ -4474,15 +4474,15 @@
               {
                 "name": "SPEEAY051A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG Aerospace/PI/EEAY051.pdf",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/EEAY051.pdf",
                 "components": [
                   {
                     "name": "SPEEAY051A",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051A).pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/SPEEAY051A (EEAY051A).pdf"
                   },
                   {
                     "name": "EEAY051B",
-                    "file": "All Suppliers -TB and MSDS/PPG Aerospace/SDS/SPEEAY051A (EEAY051B).pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/SPEEAY051A (EEAY051B).pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -4508,7 +4508,7 @@
               {
                 "name": "FS 34094 (383 Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7131gwu 7170cmu - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/7131gwu 7170cmu - tb.doc",
                 "components": [
                   {
                     "name": "07131gwu",
@@ -4527,7 +4527,7 @@
               {
                 "name": "FS 33446 (686 Tan)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7178twu 7170cmu - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/7178twu 7170cmu - tb.doc",
                 "components": [
                   {
                     "name": "07178twu",
@@ -4546,7 +4546,7 @@
               {
                 "name": "FS 37030 (Black)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/7180kwu 7170 - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/7180kwu 7170 - tb.doc",
                 "components": [
                   {
                     "name": "07180kwu",
@@ -4565,7 +4565,7 @@
               {
                 "name": "FS 37038 (Aircraft Black)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/17101kwa 17102cmu - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/17101kwa 17102cmu - tb.doc",
                 "components": [
                   {
                     "name": "17101kwa",
@@ -4584,7 +4584,7 @@
               {
                 "name": "FS 34031 (Aircraft Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/16931gwu 16932cmu - tb.doc",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/16931gwu 16932cmu - tb.doc",
                 "components": [
                   {
                     "name": "16931gwu",
@@ -4603,7 +4603,7 @@
               {
                 "name": "FS 34160 (Foliage Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Hentzen/Hentzen CD/Topcoats - TB & MSDS/MIL-DTL-64159 - CARC Waterborne/Type II Beaded/18496gwu 7170cmu - tb.pdf",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/18496gwu 7170cmu - tb.pdf",
                 "components": [
                   {
                     "name": "18496gwu",
@@ -4637,7 +4637,7 @@
               {
                 "name": "Type I",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-213.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-213.pdf",
                 "components": [
                   {
                     "name": "IS-213",
@@ -4652,7 +4652,7 @@
               {
                 "name": "Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/IS-237.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-237.pdf",
                 "components": [
                   {
                     "name": "IS-237",
@@ -4667,11 +4667,11 @@
               {
                 "name": "Type III",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf",
+                "file": "All Suppliers -TB and MSDS/Misc/SDS/Type III Thinner.pdf",
                 "components": [
                   {
                     "name": "81772-3",
-                    "file": "All Suppliers -TB and MSDS/Spectrum Coatings/Type III Thinner.pdf"
+                    "file": "All Suppliers -TB and MSDS/Misc/SDS/Type III Thinner.pdf"
                   }
                 ],
                 "manufacturer": "Miscellaneous",
@@ -4697,7 +4697,7 @@
               {
                 "name": "53030B Ty I",
                 "desc": "44-W-007",
-                "file": "All Suppliers -TB and MSDS/Deft/PI Sheets/44W007_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44W007_NEW.pdf",
                 "components": [
                   {
                     "name": "44W007",
