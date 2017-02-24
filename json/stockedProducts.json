@@ -114,7 +114,7 @@
               {
                 "name": "10P4-3NF, Fluid Resistant Epoxy Primer, Nytal Free, BAC 377 Yellow to Boeing Spec BMS 10-11, Type I, Class A, Grade A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p4-3NF.PDF",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10P4-3NF.pdf",
                 "components": [
                   {
                     "name": "10P4-3NF",
@@ -312,7 +312,7 @@
                   },
                   {
                     "name": "EC-286",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-286.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-286.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -715,7 +715,7 @@
               {
                 "name": "Type I",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-213.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-213_Polyurethane_Reducer.pdf",
                 "components": [
                   {
                     "name": "IS-213",
@@ -730,7 +730,7 @@
               {
                 "name": "Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-237.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-237_Epoxy_Reducer.pdf",
                 "components": [
                   {
                     "name": "IS-237",
@@ -753,15 +753,15 @@
               {
                 "name": "02-Y-024",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y024.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y024 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "02-Y-024",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02y024a.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y024a.pdf"
                   },
                   {
                     "name": "02Y024CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02y024b.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y024b.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -772,7 +772,7 @@
               {
                 "name": "02-Y-040A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y040A_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y040A NEW PPG.pdf",
                 "components": [
                   {
                     "name": "02Y040A",
@@ -791,7 +791,7 @@
               {
                 "name": "02-GN-070A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070A_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070A NEW PPG.pdf",
                 "components": [
                   {
                     "name": "02-GN-070A",
@@ -810,7 +810,7 @@
               {
                 "name": "02-GN-070B",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070B_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070B NEW PPG.pdf",
                 "components": [
                   {
                     "name": "02-GN-070B",
@@ -829,7 +829,7 @@
               {
                 "name": "02-GN-084",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN084.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN084 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "02GN084",
@@ -883,7 +883,7 @@
               {
                 "name": "44-GN-007 (Mil-PRF-85582, Type I, Class C1)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN007_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN007 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "44GN007",
@@ -921,7 +921,7 @@
               {
                 "name": "44-GN-011 (BMS 10-11AB, Type I, Class A, Grade E, BAC 452 Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN011_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN011 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "44GN011",
@@ -940,7 +940,7 @@
               {
                 "name": "44-GN-024 (Mil-PRF-85582, Type I, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN024_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN024 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "44GN024",
@@ -959,7 +959,7 @@
               {
                 "name": "44-GN-036 (Mil-PRF-85582, Type I, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN036_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN036 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "44GN036",
@@ -1054,7 +1054,7 @@
               {
                 "name": "44-GN-098 (Mil-PRF-85582, Type I, Class N/LMA-MR003E, Class 2, Type II, Grade A)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN098_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN098 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "44GN098",
@@ -1092,7 +1092,7 @@
               {
                 "name": "45-GY-5 (BMS 10-103D, Type I, Grade E)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/45GY005.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/45GY005 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "45GY005",
@@ -1313,7 +1313,7 @@
               {
                 "name": "FS 34094 (383 Green)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8605guz-ulvoc - tb.PDF",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8605GUZ-ULVOC.doc",
                 "components": [
                   {
                     "name": "08605GUZ-ULVOC",
@@ -1358,7 +1358,7 @@
               {
                 "name": "FS 36231 (Aircraft Gray)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8624auz-ulvoc - tb.DOC",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/08624AUZ-ULVOC.pdf",
                 "components": [
                   {
                     "name": "08624AUZ-ULVOC",
@@ -1388,7 +1388,7 @@
               {
                 "name": "FS 37038 (Aircraft Black)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8628kuz-ulvoc - tb.DOC",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/08628KUZ-ULVOC.pdf",
                 "components": [
                   {
                     "name": "08628KUZ-ULVOC",
@@ -2188,11 +2188,11 @@
               {
                 "name": "515X346, BAC 5710 Rev V, Ty 102/BAC 5710, Rev N, Ty 60.  Epoxy Polyamide Corrosion Preventative Bonding Primer. ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG/PI/515X336.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515X346.pdf",
                 "components": [
                   {
                     "name": "515X346",
-                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X336.PDF"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X346.pdf"
                   },
                   {
                     "name": "910X520",
@@ -2219,7 +2219,7 @@
                   },
                   {
                     "name": "910X937",
-                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X350.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X937.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -2393,7 +2393,7 @@
               {
                 "name": "44-GN-011 (BMS 10-11AB, Type I, Class A, Grade E, BAC 452 Green)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN011_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN011 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "44GN011",
@@ -2469,7 +2469,7 @@
               {
                 "name": "45-GY-5 (BMS 10-103D, Type I, Grade E)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/45GY005.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/45GY005 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "45GY005",
@@ -2515,7 +2515,7 @@
               {
                 "name": "10P4-3NF, Fluid Resistant Epoxy Primer, Nytal Free, BAC 377 Yellow to Boeing Spec BMS 10-11, Type I, Class A, Grade A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/AKZO/PI/10p4-3NF.PDF",
+                "file": "All Suppliers -TB and MSDS/AKZO/PI/10P4-3NF.pdf",
                 "components": [
                   {
                     "name": "10P4-3NF",
@@ -2713,7 +2713,7 @@
                   },
                   {
                     "name": "EC-286",
-                    "file": "All Suppliers -TB and MSDS/AKZO/MSDS Sheets/EC-286.pdf"
+                    "file": "All Suppliers -TB and MSDS/AKZO/SDS/EC-286.pdf"
                   }
                 ],
                 "manufacturer": "AkzoNobel",
@@ -3135,11 +3135,11 @@
               {
                 "name": "515X346, BAC 5710 Rev V, Ty 102/BAC 5710, Rev N, Ty 60.  Epoxy Polyamide Corrosion Preventative Bonding Primer. ",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/PPG/PI/515X336.PDF",
+                "file": "All Suppliers -TB and MSDS/PPG/PI/515X346.pdf",
                 "components": [
                   {
                     "name": "515X346",
-                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X336.PDF"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/515X346.pdf"
                   },
                   {
                     "name": "910X520",
@@ -3166,7 +3166,7 @@
                   },
                   {
                     "name": "910X937",
-                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X350.pdf"
+                    "file": "All Suppliers -TB and MSDS/PPG/SDS/910X937.pdf"
                   }
                 ],
                 "manufacturer": "PPG",
@@ -3325,7 +3325,7 @@
               {
                 "name": "44-GN-007 (Mil-PRF-85582, Type I, Class C1)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN007_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN007 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "44GN007",
@@ -3363,7 +3363,7 @@
               {
                 "name": "44-GN-024 (Mil-PRF-85582, Type I, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN024_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN024 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "44GN024",
@@ -3382,7 +3382,7 @@
               {
                 "name": "44-GN-036 (Mil-PRF-85582, Type I, Class C2)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN036_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN036 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "44GN036",
@@ -3439,7 +3439,7 @@
               {
                 "name": "44-GN-098 (Mil-PRF-85582, Type I, Class N/LMA-MR003E, Class 2, Type II, Grade A)",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN098_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN098 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "44GN098",
@@ -4115,7 +4115,7 @@
               {
                 "name": "FS 34094 (383 Green)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8605guz-ulvoc - tb.PDF",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8605GUZ-ULVOC.doc",
                 "components": [
                   {
                     "name": "08605GUZ-ULVOC",
@@ -4160,7 +4160,7 @@
               {
                 "name": "FS 36231 (Aircraft Gray)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8624auz-ulvoc - tb.DOC",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/08624AUZ-ULVOC.pdf",
                 "components": [
                   {
                     "name": "08624AUZ-ULVOC",
@@ -4190,7 +4190,7 @@
               {
                 "name": "FS 37038 (Aircraft Black)",
                 "desc": "Type IV",
-                "file": "All Suppliers -TB and MSDS/Hentzen/PI/8628kuz-ulvoc - tb.DOC",
+                "file": "All Suppliers -TB and MSDS/Hentzen/PI/08628KUZ-ULVOC.pdf",
                 "components": [
                   {
                     "name": "08628KUZ-ULVOC",
@@ -4379,15 +4379,15 @@
               {
                 "name": "02-Y-024",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y024.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y024 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "02-Y-024",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02y024a.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y024a.pdf"
                   },
                   {
                     "name": "02Y024CAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02y024b.PDF"
+                    "file": "All Suppliers -TB and MSDS/Deft/SDS/02Y024b.pdf"
                   }
                 ],
                 "manufacturer": "Deft",
@@ -4398,7 +4398,7 @@
               {
                 "name": "02-Y-040A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y040A_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02Y040A NEW PPG.pdf",
                 "components": [
                   {
                     "name": "02Y040A",
@@ -4417,7 +4417,7 @@
               {
                 "name": "02-GN-070A",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070A_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070A NEW PPG.pdf",
                 "components": [
                   {
                     "name": "02-GN-070A",
@@ -4436,7 +4436,7 @@
               {
                 "name": "02-GN-070B",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070B_NEW.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN070B NEW PPG.pdf",
                 "components": [
                   {
                     "name": "02-GN-070B",
@@ -4455,7 +4455,7 @@
               {
                 "name": "02-GN-084",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN084.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/02GN084 NEW PPG.pdf",
                 "components": [
                   {
                     "name": "02GN084",
@@ -4637,7 +4637,7 @@
               {
                 "name": "Type I",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-213.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-213_Polyurethane_Reducer.pdf",
                 "components": [
                   {
                     "name": "IS-213",
@@ -4652,7 +4652,7 @@
               {
                 "name": "Type II",
                 "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-237.pdf",
+                "file": "All Suppliers -TB and MSDS/Deft/PI/IS-237_Epoxy_Reducer.pdf",
                 "components": [
                   {
                     "name": "IS-237",
