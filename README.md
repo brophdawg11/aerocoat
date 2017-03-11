@@ -1,6 +1,8 @@
 # aerocoat
 
-Aerocoat.com website ![Status](https://travis-ci.org/brophdawg11/aerocoat.com.svg?branch=master "Status")
+Aerocoat.com website 
+
+![Status](https://travis-ci.org/brophdawg11/aerocoat.com.svg?branch=master "Status")
 
 ### Adding a new product
 * Open SourceTree
