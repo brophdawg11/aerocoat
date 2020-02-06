@@ -2327,21 +2327,6 @@
             "useThirds": false,
             "products": [
               {
-                "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Misc/PI/TDS - SPC 909.pdf",
-                "components": [
-                  {
-                    "name": "SPC-909",
-                    "file": "All Suppliers -TB and MSDS/Misc/SDS/MSDS - SPC-909.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              },
-              {
                 "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Misc/PI/1757B PI sheet.pdf",
@@ -2374,7 +2359,7 @@
             ]
           }
         ],
-        "numProducts": 6
+        "numProducts": 5
       }
     ]
   ],
@@ -2985,21 +2970,6 @@
                 "group": "Commercial and General Aviation Aerospace Products"
               },
               {
-                "name": "SPC-909, SEA to SKY, Neutral Paint Stripper to Boeing Spec D6-17487.",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Misc/PI/TDS - SPC 909.pdf",
-                "components": [
-                  {
-                    "name": "SPC-909",
-                    "file": "All Suppliers -TB and MSDS/Misc/SDS/MSDS - SPC-909.pdf"
-                  }
-                ],
-                "manufacturer": "Miscellaneous",
-                "type": "",
-                "shareGroupFiles": false,
-                "group": "Commercial and General Aviation Aerospace Products"
-              },
-              {
                 "name": "TT-P-1757B Type I, Class C, Zinc Chromate Primer, Yellow",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Misc/PI/1757B PI sheet.pdf",
@@ -3310,7 +3280,7 @@
             ]
           }
         ],
-        "numProducts": 49
+        "numProducts": 48
       },
       {
         "category": "85582",
