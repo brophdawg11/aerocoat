@@ -22,9 +22,7 @@
     "generate": "punch generate",
     "build": "npm run clean && npm run csv && npm run generate",
     "serve": "punch server",
-    "serve-output": "cd ../output && python -m SimpleHTTPServer",
-    "sync-test": "cp test-robots.txt output/robots.txt && aws --profile aerocoat s3 sync output/. s3://test.aerocoat.com/ --exclude \"*Suppliers*\" --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers && rm -f output/robots.txt",
-    "sync": "aws --profile aerocoat s3 sync output/. s3://www.aerocoat.com/ --exclude \"*Suppliers*\" --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers"
+    "serve-output": "cd ../output && python -m SimpleHTTPServer"
   },
   "dependencies": {},
   "devDependencies": {
