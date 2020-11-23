@@ -900,25 +900,6 @@
                 "group": "Aerospace waterborne primers to the following military and commercial specs:"
               },
               {
-                "name": "44-GN-008A (Mil-PRF-85582, Type II, Class C1)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN008A.pdf",
-                "components": [
-                  {
-                    "name": "44GN008A",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44gn008a.pdf"
-                  },
-                  {
-                    "name": "44GN008ACAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44gn008ab.pdf"
-                  }
-                ],
-                "manufacturer": "Deft",
-                "type": "85582",
-                "shareGroupFiles": false,
-                "group": "Aerospace waterborne primers to the following military and commercial specs:"
-              },
-              {
                 "name": "44-GN-011 (BMS 10-11AB, Type I, Class A, Grade E, BAC 452 Green)",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Deft/PI/44GN011 NEW PPG.pdf",
@@ -1176,7 +1157,7 @@
             ]
           }
         ],
-        "numProducts": 36
+        "numProducts": 35
       }
     ],
     [
@@ -3312,25 +3293,6 @@
                 "group": "Aerospace waterborne primers to the following military and commercial specs:"
               },
               {
-                "name": "44-GN-008A (Mil-PRF-85582, Type II, Class C1)",
-                "desc": "",
-                "file": "All Suppliers -TB and MSDS/Deft/PI/44GN008A.pdf",
-                "components": [
-                  {
-                    "name": "44GN008A",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44gn008a.pdf"
-                  },
-                  {
-                    "name": "44GN008ACAT",
-                    "file": "All Suppliers -TB and MSDS/Deft/SDS/44gn008ab.pdf"
-                  }
-                ],
-                "manufacturer": "Deft",
-                "type": "85582",
-                "shareGroupFiles": false,
-                "group": "Aerospace waterborne primers to the following military and commercial specs:"
-              },
-              {
                 "name": "44-GN-024 (Mil-PRF-85582, Type I, Class C2)",
                 "desc": "",
                 "file": "All Suppliers -TB and MSDS/Deft/PI/44GN024 NEW PPG.pdf",
@@ -3447,7 +3409,7 @@
             ]
           }
         ],
-        "numProducts": 9
+        "numProducts": 8
       },
       {
         "category": "53022",
