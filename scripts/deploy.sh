@@ -54,7 +54,7 @@ fi
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
 echo "Committing the new site to gh-pages branch"
-git add .
+git add --ignore-removal .
 echo "Status after git add"
 git status
 git commit -m "Deploy to GitHub Pages: ${SHA}"
