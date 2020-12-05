@@ -67,10 +67,10 @@ function appendRow(row) {
         if (_.find(allFiles, compareFilename)) {
           dryRunLog('Fixed ' + file);
         } else {
-          dryRunLog('Unable to fix ' + file);
+          throw new Error('Unable to fix missing filename', file);
         }
       } else {
-        dryRunLog('not enough toks! ' + file);
+        throw new Error('Invalid filename - missing extension', file);
       }
     }
     return file;

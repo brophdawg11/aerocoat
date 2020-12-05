@@ -11,8 +11,7 @@ OUTPUT_DIR="output"
 
 # Pull requests and commits to other branches shouldn't try to deploy, just build to verify
 if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" ]; then
-    echo "Skipping deploy; just doing a build."
-    doCompile
+    echo "Skipping deploy"
     exit 0
 fi
 
@@ -43,6 +42,7 @@ cd $OUTPUT_DIR
 git config user.name "Travis CI"
 git config user.email "$COMMIT_AUTHOR_EMAIL"
 
+echo "Status before git add"
 git status
 
 # If there are no changes to the compiled out (e.g. this is a README update) then just bail.
@@ -54,7 +54,9 @@ fi
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
 echo "Committing the new site to gh-pages branch"
-git add --ignore-removal .
+git add .
+echo "Status after git add"
+git status
 git commit -m "Deploy to GitHub Pages: ${SHA}"
 
 # Get the deploy key by using Travis's stored variables to decrypt deploy_key.enc
