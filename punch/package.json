@@ -33,7 +33,7 @@
     "fs-extra": "0.14.0",
     "glob": "4.3.5",
     "less": "1.6.3",
-    "lodash": "2.4.1",
+    "lodash": "4.17.19",
     "minimist": "1.1.0",
     "punch": "0.5.44",
     "punch-engine-handlebars": "0.0.2"
